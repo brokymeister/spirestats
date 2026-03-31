@@ -1,0 +1,1447 @@
+[
+  {
+    "id": "AKABEKO",
+    "name": "Akabeko",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ALCHEMICAL_COFFER",
+    "name": "Alchemical Coffer",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "AMETHYST_AUBERGINE",
+    "name": "Amethyst Aubergine",
+    "rarity": "Common"
+  },
+  {
+    "id": "ANCHOR",
+    "name": "Anchor",
+    "rarity": "Common"
+  },
+  {
+    "id": "ARCANE_SCROLL",
+    "name": "Arcane Scroll",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ARCHAIC_TOOTH",
+    "name": "Archaic Tooth",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ART_OF_WAR",
+    "name": "Art of War",
+    "rarity": "Rare"
+  },
+  {
+    "id": "ASTROLABE",
+    "name": "Astrolabe",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BAG_OF_MARBLES",
+    "name": "Bag of Marbles",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "BAG_OF_PREPARATION",
+    "name": "Bag of Preparation",
+    "rarity": "Common"
+  },
+  {
+    "id": "BEATING_REMNANT",
+    "name": "Beating Remnant",
+    "rarity": "Rare"
+  },
+  {
+    "id": "BEAUTIFUL_BRACELET",
+    "name": "Beautiful Bracelet",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BELLOWS",
+    "name": "Bellows",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "BELT_BUCKLE",
+    "name": "Belt Buckle",
+    "rarity": "Shop"
+  },
+  {
+    "id": "BIG_HAT",
+    "name": "Big Hat",
+    "rarity": "Rare"
+  },
+  {
+    "id": "BIG_MUSHROOM",
+    "name": "Big Mushroom",
+    "rarity": "Event"
+  },
+  {
+    "id": "BIIIG_HUG",
+    "name": "Biiig Hug",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BING_BONG",
+    "name": "Bing Bong",
+    "rarity": "Event"
+  },
+  {
+    "id": "BLACK_BLOOD",
+    "name": "Black Blood",
+    "rarity": "Starter"
+  },
+  {
+    "id": "BLACK_STAR",
+    "name": "Black Star",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BLESSED_ANTLER",
+    "name": "Blessed Antler",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BLOOD_SOAKED_ROSE",
+    "name": "Blood-Soaked Rose",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BLOOD_VIAL",
+    "name": "Blood Vial",
+    "rarity": "Common"
+  },
+  {
+    "id": "BONE_FLUTE",
+    "name": "Bone Flute",
+    "rarity": "Common"
+  },
+  {
+    "id": "BONE_TEA",
+    "name": "Bone Tea",
+    "rarity": "Event"
+  },
+  {
+    "id": "BOOK_OF_FIVE_RINGS",
+    "name": "Book of Five Rings",
+    "rarity": "Common"
+  },
+  {
+    "id": "BOOK_REPAIR_KNIFE",
+    "name": "Book Repair Knife",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "BOOKMARK",
+    "name": "Bookmark",
+    "rarity": "Rare"
+  },
+  {
+    "id": "BOOMING_CONCH",
+    "name": "Booming Conch",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BOUND_PHYLACTERY",
+    "name": "Bound Phylactery",
+    "rarity": "Starter"
+  },
+  {
+    "id": "BOWLER_HAT",
+    "name": "Bowler Hat",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "BREAD",
+    "name": "Bread",
+    "rarity": "Shop"
+  },
+  {
+    "id": "BRILLIANT_SCARF",
+    "name": "Brilliant Scarf",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "BRIMSTONE",
+    "name": "Brimstone",
+    "rarity": "Shop"
+  },
+  {
+    "id": "BRONZE_SCALES",
+    "name": "Bronze Scales",
+    "rarity": "Common"
+  },
+  {
+    "id": "BURNING_BLOOD",
+    "name": "Burning Blood",
+    "rarity": "Starter"
+  },
+  {
+    "id": "BURNING_STICKS",
+    "name": "Burning Sticks",
+    "rarity": "Shop"
+  },
+  {
+    "id": "BYRDPIP",
+    "name": "Byrdpip",
+    "rarity": "Event"
+  },
+  {
+    "id": "CALLING_BELL",
+    "name": "Calling Bell",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "CANDELABRA",
+    "name": "Candelabra",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "CAPTAINS_WHEEL",
+    "name": "Captain's Wheel",
+    "rarity": "Rare"
+  },
+  {
+    "id": "CAULDRON",
+    "name": "Cauldron",
+    "rarity": "Shop"
+  },
+  {
+    "id": "CENTENNIAL_PUZZLE",
+    "name": "Centennial Puzzle",
+    "rarity": "Common"
+  },
+  {
+    "id": "CHANDELIER",
+    "name": "Chandelier",
+    "rarity": "Rare"
+  },
+  {
+    "id": "CHARONS_ASHES",
+    "name": "Charon's Ashes",
+    "rarity": "Rare"
+  },
+  {
+    "id": "CHEMICAL_X",
+    "name": "Chemical X",
+    "rarity": "Shop"
+  },
+  {
+    "id": "CHOICES_PARADOX",
+    "name": "Choices Paradox",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "CHOSEN_CHEESE",
+    "name": "The Chosen Cheese",
+    "rarity": "Event"
+  },
+  {
+    "id": "CIRCLET",
+    "name": "Circlet",
+    "rarity": "None"
+  },
+  {
+    "id": "CLAWS",
+    "name": "Claws",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "CLOAK_CLASP",
+    "name": "Cloak Clasp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "CRACKED_CORE",
+    "name": "Cracked Core",
+    "rarity": "Starter"
+  },
+  {
+    "id": "CROSSBOW",
+    "name": "Crossbow",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "CURSED_PEARL",
+    "name": "Cursed Pearl",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "DARKSTONE_PERIAPT",
+    "name": "Darkstone Periapt",
+    "rarity": "Event"
+  },
+  {
+    "id": "DATA_DISK",
+    "name": "Data Disk",
+    "rarity": "Common"
+  },
+  {
+    "id": "DAUGHTER_OF_THE_WIND",
+    "name": "Daughter of the Wind",
+    "rarity": "Event"
+  },
+  {
+    "id": "DELICATE_FROND",
+    "name": "Delicate Frond",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "DEMON_TONGUE",
+    "name": "Demon Tongue",
+    "rarity": "Rare"
+  },
+  {
+    "id": "DIAMOND_DIADEM",
+    "name": "Diamond Diadem",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "DINGY_RUG",
+    "name": "Dingy Rug",
+    "rarity": "Shop"
+  },
+  {
+    "id": "DISTINGUISHED_CAPE",
+    "name": "Distinguished Cape",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "DIVINE_DESTINY",
+    "name": "Divine Destiny",
+    "rarity": "Starter"
+  },
+  {
+    "id": "DIVINE_RIGHT",
+    "name": "Divine Right",
+    "rarity": "Starter"
+  },
+  {
+    "id": "DOLLYS_MIRROR",
+    "name": "Dolly's Mirror",
+    "rarity": "Shop"
+  },
+  {
+    "id": "DRAGON_FRUIT",
+    "name": "Dragon Fruit",
+    "rarity": "Shop"
+  },
+  {
+    "id": "DREAM_CATCHER",
+    "name": "Dream Catcher",
+    "rarity": "Event"
+  },
+  {
+    "id": "DRIFTWOOD",
+    "name": "Driftwood",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "DUSTY_TOME",
+    "name": "Dusty Tome",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ECTOPLASM",
+    "name": "Ectoplasm",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ELECTRIC_SHRYMP",
+    "name": "Electric Shrymp",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "EMBER_TEA",
+    "name": "Ember Tea",
+    "rarity": "Event"
+  },
+  {
+    "id": "EMOTION_CHIP",
+    "name": "Emotion Chip",
+    "rarity": "Rare"
+  },
+  {
+    "id": "EMPTY_CAGE",
+    "name": "Empty Cage",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ETERNAL_FEATHER",
+    "name": "Eternal Feather",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "FAKE_ANCHOR",
+    "name": "Anchor???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_BLOOD_VIAL",
+    "name": "Blood Vial???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_HAPPY_FLOWER",
+    "name": "Happy Flower???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_LEES_WAFFLE",
+    "name": "Lee's Waffle???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_MANGO",
+    "name": "Mango???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_MERCHANTS_RUG",
+    "name": "The Merchant's Rug???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_ORICHALCUM",
+    "name": "Orichalcum???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_SNECKO_EYE",
+    "name": "Snecko Eye???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_STRIKE_DUMMY",
+    "name": "Strike Dummy???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FAKE_VENERABLE_TEA_SET",
+    "name": "Venerable Tea Set???",
+    "rarity": "Event"
+  },
+  {
+    "id": "FENCING_MANUAL",
+    "name": "Fencing Manual",
+    "rarity": "Common"
+  },
+  {
+    "id": "FESTIVE_POPPER",
+    "name": "Festive Popper",
+    "rarity": "Common"
+  },
+  {
+    "id": "FIDDLE",
+    "name": "Fiddle",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "FORGOTTEN_SOUL",
+    "name": "Forgotten Soul",
+    "rarity": "Event"
+  },
+  {
+    "id": "FRAGRANT_MUSHROOM",
+    "name": "Fragrant Mushroom",
+    "rarity": "Event"
+  },
+  {
+    "id": "FRESNEL_LENS",
+    "name": "Fresnel Lens",
+    "rarity": "Event"
+  },
+  {
+    "id": "FROZEN_EGG",
+    "name": "Frozen Egg",
+    "rarity": "Rare"
+  },
+  {
+    "id": "FUNERARY_MASK",
+    "name": "Funerary Mask",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "FUR_COAT",
+    "name": "Fur Coat",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "GALACTIC_DUST",
+    "name": "Galactic Dust",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "GAMBLING_CHIP",
+    "name": "Gambling Chip",
+    "rarity": "Rare"
+  },
+  {
+    "id": "GAME_PIECE",
+    "name": "Game Piece",
+    "rarity": "Rare"
+  },
+  {
+    "id": "GHOST_SEED",
+    "name": "Ghost Seed",
+    "rarity": "Shop"
+  },
+  {
+    "id": "GIRYA",
+    "name": "Girya",
+    "rarity": "Rare"
+  },
+  {
+    "id": "GLASS_EYE",
+    "name": "Glass Eye",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "GLITTER",
+    "name": "Glitter",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "GNARLED_HAMMER",
+    "name": "Gnarled Hammer",
+    "rarity": "Shop"
+  },
+  {
+    "id": "GOLD_PLATED_CABLES",
+    "name": "Gold-Plated Cables",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "GOLDEN_COMPASS",
+    "name": "Golden Compass",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "GOLDEN_PEARL",
+    "name": "Golden Pearl",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "GORGET",
+    "name": "Gorget",
+    "rarity": "Common"
+  },
+  {
+    "id": "GREMLIN_HORN",
+    "name": "Gremlin Horn",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "HAND_DRILL",
+    "name": "Hand Drill",
+    "rarity": "Event"
+  },
+  {
+    "id": "HAPPY_FLOWER",
+    "name": "Happy Flower",
+    "rarity": "Common"
+  },
+  {
+    "id": "HELICAL_DART",
+    "name": "Helical Dart",
+    "rarity": "Rare"
+  },
+  {
+    "id": "HISTORY_COURSE",
+    "name": "History Course",
+    "rarity": "Event"
+  },
+  {
+    "id": "HORN_CLEAT",
+    "name": "Horn Cleat",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ICE_CREAM",
+    "name": "Ice Cream",
+    "rarity": "Rare"
+  },
+  {
+    "id": "INFUSED_CORE",
+    "name": "Infused Core",
+    "rarity": "Starter"
+  },
+  {
+    "id": "INTIMIDATING_HELMET",
+    "name": "Intimidating Helmet",
+    "rarity": "Rare"
+  },
+  {
+    "id": "IRON_CLUB",
+    "name": "Iron Club",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "IVORY_TILE",
+    "name": "Ivory Tile",
+    "rarity": "Rare"
+  },
+  {
+    "id": "JEWELED_MASK",
+    "name": "Jeweled Mask",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "JEWELRY_BOX",
+    "name": "Jewelry Box",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "JOSS_PAPER",
+    "name": "Joss Paper",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "JUZU_BRACELET",
+    "name": "Juzu Bracelet",
+    "rarity": "Common"
+  },
+  {
+    "id": "KIFUDA",
+    "name": "Kifuda",
+    "rarity": "Shop"
+  },
+  {
+    "id": "KUNAI",
+    "name": "Kunai",
+    "rarity": "Rare"
+  },
+  {
+    "id": "KUSARIGAMA",
+    "name": "Kusarigama",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "LANTERN",
+    "name": "Lantern",
+    "rarity": "Common"
+  },
+  {
+    "id": "LARGE_CAPSULE",
+    "name": "Large Capsule",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LASTING_CANDY",
+    "name": "Lasting Candy",
+    "rarity": "Rare"
+  },
+  {
+    "id": "LAVA_LAMP",
+    "name": "Lava Lamp",
+    "rarity": "Shop"
+  },
+  {
+    "id": "LAVA_ROCK",
+    "name": "Lava Rock",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LEAD_PAPERWEIGHT",
+    "name": "Lead Paperweight",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LEAFY_POULTICE",
+    "name": "Leafy Poultice",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LEES_WAFFLE",
+    "name": "Lee's Waffle",
+    "rarity": "Shop"
+  },
+  {
+    "id": "LETTER_OPENER",
+    "name": "Letter Opener",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "LIZARD_TAIL",
+    "name": "Lizard Tail",
+    "rarity": "Rare"
+  },
+  {
+    "id": "LOOMING_FRUIT",
+    "name": "Looming Fruit",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LORDS_PARASOL",
+    "name": "Lord's Parasol",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LOST_COFFER",
+    "name": "Lost Coffer",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "LOST_WISP",
+    "name": "Lost Wisp",
+    "rarity": "Event"
+  },
+  {
+    "id": "LUCKY_FYSH",
+    "name": "Lucky Fysh",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "LUNAR_PASTRY",
+    "name": "Lunar Pastry",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MANGO",
+    "name": "Mango",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MASSIVE_SCROLL",
+    "name": "Massive Scroll",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "MAW_BANK",
+    "name": "Maw Bank",
+    "rarity": "Event"
+  },
+  {
+    "id": "MEAL_TICKET",
+    "name": "Meal Ticket",
+    "rarity": "Common"
+  },
+  {
+    "id": "MEAT_CLEAVER",
+    "name": "Meat Cleaver",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "MEAT_ON_THE_BONE",
+    "name": "Meat on the Bone",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MEMBERSHIP_CARD",
+    "name": "Membership Card",
+    "rarity": "Shop"
+  },
+  {
+    "id": "MERCURY_HOURGLASS",
+    "name": "Mercury Hourglass",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "METRONOME",
+    "name": "Metronome",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MINI_REGENT",
+    "name": "Mini Regent",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MINIATURE_CANNON",
+    "name": "Miniature Cannon",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "MINIATURE_TENT",
+    "name": "Miniature Tent",
+    "rarity": "Shop"
+  },
+  {
+    "id": "MOLTEN_EGG",
+    "name": "Molten Egg",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MR_STRUGGLES",
+    "name": "Mr. Struggles",
+    "rarity": "Event"
+  },
+  {
+    "id": "MUMMIFIED_HAND",
+    "name": "Mummified Hand",
+    "rarity": "Rare"
+  },
+  {
+    "id": "MUSIC_BOX",
+    "name": "Music Box",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "MYSTIC_LIGHTER",
+    "name": "Mystic Lighter",
+    "rarity": "Shop"
+  },
+  {
+    "id": "NEOWS_TORMENT",
+    "name": "Neow's Torment",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "NEW_LEAF",
+    "name": "New Leaf",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "NINJA_SCROLL",
+    "name": "Ninja Scroll",
+    "rarity": "Shop"
+  },
+  {
+    "id": "NUNCHAKU",
+    "name": "Nunchaku",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "NUTRITIOUS_OYSTER",
+    "name": "Nutritious Oyster",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "NUTRITIOUS_SOUP",
+    "name": "Nutritious Soup",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "ODDLY_SMOOTH_STONE",
+    "name": "Oddly Smooth Stone",
+    "rarity": "Common"
+  },
+  {
+    "id": "OLD_COIN",
+    "name": "Old Coin",
+    "rarity": "Rare"
+  },
+  {
+    "id": "ORANGE_DOUGH",
+    "name": "Orange Dough",
+    "rarity": "Rare"
+  },
+  {
+    "id": "ORICHALCUM",
+    "name": "Orichalcum",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ORNAMENTAL_FAN",
+    "name": "Ornamental Fan",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ORRERY",
+    "name": "Orrery",
+    "rarity": "Shop"
+  },
+  {
+    "id": "PAELS_BLOOD",
+    "name": "Pael's Blood",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_CLAW",
+    "name": "Pael's Claw",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_EYE",
+    "name": "Pael's Eye",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_FLESH",
+    "name": "Pael's Flesh",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_GROWTH",
+    "name": "Pael's Growth",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_HORN",
+    "name": "Pael's Horn",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_LEGION",
+    "name": "Pael's Legion",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_TEARS",
+    "name": "Pael's Tears",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_TOOTH",
+    "name": "Pael's Tooth",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PAELS_WING",
+    "name": "Pael's Wing",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PANDORAS_BOX",
+    "name": "Pandora's Box",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PANTOGRAPH",
+    "name": "Pantograph",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PAPER_KRANE",
+    "name": "Paper Krane",
+    "rarity": "Rare"
+  },
+  {
+    "id": "PAPER_PHROG",
+    "name": "Paper Phrog",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PARRYING_SHIELD",
+    "name": "Parrying Shield",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PEAR",
+    "name": "Pear",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PEN_NIB",
+    "name": "Pen Nib",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PENDULUM",
+    "name": "Pendulum",
+    "rarity": "Common"
+  },
+  {
+    "id": "PERMAFROST",
+    "name": "Permafrost",
+    "rarity": "Common"
+  },
+  {
+    "id": "PETRIFIED_TOAD",
+    "name": "Petrified Toad",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "PHILOSOPHERS_STONE",
+    "name": "Philosopher's Stone",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PHYLACTERY_UNBOUND",
+    "name": "Phylactery Unbound",
+    "rarity": "Starter"
+  },
+  {
+    "id": "PLANISPHERE",
+    "name": "Planisphere",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "POCKETWATCH",
+    "name": "Pocketwatch",
+    "rarity": "Rare"
+  },
+  {
+    "id": "POLLINOUS_CORE",
+    "name": "Pollinous Core",
+    "rarity": "Event"
+  },
+  {
+    "id": "POMANDER",
+    "name": "Pomander",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "POTION_BELT",
+    "name": "Potion Belt",
+    "rarity": "Common"
+  },
+  {
+    "id": "POWER_CELL",
+    "name": "Power Cell",
+    "rarity": "Rare"
+  },
+  {
+    "id": "PRAYER_WHEEL",
+    "name": "Prayer Wheel",
+    "rarity": "Rare"
+  },
+  {
+    "id": "PRECARIOUS_SHEARS",
+    "name": "Precarious Shears",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PRECISE_SCISSORS",
+    "name": "Precise Scissors",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PRESERVED_FOG",
+    "name": "Preserved Fog",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PRISMATIC_GEM",
+    "name": "Prismatic Gem",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PUMPKIN_CANDLE",
+    "name": "Pumpkin Candle",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "PUNCH_DAGGER",
+    "name": "Punch Dagger",
+    "rarity": "Shop"
+  },
+  {
+    "id": "RADIANT_PEARL",
+    "name": "Radiant Pearl",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "RAINBOW_RING",
+    "name": "Rainbow Ring",
+    "rarity": "Rare"
+  },
+  {
+    "id": "RAZOR_TOOTH",
+    "name": "Razor Tooth",
+    "rarity": "Rare"
+  },
+  {
+    "id": "RED_MASK",
+    "name": "Red Mask",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "RED_SKULL",
+    "name": "Red Skull",
+    "rarity": "Common"
+  },
+  {
+    "id": "REGAL_PILLOW",
+    "name": "Regal Pillow",
+    "rarity": "Common"
+  },
+  {
+    "id": "REGALITE",
+    "name": "Regalite",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "REPTILE_TRINKET",
+    "name": "Reptile Trinket",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "RING_OF_THE_DRAKE",
+    "name": "Ring of the Drake",
+    "rarity": "Starter"
+  },
+  {
+    "id": "RING_OF_THE_SNAKE",
+    "name": "Ring of the Snake",
+    "rarity": "Starter"
+  },
+  {
+    "id": "RINGING_TRIANGLE",
+    "name": "Ringing Triangle",
+    "rarity": "Shop"
+  },
+  {
+    "id": "RIPPLE_BASIN",
+    "name": "Ripple Basin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "ROYAL_POISON",
+    "name": "Royal Poison",
+    "rarity": "Event"
+  },
+  {
+    "id": "ROYAL_STAMP",
+    "name": "Royal Stamp",
+    "rarity": "Shop"
+  },
+  {
+    "id": "RUINED_HELMET",
+    "name": "Ruined Helmet",
+    "rarity": "Rare"
+  },
+  {
+    "id": "RUNIC_CAPACITOR",
+    "name": "Runic Capacitor",
+    "rarity": "Shop"
+  },
+  {
+    "id": "RUNIC_PYRAMID",
+    "name": "Runic Pyramid",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SAI",
+    "name": "Sai",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SAND_CASTLE",
+    "name": "Sand Castle",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SCREAMING_FLAGON",
+    "name": "Screaming Flagon",
+    "rarity": "Shop"
+  },
+  {
+    "id": "SCROLL_BOXES",
+    "name": "Scroll Boxes",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SEA_GLASS",
+    "name": "Sea Glass",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SEAL_OF_GOLD",
+    "name": "Seal of Gold",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SELF_FORMING_CLAY",
+    "name": "Self-Forming Clay",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "SERE_TALON",
+    "name": "Sere Talon",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SHOVEL",
+    "name": "Shovel",
+    "rarity": "Rare"
+  },
+  {
+    "id": "SHURIKEN",
+    "name": "Shuriken",
+    "rarity": "Rare"
+  },
+  {
+    "id": "SIGNET_RING",
+    "name": "Signet Ring",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SILVER_CRUCIBLE",
+    "name": "Silver Crucible",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SLING_OF_COURAGE",
+    "name": "Sling of Courage",
+    "rarity": "Shop"
+  },
+  {
+    "id": "SMALL_CAPSULE",
+    "name": "Small Capsule",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SNECKO_EYE",
+    "name": "Snecko Eye",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SNECKO_SKULL",
+    "name": "Snecko Skull",
+    "rarity": "Common"
+  },
+  {
+    "id": "SOZU",
+    "name": "Sozu",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "SPARKLING_ROUGE",
+    "name": "Sparkling Rouge",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "SPIKED_GAUNTLETS",
+    "name": "Spiked Gauntlets",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "STONE_CALENDAR",
+    "name": "Stone Calendar",
+    "rarity": "Rare"
+  },
+  {
+    "id": "STONE_CRACKER",
+    "name": "Stone Cracker",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "STONE_HUMIDIFIER",
+    "name": "Stone Humidifier",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "STORYBOOK",
+    "name": "Storybook",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "STRAWBERRY",
+    "name": "Strawberry",
+    "rarity": "Common"
+  },
+  {
+    "id": "STRIKE_DUMMY",
+    "name": "Strike Dummy",
+    "rarity": "Common"
+  },
+  {
+    "id": "STURDY_CLAMP",
+    "name": "Sturdy Clamp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "SWORD_OF_JADE",
+    "name": "Sword of Jade",
+    "rarity": "Event"
+  },
+  {
+    "id": "SWORD_OF_STONE",
+    "name": "Sword of Stone",
+    "rarity": "Event"
+  },
+  {
+    "id": "SYMBIOTIC_VIRUS",
+    "name": "Symbiotic Virus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "TANXS_WHISTLE",
+    "name": "Tanx's Whistle",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TEA_OF_DISCOURTESY",
+    "name": "Tea of Discourtesy",
+    "rarity": "Event"
+  },
+  {
+    "id": "THE_ABACUS",
+    "name": "The Abacus",
+    "rarity": "Shop"
+  },
+  {
+    "id": "THE_BOOT",
+    "name": "The Boot",
+    "rarity": "Event"
+  },
+  {
+    "id": "THE_COURIER",
+    "name": "The Courier",
+    "rarity": "Rare"
+  },
+  {
+    "id": "THROWING_AXE",
+    "name": "Throwing Axe",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TINGSHA",
+    "name": "Tingsha",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "TINY_MAILBOX",
+    "name": "Tiny Mailbox",
+    "rarity": "Common"
+  },
+  {
+    "id": "TOASTY_MITTENS",
+    "name": "Toasty Mittens",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TOOLBOX",
+    "name": "Toolbox",
+    "rarity": "Shop"
+  },
+  {
+    "id": "TOUCH_OF_OROBAS",
+    "name": "Touch of Orobas",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TOUGH_BANDAGES",
+    "name": "Tough Bandages",
+    "rarity": "Rare"
+  },
+  {
+    "id": "TOXIC_EGG",
+    "name": "Toxic Egg",
+    "rarity": "Rare"
+  },
+  {
+    "id": "TOY_BOX",
+    "name": "Toy Box",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TRI_BOOMERANG",
+    "name": "Tri-Boomerang",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "TUNGSTEN_ROD",
+    "name": "Tungsten Rod",
+    "rarity": "Rare"
+  },
+  {
+    "id": "TUNING_FORK",
+    "name": "Tuning Fork",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "TWISTED_FUNNEL",
+    "name": "Twisted Funnel",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "UNCEASING_TOP",
+    "name": "Unceasing Top",
+    "rarity": "Rare"
+  },
+  {
+    "id": "UNDYING_SIGIL",
+    "name": "Undying Sigil",
+    "rarity": "Shop"
+  },
+  {
+    "id": "UNSETTLING_LAMP",
+    "name": "Unsettling Lamp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "VAJRA",
+    "name": "Vajra",
+    "rarity": "Common"
+  },
+  {
+    "id": "VAKUU_CARD_SELECTOR",
+    "name": "VakuuCardSelector",
+    "rarity": "Unknown"
+  },
+  {
+    "id": "VAMBRACE",
+    "name": "Vambrace",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "VELVET_CHOKER",
+    "name": "Velvet Choker",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "VENERABLE_TEA_SET",
+    "name": "Venerable Tea Set",
+    "rarity": "Common"
+  },
+  {
+    "id": "VERY_HOT_COCOA",
+    "name": "Very Hot Cocoa",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "VEXING_PUZZLEBOX",
+    "name": "Vexing Puzzlebox",
+    "rarity": "Rare"
+  },
+  {
+    "id": "VITRUVIAN_MINION",
+    "name": "Vitruvian Minion",
+    "rarity": "Shop"
+  },
+  {
+    "id": "WAR_HAMMER",
+    "name": "War Hammer",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "WAR_PAINT",
+    "name": "War Paint",
+    "rarity": "Common"
+  },
+  {
+    "id": "WHETSTONE",
+    "name": "Whetstone",
+    "rarity": "Common"
+  },
+  {
+    "id": "WHISPERING_EARRING",
+    "name": "Whispering Earring",
+    "rarity": "Ancient"
+  },
+  {
+    "id": "WHITE_BEAST_STATUE",
+    "name": "White Beast Statue",
+    "rarity": "Rare"
+  },
+  {
+    "id": "WHITE_STAR",
+    "name": "White Star",
+    "rarity": "Rare"
+  },
+  {
+    "id": "WING_CHARM",
+    "name": "Wing Charm",
+    "rarity": "Shop"
+  },
+  {
+    "id": "WONGO_CUSTOMER_APPRECIATION_BADGE",
+    "name": "Wongo Customer Appreciation Badge",
+    "rarity": "Event"
+  },
+  {
+    "id": "WONGOS_MYSTERY_TICKET",
+    "name": "Wongo's Mystery Ticket",
+    "rarity": "Event"
+  },
+  {
+    "id": "YUMMY_COOKIE",
+    "name": "Yummy Cookie",
+    "rarity": "Ancient"
+  }
+]
