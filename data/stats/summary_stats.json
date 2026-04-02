@@ -1,0 +1,64 @@
+{
+  "total_runs": 123,
+  "wins": 39,
+  "playtime": 5097.8,
+  "killed": {
+    "ENCOUNTER.QUEEN_BOSS": 6,
+    "ENCOUNTER.BYGONE_EFFIGY_ELITE": 2,
+    "ENCOUNTER.MECHA_KNIGHT_ELITE": 3,
+    "ENCOUNTER.PHROG_PARASITE_ELITE": 3,
+    "ENCOUNTER.FABRICATOR_NORMAL": 1,
+    "ENCOUNTER.KAISER_CRAB_BOSS": 4,
+    "ENCOUNTER.KNOWLEDGE_DEMON_BOSS": 5,
+    "ENCOUNTER.DECIMILLIPEDE_ELITE": 7,
+    "ENCOUNTER.TERROR_EEL_ELITE": 4,
+    "ENCOUNTER.WATERFALL_GIANT_BOSS": 2,
+    "ENCOUNTER.INFESTED_PRISMS_ELITE": 2,
+    "ENCOUNTER.THE_INSATIABLE_BOSS": 3,
+    "ENCOUNTER.LAGAVULIN_MATRIARCH_BOSS": 7,
+    "ENCOUNTER.SKULKING_COLONY_ELITE": 2,
+    "ENCOUNTER.PHANTASMAL_GARDENERS_ELITE": 4,
+    "ENCOUNTER.TURRET_OPERATOR_WEAK": 1,
+    "ENCOUNTER.MYTES_NORMAL": 2,
+    "ENCOUNTER.VANTOM_BOSS": 2,
+    "ENCOUNTER.SLUDGE_SPINNER_WEAK": 1,
+    "ENCOUNTER.SOUL_FYSH_BOSS": 2,
+    "ENCOUNTER.SEAPUNK_WEAK": 2,
+    "ENCOUNTER.TEST_SUBJECT_BOSS": 2,
+    "ENCOUNTER.DOORMAKER_BOSS": 2,
+    "ENCOUNTER.THE_OBSCURA_NORMAL": 1,
+    "ENCOUNTER.ENTOMANCER_ELITE": 3,
+    "ENCOUNTER.OWL_MAGISTRATE_NORMAL": 1,
+    "ENCOUNTER.THE_KIN_BOSS": 1,
+    "ENCOUNTER.SNAPPING_JAXFRUIT_NORMAL": 1,
+    "ENCOUNTER.CHOMPERS_NORMAL": 1,
+    "ENCOUNTER.CEREMONIAL_BEAST_BOSS": 1
+  },
+  "characters": {
+    "IRONCLAD": {
+      "total_runs": 36,
+      "wins": 11,
+      "playtime": 1266.7
+    },
+    "SILENT": {
+      "total_runs": 19,
+      "wins": 6,
+      "playtime": 836.9
+    },
+    "REGENT": {
+      "total_runs": 27,
+      "wins": 10,
+      "playtime": 1164.2
+    },
+    "NECROBINDER": {
+      "total_runs": 18,
+      "wins": 6,
+      "playtime": 903.4
+    },
+    "DEFECT": {
+      "total_runs": 23,
+      "wins": 6,
+      "playtime": 926.6
+    }
+  }
+}

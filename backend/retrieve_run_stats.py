@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 from itertools import combinations
 
+import write_stats
+
 def locate_folder():
     base = Path.home() / "AppData" / "Roaming" / "SlayTheSpire2" / "steam"
 
@@ -70,8 +72,6 @@ def analyze_starter_relics(stats, starter_data, win): # retrieve starter relic d
 
                         if encounter["player_stats"][0]["relic_choices"][0]["choice"].replace("RELIC.", "") == rid:
                             entry["times_picked"] += 1
-                            if win:
-                                entry["wins"] += 1
                         else:
                             entry["times_skipped"] += 1
 
@@ -115,6 +115,8 @@ def analyze_cards(stats, cards_data, win): # retrieve card synergy data
         if win:
             entry1["wins"] += 1
             entry2["wins"] += 1
+        entry1["winrate"] = round(entry1["wins"] / entry1["games"], 3)
+        entry2["winrate"] = round(entry1["wins"] / entry1["games"], 3)
 
 def analyze_runs(folder, player_id):
     folder = Path(folder)
@@ -128,22 +130,27 @@ def analyze_runs(folder, player_id):
                 "IRONCLAD": {
                     "total_runs": 0,
                     "wins": 0,
+                    "playtime": 0,
                 },
                 "SILENT": {
                     "total_runs": 0,
                     "wins": 0,
+                    "playtime": 0,
                 },
                 "REGENT": {
                     "total_runs": 0,
                     "wins": 0,
+                    "playtime": 0,
                 },
                 "NECROBINDER": {
                     "total_runs": 0,
                     "wins": 0,
+                    "playtime": 0,
                 },
                 "DEFECT": {
                     "total_runs": 0,
                     "wins": 0,
+                    "playtime": 0,
                 },
             },
         },
@@ -158,7 +165,6 @@ def analyze_runs(folder, player_id):
             continue
 
         with open(run, "r") as f:
-            print(run)
             data = json.load(f)
 
         player_idx = 0 # default index for singleplayer runs
@@ -195,6 +201,7 @@ def analyze_runs(folder, player_id):
 
         stats["summary"]["total_runs"] += 1
         stats["summary"]["characters"][data["players"][player_idx]["character"].replace("CHARACTER.", "")]["total_runs"] += 1
+        stats["summary"]["characters"][data["players"][player_idx]["character"].replace("CHARACTER.", "")]["playtime"] += round(data["run_time"] / 60, 1)
         if data["win"]:
             stats["summary"]["wins"] += 1
             stats["summary"]["characters"][data["players"][player_idx]["character"].replace("CHARACTER.", "")]["wins"] += 1
@@ -204,12 +211,17 @@ def analyze_runs(folder, player_id):
         analyze_encounters(stats, filtered_map)
         analyze_cards(stats, data["players"][player_idx]["deck"], data["win"])
         
+    print("run analysis success")
     with open("data/test/data.json", "w") as f:
         json.dump(stats, f, indent=2)
-    print("SUCCESS")
+    return stats
 
 def analyze_all_runs():
     folder, player_id = locate_folder()
-    analyze_runs("data/sts history", player_id)
+    stats = analyze_runs(folder, player_id)
+    write_stats.generate_summary_stats(stats)
+    write_stats.write_relic_stats(stats)
+    write_stats.write_encounter_stats(stats)
+    write_stats.write_card_stats(stats)
 
 analyze_all_runs()

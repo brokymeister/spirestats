@@ -79,7 +79,8 @@ def generate_card_stats():
             "pick_rate": None,
             "win_rate": None,
             "times_picked": None,
-            "times_skipped": None
+            "times_skipped": None,
+            "synergies": {},
         }
 
     with open("data/stats/card_stats.json", "w") as f:
@@ -100,7 +101,7 @@ def generate_relic_stats():
             "winrate": None,
             "pickrate": None,
             "times_picked": None,
-            "times_skipped": None
+            "times_skipped": None,
         }
 
     with open("data/stats/relic_stats.json", "w") as f:
@@ -119,7 +120,7 @@ def generate_encounter_stats():
             "winrate": None,
             "wins": None,
             "losses": None,
-            "total_hp_loss": None,
+            "total_hp_lost": None,
         }
 
     with open("data/stats/encounter_stats.json", "w") as f:

@@ -25,6 +25,7 @@ def update_stats():
             "win_rate": win_rate,
             "times_picked": picked,
             "times_skipped": skipped,
+            "synergies": existing[card_id]["synergies"]
         }
 
     with open(card_stats_path, "w") as f: # update card stats file

@@ -15,5 +15,7 @@ Thumbs.db
 # Logs
 *.log
 
+# Example data files
 data/sts history/
 data/runs/
+progress.save
