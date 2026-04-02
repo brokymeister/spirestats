@@ -1,0 +1,524 @@
+{
+  "AXEBOTS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "BATTLEWORN_DUMMY_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "BOWLBUGS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "BOWLBUGS_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "BYGONE_EFFIGY_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "BYRDONIS_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CEREMONIAL_BEAST_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CHOMPERS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CONSTRUCT_MENAGERIE_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CORPSE_SLUGS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CORPSE_SLUGS_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CUBEX_CONSTRUCT_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "CULTISTS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "DECIMILLIPEDE_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "DENSE_VEGETATION_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "DEVOTED_SCULPTOR_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "DOORMAKER_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "ENTOMANCER_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "EXOSKELETONS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "EXOSKELETONS_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FABRICATOR_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FAKE_MERCHANT_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FLYCONID_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FOGMOG_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FOSSIL_STALKER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FROG_KNIGHT_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "FUZZY_WURM_CRAWLER_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "GLOBE_HEAD_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "GREMLIN_MERC_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "HAUNTED_SHIP_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "HUNTER_KILLER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "INFESTED_PRISMS_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "INKLETS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "KAISER_CRAB_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "KNIGHTS_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "KNOWLEDGE_DEMON_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "LAGAVULIN_MATRIARCH_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "LIVING_FOG_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "LOUSE_PROGENITOR_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "MAWLER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "MECHA_KNIGHT_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "MYSTERIOUS_KNIGHT_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "MYTES_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "NIBBITS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "NIBBITS_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "OVERGROWTH_CRAWLERS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "OVICOPTER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "OWL_MAGISTRATE_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "PHANTASMAL_GARDENERS_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "PHROG_PARASITE_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "PUNCH_CONSTRUCT_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "PUNCH_OFF_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "QUEEN_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "RUBY_RAIDERS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SCROLLS_OF_BITING_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SCROLLS_OF_BITING_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SEAPUNK_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SEWER_CLAM_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SHRINKER_BEETLE_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SKULKING_COLONY_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLIMED_BERSERKER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLIMES_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLIMES_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLITHERING_STRANGLER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLUDGE_SPINNER_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SLUMBERING_BEETLE_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SNAPPING_JAXFRUIT_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SOUL_FYSH_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SOUL_NEXUS_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "SPINY_TOAD_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TERROR_EEL_ELITE": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TEST_SUBJECT_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THE_ARCHITECT_EVENT_ENCOUNTER": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THE_INSATIABLE_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THE_KIN_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THE_LOST_AND_FORGOTTEN_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THE_OBSCURA_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "THIEVING_HOPPER_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TOADPOLES_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TOADPOLES_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TUNNELER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TUNNELER_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TURRET_OPERATOR_WEAK": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "TWO_TAILED_RATS_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "VANTOM_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "VINE_SHAMBLER_NORMAL": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  },
+  "WATERFALL_GIANT_BOSS": {
+    "winrate": null,
+    "wins": null,
+    "losses": null,
+    "total_hp_loss": null
+  }
+}

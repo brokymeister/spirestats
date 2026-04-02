@@ -1,4034 +1,3458 @@
-[
-  {
-    "id": "ABRASIVE",
+{
+  "ABRASIVE": {
     "name": "Abrasive",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ACCELERANT",
+  "ACCELERANT": {
     "name": "Accelerant",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ACCURACY",
+  "ACCURACY": {
     "name": "Accuracy",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ACROBATICS",
+  "ACROBATICS": {
     "name": "Acrobatics",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "ADAPTIVE_STRIKE",
+  "ADAPTIVE_STRIKE": {
     "name": "Adaptive Strike",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "ADRENALINE",
+  "ADRENALINE": {
     "name": "Adrenaline",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "AFTERIMAGE",
+  "AFTERIMAGE": {
     "name": "Afterimage",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "AFTERLIFE",
+  "AFTERLIFE": {
     "name": "Afterlife",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "AGGRESSION",
+  "AGGRESSION": {
     "name": "Aggression",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ALCHEMIZE",
+  "ALCHEMIZE": {
     "name": "Alchemize",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "ALIGNMENT",
+  "ALIGNMENT": {
     "name": "Alignment",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ALL_FOR_ONE",
+  "ALL_FOR_ONE": {
     "name": "All for One",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "ANGER",
+  "ANGER": {
     "name": "Anger",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "ANOINTED",
+  "ANOINTED": {
     "name": "Anointed",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "ANTICIPATE",
+  "ANTICIPATE": {
     "name": "Anticipate",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "APOTHEOSIS",
+  "APOTHEOSIS": {
     "name": "Apotheosis",
     "cost": 2,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "APPARITION",
+  "APPARITION": {
     "name": "Apparition",
     "cost": 1,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "ARMAMENTS",
+  "ARMAMENTS": {
     "name": "Armaments",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "ARSENAL",
+  "ARSENAL": {
     "name": "Arsenal",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ASCENDERS_BANE",
+  "ASCENDERS_BANE": {
     "name": "Ascender's Bane",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "ASHEN_STRIKE",
+  "ASHEN_STRIKE": {
     "name": "Ashen Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ASSASSINATE",
+  "ASSASSINATE": {
     "name": "Assassinate",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "ASTRAL_PULSE",
+  "ASTRAL_PULSE": {
     "name": "Astral Pulse",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "AUTOMATION",
+  "AUTOMATION": {
     "name": "Automation",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BACKFLIP",
+  "BACKFLIP": {
     "name": "Backflip",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "BACKSTAB",
+  "BACKSTAB": {
     "name": "Backstab",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BAD_LUCK",
+  "BAD_LUCK": {
     "name": "Bad Luck",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "BALL_LIGHTNING",
+  "BALL_LIGHTNING": {
     "name": "Ball Lightning",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BANSHEES_CRY",
+  "BANSHEES_CRY": {
     "name": "Banshee's Cry",
     "cost": 6,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "BARRAGE",
+  "BARRAGE": {
     "name": "Barrage",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BARRICADE",
+  "BARRICADE": {
     "name": "Barricade",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "BASH",
+  "BASH": {
     "name": "Bash",
     "cost": 2,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "BATTLE_TRANCE",
+  "BATTLE_TRANCE": {
     "name": "Battle Trance",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BEACON_OF_HOPE",
+  "BEACON_OF_HOPE": {
     "name": "Beacon of Hope",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "BEAM_CELL",
+  "BEAM_CELL": {
     "name": "Beam Cell",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BEAT_DOWN",
+  "BEAT_DOWN": {
     "name": "Beat Down",
     "cost": 3,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BEAT_INTO_SHAPE",
+  "BEAT_INTO_SHAPE": {
     "name": "Beat into Shape",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "BECKON",
+  "BECKON": {
     "name": "Beckon",
     "cost": 1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "BEGONE",
+  "BEGONE": {
     "name": "BEGONE!",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BELIEVE_IN_YOU",
+  "BELIEVE_IN_YOU": {
     "name": "Believe in You",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BIASED_COGNITION",
+  "BIASED_COGNITION": {
     "name": "Biased Cognition",
     "cost": 1,
     "type": "Power",
     "rarity": "Ancient"
   },
-  {
-    "id": "BIG_BANG",
+  "BIG_BANG": {
     "name": "Big Bang",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BLACK_HOLE",
+  "BLACK_HOLE": {
     "name": "Black Hole",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BLADE_DANCE",
+  "BLADE_DANCE": {
     "name": "Blade Dance",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "BLADE_OF_INK",
+  "BLADE_OF_INK": {
     "name": "Blade of Ink",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BLIGHT_STRIKE",
+  "BLIGHT_STRIKE": {
     "name": "Blight Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BLOOD_WALL",
+  "BLOOD_WALL": {
     "name": "Blood Wall",
     "cost": 2,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "BLOODLETTING",
+  "BLOODLETTING": {
     "name": "Bloodletting",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "BLUDGEON",
+  "BLUDGEON": {
     "name": "Bludgeon",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BLUR",
+  "BLUR": {
     "name": "Blur",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BODY_SLAM",
+  "BODY_SLAM": {
     "name": "Body Slam",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BODYGUARD",
+  "BODYGUARD": {
     "name": "Bodyguard",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "BOLAS",
+  "BOLAS": {
     "name": "Bolas",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "BOMBARDMENT",
+  "BOMBARDMENT": {
     "name": "Bombardment",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "BONE_SHARDS",
+  "BONE_SHARDS": {
     "name": "Bone Shards",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BOOST_AWAY",
+  "BOOST_AWAY": {
     "name": "Boost Away",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "BOOT_SEQUENCE",
+  "BOOT_SEQUENCE": {
     "name": "Boot Sequence",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BORROWED_TIME",
+  "BORROWED_TIME": {
     "name": "Borrowed Time",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BOUNCING_FLASK",
+  "BOUNCING_FLASK": {
     "name": "Bouncing Flask",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BRAND",
+  "BRAND": {
     "name": "Brand",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BREAK",
+  "BREAK": {
     "name": "Break",
     "cost": 2,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "BREAKTHROUGH",
+  "BREAKTHROUGH": {
     "name": "Breakthrough",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "BRIGHTEST_FLAME",
+  "BRIGHTEST_FLAME": {
     "name": "Brightest Flame",
     "cost": 0,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "BUBBLE_BUBBLE",
+  "BUBBLE_BUBBLE": {
     "name": "Bubble Bubble",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BUFFER",
+  "BUFFER": {
     "name": "Buffer",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "BULK_UP",
+  "BULK_UP": {
     "name": "Bulk Up",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BULLET_TIME",
+  "BULLET_TIME": {
     "name": "Bullet Time",
     "cost": 3,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BULLY",
+  "BULLY": {
     "name": "Bully",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BULWARK",
+  "BULWARK": {
     "name": "Bulwark",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BUNDLE_OF_JOY",
+  "BUNDLE_OF_JOY": {
     "name": "Bundle of Joy",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BURN",
+  "BURN": {
     "name": "Burn",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "BURNING_PACT",
+  "BURNING_PACT": {
     "name": "Burning Pact",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BURST",
+  "BURST": {
     "name": "Burst",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "BURY",
+  "BURY": {
     "name": "Bury",
     "cost": 4,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "BYRD_SWOOP",
+  "BYRD_SWOOP": {
     "name": "Byrd Swoop",
     "cost": 0,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "BYRDONIS_EGG",
+  "BYRDONIS_EGG": {
     "name": "Byrdonis Egg",
     "cost": -1,
     "type": "Quest",
     "rarity": "Quest"
   },
-  {
-    "id": "CALAMITY",
+  "CALAMITY": {
     "name": "Calamity",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CALCIFY",
+  "CALCIFY": {
     "name": "Calcify",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CALCULATED_GAMBLE",
+  "CALCULATED_GAMBLE": {
     "name": "Calculated Gamble",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CALL_OF_THE_VOID",
+  "CALL_OF_THE_VOID": {
     "name": "Call of the Void",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CALTROPS",
+  "CALTROPS": {
     "name": "Caltrops",
     "cost": 1,
     "type": "Power",
     "rarity": "Event"
   },
-  {
-    "id": "CAPACITOR",
+  "CAPACITOR": {
     "name": "Capacitor",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CAPTURE_SPIRIT",
+  "CAPTURE_SPIRIT": {
     "name": "Capture Spirit",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CASCADE",
+  "CASCADE": {
     "name": "Cascade",
     "cost": -1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "CATASTROPHE",
+  "CATASTROPHE": {
     "name": "Catastrophe",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CELESTIAL_MIGHT",
+  "CELESTIAL_MIGHT": {
     "name": "Celestial Might",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CHAOS",
+  "CHAOS": {
     "name": "Chaos",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CHARGE",
+  "CHARGE": {
     "name": "CHARGE!!",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CHARGE_BATTERY",
+  "CHARGE_BATTERY": {
     "name": "Charge Battery",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "CHILD_OF_THE_STARS",
+  "CHILD_OF_THE_STARS": {
     "name": "Child of the Stars",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CHILL",
+  "CHILL": {
     "name": "Chill",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CINDER",
+  "CINDER": {
     "name": "Cinder",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CLASH",
+  "CLASH": {
     "name": "Clash",
     "cost": 0,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "CLAW",
+  "CLAW": {
     "name": "Claw",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CLEANSE",
+  "CLEANSE": {
     "name": "Cleanse",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CLOAK_AND_DAGGER",
+  "CLOAK_AND_DAGGER": {
     "name": "Cloak and Dagger",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "CLOAK_OF_STARS",
+  "CLOAK_OF_STARS": {
     "name": "Cloak of Stars",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "CLUMSY",
+  "CLUMSY": {
     "name": "Clumsy",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "COLD_SNAP",
+  "COLD_SNAP": {
     "name": "Cold Snap",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "COLLISION_COURSE",
+  "COLLISION_COURSE": {
     "name": "Collision Course",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "COLOSSUS",
+  "COLOSSUS": {
     "name": "Colossus",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "COMET",
+  "COMET": {
     "name": "Comet",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "COMPACT",
+  "COMPACT": {
     "name": "Compact",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "COMPILE_DRIVER",
+  "COMPILE_DRIVER": {
     "name": "Compile Driver",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CONFLAGRATION",
+  "CONFLAGRATION": {
     "name": "Conflagration",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "CONQUEROR",
+  "CONQUEROR": {
     "name": "Conqueror",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CONSUMING_SHADOW",
+  "CONSUMING_SHADOW": {
     "name": "Consuming Shadow",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CONVERGENCE",
+  "CONVERGENCE": {
     "name": "Convergence",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "COOLANT",
+  "COOLANT": {
     "name": "Coolant",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "COOLHEADED",
+  "COOLHEADED": {
     "name": "Coolheaded",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "COORDINATE",
+  "COORDINATE": {
     "name": "Coordinate",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CORROSIVE_WAVE",
+  "CORROSIVE_WAVE": {
     "name": "Corrosive Wave",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "CORRUPTION",
+  "CORRUPTION": {
     "name": "Corruption",
     "cost": 3,
     "type": "Power",
     "rarity": "Ancient"
   },
-  {
-    "id": "COSMIC_INDIFFERENCE",
+  "COSMIC_INDIFFERENCE": {
     "name": "Cosmic Indifference",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "COUNTDOWN",
+  "COUNTDOWN": {
     "name": "Countdown",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "CRASH_LANDING",
+  "CRASH_LANDING": {
     "name": "Crash Landing",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "CREATIVE_AI",
+  "CREATIVE_AI": {
     "name": "Creative AI",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CRESCENT_SPEAR",
+  "CRESCENT_SPEAR": {
     "name": "Crescent Spear",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CRIMSON_MANTLE",
+  "CRIMSON_MANTLE": {
     "name": "Crimson Mantle",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CRUELTY",
+  "CRUELTY": {
     "name": "Cruelty",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "CRUSH_UNDER",
+  "CRUSH_UNDER": {
     "name": "Crush Under",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "CURSE_OF_THE_BELL",
+  "CURSE_OF_THE_BELL": {
     "name": "Curse of the Bell",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "DAGGER_SPRAY",
+  "DAGGER_SPRAY": {
     "name": "Dagger Spray",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "DAGGER_THROW",
+  "DAGGER_THROW": {
     "name": "Dagger Throw",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "DANSE_MACABRE",
+  "DANSE_MACABRE": {
     "name": "Danse Macabre",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DARK_EMBRACE",
+  "DARK_EMBRACE": {
     "name": "Dark Embrace",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "DARK_SHACKLES",
+  "DARK_SHACKLES": {
     "name": "Dark Shackles",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DARKNESS",
+  "DARKNESS": {
     "name": "Darkness",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DASH",
+  "DASH": {
     "name": "Dash",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DAZED",
+  "DAZED": {
     "name": "Dazed",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "DEADLY_POISON",
+  "DEADLY_POISON": {
     "name": "Deadly Poison",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "DEATH_MARCH",
+  "DEATH_MARCH": {
     "name": "Death March",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEATHBRINGER",
+  "DEATHBRINGER": {
     "name": "Deathbringer",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEATHS_DOOR",
+  "DEATHS_DOOR": {
     "name": "Death's Door",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEBILITATE",
+  "DEBILITATE": {
     "name": "Debilitate",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEBRIS",
+  "DEBRIS": {
     "name": "Debris",
     "cost": 1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "DEBT",
+  "DEBT": {
     "name": "Debt",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "DECAY",
+  "DECAY": {
     "name": "Decay",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "DECISIONS_DECISIONS",
+  "DECISIONS_DECISIONS": {
     "name": "Decisions, Decisions",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "DEFEND_DEFECT",
+  "DEFEND_DEFECT": {
     "name": "Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DEFEND_IRONCLAD",
+  "DEFEND_IRONCLAD": {
     "name": "Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DEFEND_NECROBINDER",
+  "DEFEND_NECROBINDER": {
     "name": "Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DEFEND_REGENT",
+  "DEFEND_REGENT": {
     "name": "Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DEFEND_SILENT",
+  "DEFEND_SILENT": {
     "name": "Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DEFILE",
+  "DEFILE": {
     "name": "Defile",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "DEFLECT",
+  "DEFLECT": {
     "name": "Deflect",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "DEFRAGMENT",
+  "DEFRAGMENT": {
     "name": "Defragment",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "DEFY",
+  "DEFY": {
     "name": "Defy",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "DELAY",
+  "DELAY": {
     "name": "Delay",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEMESNE",
+  "DEMESNE": {
     "name": "Demesne",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "DEMON_FORM",
+  "DEMON_FORM": {
     "name": "Demon Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "DEMONIC_SHIELD",
+  "DEMONIC_SHIELD": {
     "name": "Demonic Shield",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEVASTATE",
+  "DEVASTATE": {
     "name": "Devastate",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DEVOUR_LIFE",
+  "DEVOUR_LIFE": {
     "name": "Devour Life",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "DIRGE",
+  "DIRGE": {
     "name": "Dirge",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DISCOVERY",
+  "DISCOVERY": {
     "name": "Discovery",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DISINTEGRATION",
+  "DISINTEGRATION": {
     "name": "Disintegration",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "DISMANTLE",
+  "DISMANTLE": {
     "name": "Dismantle",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DISTRACTION",
+  "DISTRACTION": {
     "name": "Distraction",
     "cost": 1,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "DODGE_AND_ROLL",
+  "DODGE_AND_ROLL": {
     "name": "Dodge and Roll",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "DOMINATE",
+  "DOMINATE": {
     "name": "Dominate",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DOUBLE_ENERGY",
+  "DOUBLE_ENERGY": {
     "name": "Double Energy",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DOUBT",
+  "DOUBT": {
     "name": "Doubt",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "DRAIN_POWER",
+  "DRAIN_POWER": {
     "name": "Drain Power",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "DRAMATIC_ENTRANCE",
+  "DRAMATIC_ENTRANCE": {
     "name": "Dramatic Entrance",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DREDGE",
+  "DREDGE": {
     "name": "Dredge",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DRUM_OF_BATTLE",
+  "DRUM_OF_BATTLE": {
     "name": "Drum of Battle",
     "cost": 0,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "DUAL_WIELD",
+  "DUAL_WIELD": {
     "name": "Dual Wield",
     "cost": 1,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "DUALCAST",
+  "DUALCAST": {
     "name": "Dualcast",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "DYING_STAR",
+  "DYING_STAR": {
     "name": "Dying Star",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "ECHO_FORM",
+  "ECHO_FORM": {
     "name": "Echo Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ECHOING_SLASH",
+  "ECHOING_SLASH": {
     "name": "Echoing Slash",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "EIDOLON",
+  "EIDOLON": {
     "name": "Eidolon",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "END_OF_DAYS",
+  "END_OF_DAYS": {
     "name": "End of Days",
     "cost": 3,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "ENERGY_SURGE",
+  "ENERGY_SURGE": {
     "name": "Energy Surge",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ENFEEBLING_TOUCH",
+  "ENFEEBLING_TOUCH": {
     "name": "Enfeebling Touch",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ENLIGHTENMENT",
+  "ENLIGHTENMENT": {
     "name": "Enlightenment",
     "cost": 0,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "ENTHRALLED",
+  "ENTHRALLED": {
     "name": "Enthralled",
     "cost": 2,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "ENTRENCH",
+  "ENTRENCH": {
     "name": "Entrench",
     "cost": 2,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "ENTROPY",
+  "ENTROPY": {
     "name": "Entropy",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ENVENOM",
+  "ENVENOM": {
     "name": "Envenom",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "EQUILIBRIUM",
+  "EQUILIBRIUM": {
     "name": "Equilibrium",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ERADICATE",
+  "ERADICATE": {
     "name": "Eradicate",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "ESCAPE_PLAN",
+  "ESCAPE_PLAN": {
     "name": "Escape Plan",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ETERNAL_ARMOR",
+  "ETERNAL_ARMOR": {
     "name": "Eternal Armor",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "EVIL_EYE",
+  "EVIL_EYE": {
     "name": "Evil Eye",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "EXPECT_A_FIGHT",
+  "EXPECT_A_FIGHT": {
     "name": "Expect a Fight",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "EXPERTISE",
+  "EXPERTISE": {
     "name": "Expertise",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "EXPOSE",
+  "EXPOSE": {
     "name": "Expose",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "EXTERMINATE",
+  "EXTERMINATE": {
     "name": "Exterminate",
     "cost": 1,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "FALLING_STAR",
+  "FALLING_STAR": {
     "name": "Falling Star",
     "cost": 0,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "FAN_OF_KNIVES",
+  "FAN_OF_KNIVES": {
     "name": "Fan of Knives",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "FASTEN",
+  "FASTEN": {
     "name": "Fasten",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FEAR",
+  "FEAR": {
     "name": "Fear",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "FEED",
+  "FEED": {
     "name": "Feed",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "FEEDING_FRENZY",
+  "FEEDING_FRENZY": {
     "name": "Feeding Frenzy",
     "cost": 0,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "FEEL_NO_PAIN",
+  "FEEL_NO_PAIN": {
     "name": "Feel No Pain",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FERAL",
+  "FERAL": {
     "name": "Feral",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FETCH",
+  "FETCH": {
     "name": "Fetch",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FIEND_FIRE",
+  "FIEND_FIRE": {
     "name": "Fiend Fire",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "FIGHT_ME",
+  "FIGHT_ME": {
     "name": "Fight Me!",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FIGHT_THROUGH",
+  "FIGHT_THROUGH": {
     "name": "Fight Through",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FINESSE",
+  "FINESSE": {
     "name": "Finesse",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FINISHER",
+  "FINISHER": {
     "name": "Finisher",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FISTICUFFS",
+  "FISTICUFFS": {
     "name": "Fisticuffs",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FLAK_CANNON",
+  "FLAK_CANNON": {
     "name": "Flak Cannon",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "FLAME_BARRIER",
+  "FLAME_BARRIER": {
     "name": "Flame Barrier",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FLANKING",
+  "FLANKING": {
     "name": "Flanking",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FLASH_OF_STEEL",
+  "FLASH_OF_STEEL": {
     "name": "Flash of Steel",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FLATTEN",
+  "FLATTEN": {
     "name": "Flatten",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "FLECHETTES",
+  "FLECHETTES": {
     "name": "Flechettes",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FLICK_FLACK",
+  "FLICK_FLACK": {
     "name": "Flick-Flack",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "FOCUSED_STRIKE",
+  "FOCUSED_STRIKE": {
     "name": "Focused Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "FOLLOW_THROUGH",
+  "FOLLOW_THROUGH": {
     "name": "Follow Through",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FOLLY",
+  "FOLLY": {
     "name": "Folly",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "FOOTWORK",
+  "FOOTWORK": {
     "name": "Footwork",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FORBIDDEN_GRIMOIRE",
+  "FORBIDDEN_GRIMOIRE": {
     "name": "Forbidden Grimoire",
     "cost": 2,
     "type": "Power",
     "rarity": "Ancient"
   },
-  {
-    "id": "FOREGONE_CONCLUSION",
+  "FOREGONE_CONCLUSION": {
     "name": "Foregone Conclusion",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "FORGOTTEN_RITUAL",
+  "FORGOTTEN_RITUAL": {
     "name": "Forgotten Ritual",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FRANTIC_ESCAPE",
+  "FRANTIC_ESCAPE": {
     "name": "Frantic Escape",
     "cost": 1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "FRIENDSHIP",
+  "FRIENDSHIP": {
     "name": "Friendship",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FTL",
+  "FTL": {
     "name": "FTL",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FUEL",
+  "FUEL": {
     "name": "Fuel",
     "cost": 0,
     "type": "Skill",
     "rarity": "Token"
   },
-  {
-    "id": "FURNACE",
+  "FURNACE": {
     "name": "Furnace",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "FUSION",
+  "FUSION": {
     "name": "Fusion",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GAMMA_BLAST",
+  "GAMMA_BLAST": {
     "name": "Gamma Blast",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GANG_UP",
+  "GANG_UP": {
     "name": "Gang Up",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GATHER_LIGHT",
+  "GATHER_LIGHT": {
     "name": "Gather Light",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "GENESIS",
+  "GENESIS": {
     "name": "Genesis",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "GENETIC_ALGORITHM",
+  "GENETIC_ALGORITHM": {
     "name": "Genetic Algorithm",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "GIANT_ROCK",
+  "GIANT_ROCK": {
     "name": "Giant Rock",
     "cost": 1,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "GLACIER",
+  "GLACIER": {
     "name": "Glacier",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GLASSWORK",
+  "GLASSWORK": {
     "name": "Glasswork",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GLIMMER",
+  "GLIMMER": {
     "name": "Glimmer",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GLIMPSE_BEYOND",
+  "GLIMPSE_BEYOND": {
     "name": "Glimpse Beyond",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "GLITTERSTREAM",
+  "GLITTERSTREAM": {
     "name": "Glitterstream",
     "cost": 2,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "GLOW",
+  "GLOW": {
     "name": "Glow",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "GO_FOR_THE_EYES",
+  "GO_FOR_THE_EYES": {
     "name": "Go for the Eyes",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "GOLD_AXE",
+  "GOLD_AXE": {
     "name": "Gold Axe",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "GRAND_FINALE",
+  "GRAND_FINALE": {
     "name": "Grand Finale",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "GRAPPLE",
+  "GRAPPLE": {
     "name": "Grapple",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "GRAVE_WARDEN",
+  "GRAVE_WARDEN": {
     "name": "Grave Warden",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "GRAVEBLAST",
+  "GRAVEBLAST": {
     "name": "Graveblast",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "GREED",
+  "GREED": {
     "name": "Greed",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "GUARDS",
+  "GUARDS": {
     "name": "GUARDS!!!",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "GUIDING_STAR",
+  "GUIDING_STAR": {
     "name": "Guiding Star",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "GUILTY",
+  "GUILTY": {
     "name": "Guilty",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "GUNK_UP",
+  "GUNK_UP": {
     "name": "Gunk Up",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "HAILSTORM",
+  "HAILSTORM": {
     "name": "Hailstorm",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HAMMER_TIME",
+  "HAMMER_TIME": {
     "name": "Hammer Time",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "HAND_OF_GREED",
+  "HAND_OF_GREED": {
     "name": "Hand of Greed",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "HAND_TRICK",
+  "HAND_TRICK": {
     "name": "Hand Trick",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HANG",
+  "HANG": {
     "name": "Hang",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "HAUNT",
+  "HAUNT": {
     "name": "Haunt",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HAVOC",
+  "HAVOC": {
     "name": "Havoc",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "HAZE",
+  "HAZE": {
     "name": "Haze",
     "cost": 3,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HEADBUTT",
+  "HEADBUTT": {
     "name": "Headbutt",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "HEAVENLY_DRILL",
+  "HEAVENLY_DRILL": {
     "name": "Heavenly Drill",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "HEGEMONY",
+  "HEGEMONY": {
     "name": "Hegemony",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HEIRLOOM_HAMMER",
+  "HEIRLOOM_HAMMER": {
     "name": "Heirloom Hammer",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "HELIX_DRILL",
+  "HELIX_DRILL": {
     "name": "Helix Drill",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "HELLO_WORLD",
+  "HELLO_WORLD": {
     "name": "Hello World",
     "cost": 1,
     "type": "Power",
     "rarity": "Event"
   },
-  {
-    "id": "HELLRAISER",
+  "HELLRAISER": {
     "name": "Hellraiser",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "HEMOKINESIS",
+  "HEMOKINESIS": {
     "name": "Hemokinesis",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HIDDEN_CACHE",
+  "HIDDEN_CACHE": {
     "name": "Hidden Cache",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "HIDDEN_DAGGERS",
+  "HIDDEN_DAGGERS": {
     "name": "Hidden Daggers",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HIDDEN_GEM",
+  "HIDDEN_GEM": {
     "name": "Hidden Gem",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "HIGH_FIVE",
+  "HIGH_FIVE": {
     "name": "High Five",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HOLOGRAM",
+  "HOLOGRAM": {
     "name": "Hologram",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "HOTFIX",
+  "HOTFIX": {
     "name": "Hotfix",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "HOWL_FROM_BEYOND",
+  "HOWL_FROM_BEYOND": {
     "name": "Howl from Beyond",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HUDDLE_UP",
+  "HUDDLE_UP": {
     "name": "Huddle Up",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "HYPERBEAM",
+  "HYPERBEAM": {
     "name": "Hyperbeam",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "I_AM_INVINCIBLE",
+  "I_AM_INVINCIBLE": {
     "name": "I Am Invincible",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "ICE_LANCE",
+  "ICE_LANCE": {
     "name": "Ice Lance",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "IGNITION",
+  "IGNITION": {
     "name": "Ignition",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "IMPATIENCE",
+  "IMPATIENCE": {
     "name": "Impatience",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "IMPERVIOUS",
+  "IMPERVIOUS": {
     "name": "Impervious",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "INFECTION",
+  "INFECTION": {
     "name": "Infection",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "INFERNAL_BLADE",
+  "INFERNAL_BLADE": {
     "name": "Infernal Blade",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "INFERNO",
+  "INFERNO": {
     "name": "Inferno",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "INFINITE_BLADES",
+  "INFINITE_BLADES": {
     "name": "Infinite Blades",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "INFLAME",
+  "INFLAME": {
     "name": "Inflame",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "INJURY",
+  "INJURY": {
     "name": "Injury",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "INTERCEPT",
+  "INTERCEPT": {
     "name": "Intercept",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "INVOKE",
+  "INVOKE": {
     "name": "Invoke",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "IRON_WAVE",
+  "IRON_WAVE": {
     "name": "Iron Wave",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "ITERATION",
+  "ITERATION": {
     "name": "Iteration",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "JACK_OF_ALL_TRADES",
+  "JACK_OF_ALL_TRADES": {
     "name": "Jack of All Trades",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "JACKPOT",
+  "JACKPOT": {
     "name": "Jackpot",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "JUGGERNAUT",
+  "JUGGERNAUT": {
     "name": "Juggernaut",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "JUGGLING",
+  "JUGGLING": {
     "name": "Juggling",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "KINGLY_KICK",
+  "KINGLY_KICK": {
     "name": "Kingly Kick",
     "cost": 4,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "KINGLY_PUNCH",
+  "KINGLY_PUNCH": {
     "name": "Kingly Punch",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "KNIFE_TRAP",
+  "KNIFE_TRAP": {
     "name": "Knife Trap",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "KNOCKDOWN",
+  "KNOCKDOWN": {
     "name": "Knockdown",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "KNOCKOUT_BLOW",
+  "KNOCKOUT_BLOW": {
     "name": "Knockout Blow",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "KNOW_THY_PLACE",
+  "KNOW_THY_PLACE": {
     "name": "Know Thy Place",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "LANTERN_KEY",
+  "LANTERN_KEY": {
     "name": "Lantern Key",
     "cost": -1,
     "type": "Quest",
     "rarity": "Quest"
   },
-  {
-    "id": "LARGESSE",
+  "LARGESSE": {
     "name": "Largesse",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LEADING_STRIKE",
+  "LEADING_STRIKE": {
     "name": "Leading Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "LEAP",
+  "LEAP": {
     "name": "Leap",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "LEG_SWEEP",
+  "LEG_SWEEP": {
     "name": "Leg Sweep",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LEGION_OF_BONE",
+  "LEGION_OF_BONE": {
     "name": "Legion of Bone",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LETHALITY",
+  "LETHALITY": {
     "name": "Lethality",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LIFT",
+  "LIFT": {
     "name": "Lift",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LIGHTNING_ROD",
+  "LIGHTNING_ROD": {
     "name": "Lightning Rod",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "LOOP",
+  "LOOP": {
     "name": "Loop",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "LUMINESCE",
+  "LUMINESCE": {
     "name": "Luminesce",
     "cost": 0,
     "type": "Skill",
     "rarity": "Token"
   },
-  {
-    "id": "LUNAR_BLAST",
+  "LUNAR_BLAST": {
     "name": "Lunar Blast",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MACHINE_LEARNING",
+  "MACHINE_LEARNING": {
     "name": "Machine Learning",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "MAD_SCIENCE",
+  "MAD_SCIENCE": {
     "name": "Mad Science",
     "cost": 1,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "MAKE_IT_SO",
+  "MAKE_IT_SO": {
     "name": "Make It So",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "MALAISE",
+  "MALAISE": {
     "name": "Malaise",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "MANGLE",
+  "MANGLE": {
     "name": "Mangle",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "MANIFEST_AUTHORITY",
+  "MANIFEST_AUTHORITY": {
     "name": "Manifest Authority",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MASTER_OF_STRATEGY",
+  "MASTER_OF_STRATEGY": {
     "name": "Master of Strategy",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "MASTER_PLANNER",
+  "MASTER_PLANNER": {
     "name": "Master Planner",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "MAUL",
+  "MAUL": {
     "name": "Maul",
     "cost": 1,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "MAYHEM",
+  "MAYHEM": {
     "name": "Mayhem",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "MELANCHOLY",
+  "MELANCHOLY": {
     "name": "Melancholy",
     "cost": 3,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MEMENTO_MORI",
+  "MEMENTO_MORI": {
     "name": "Memento Mori",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "METAMORPHOSIS",
+  "METAMORPHOSIS": {
     "name": "Metamorphosis",
     "cost": 2,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "METEOR_SHOWER",
+  "METEOR_SHOWER": {
     "name": "Meteor Shower",
     "cost": 0,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "METEOR_STRIKE",
+  "METEOR_STRIKE": {
     "name": "Meteor Strike",
     "cost": 5,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "MIMIC",
+  "MIMIC": {
     "name": "Mimic",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "MIND_BLAST",
+  "MIND_BLAST": {
     "name": "Mind Blast",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MIND_ROT",
+  "MIND_ROT": {
     "name": "Mind Rot",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "MINION_DIVE_BOMB",
+  "MINION_DIVE_BOMB": {
     "name": "Minion Dive Bomb",
     "cost": 1,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "MINION_SACRIFICE",
+  "MINION_SACRIFICE": {
     "name": "Minion Sacrifice",
     "cost": 0,
     "type": "Skill",
     "rarity": "Token"
   },
-  {
-    "id": "MINION_STRIKE",
+  "MINION_STRIKE": {
     "name": "Minion Strike",
     "cost": 0,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "MIRAGE",
+  "MIRAGE": {
     "name": "Mirage",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MISERY",
+  "MISERY": {
     "name": "Misery",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "MODDED",
+  "MODDED": {
     "name": "Modded",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "MOLTEN_FIST",
+  "MOLTEN_FIST": {
     "name": "Molten Fist",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "MOMENTUM_STRIKE",
+  "MOMENTUM_STRIKE": {
     "name": "Momentum Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "MONARCHS_GAZE",
+  "MONARCHS_GAZE": {
     "name": "Monarch's Gaze",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "MONOLOGUE",
+  "MONOLOGUE": {
     "name": "Monologue",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "MULTI_CAST",
+  "MULTI_CAST": {
     "name": "Multi-Cast",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "MURDER",
+  "MURDER": {
     "name": "Murder",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "NECRO_MASTERY",
+  "NECRO_MASTERY": {
     "name": "Necro Mastery",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "NEGATIVE_PULSE",
+  "NEGATIVE_PULSE": {
     "name": "Negative Pulse",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "NEOWS_FURY",
+  "NEOWS_FURY": {
     "name": "Neow's Fury",
     "cost": 1,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "NEUROSURGE",
+  "NEUROSURGE": {
     "name": "Neurosurge",
     "cost": 0,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "NEUTRALIZE",
+  "NEUTRALIZE": {
     "name": "Neutralize",
     "cost": 0,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "NEUTRON_AEGIS",
+  "NEUTRON_AEGIS": {
     "name": "Neutron Aegis",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "NIGHTMARE",
+  "NIGHTMARE": {
     "name": "Nightmare",
     "cost": 3,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "NO_ESCAPE",
+  "NO_ESCAPE": {
     "name": "No Escape",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "NORMALITY",
+  "NORMALITY": {
     "name": "Normality",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "NOSTALGIA",
+  "NOSTALGIA": {
     "name": "Nostalgia",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "NOXIOUS_FUMES",
+  "NOXIOUS_FUMES": {
     "name": "Noxious Fumes",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "NULL",
+  "NULL": {
     "name": "Null",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "OBLIVION",
+  "OBLIVION": {
     "name": "Oblivion",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "OFFERING",
+  "OFFERING": {
     "name": "Offering",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "OMNISLICE",
+  "OMNISLICE": {
     "name": "Omnislice",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ONE_TWO_PUNCH",
+  "ONE_TWO_PUNCH": {
     "name": "One-Two Punch",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "ORBIT",
+  "ORBIT": {
     "name": "Orbit",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "OUTBREAK",
+  "OUTBREAK": {
     "name": "Outbreak",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "OUTMANEUVER",
+  "OUTMANEUVER": {
     "name": "Outmaneuver",
     "cost": 1,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "OVERCLOCK",
+  "OVERCLOCK": {
     "name": "Overclock",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PACTS_END",
+  "PACTS_END": {
     "name": "Pact's End",
     "cost": 0,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "PAGESTORM",
+  "PAGESTORM": {
     "name": "Pagestorm",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PALE_BLUE_DOT",
+  "PALE_BLUE_DOT": {
     "name": "Pale Blue Dot",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PANACHE",
+  "PANACHE": {
     "name": "Panache",
     "cost": 0,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PANIC_BUTTON",
+  "PANIC_BUTTON": {
     "name": "Panic Button",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PARRY",
+  "PARRY": {
     "name": "Parry",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PARSE",
+  "PARSE": {
     "name": "Parse",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PARTICLE_WALL",
+  "PARTICLE_WALL": {
     "name": "Particle Wall",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PATTER",
+  "PATTER": {
     "name": "Patter",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "PECK",
+  "PECK": {
     "name": "Peck",
     "cost": 1,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "PERFECTED_STRIKE",
+  "PERFECTED_STRIKE": {
     "name": "Perfected Strike",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "PHANTOM_BLADES",
+  "PHANTOM_BLADES": {
     "name": "Phantom Blades",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PHOTON_CUT",
+  "PHOTON_CUT": {
     "name": "Photon Cut",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "PIERCING_WAIL",
+  "PIERCING_WAIL": {
     "name": "Piercing Wail",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "PILLAGE",
+  "PILLAGE": {
     "name": "Pillage",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PILLAR_OF_CREATION",
+  "PILLAR_OF_CREATION": {
     "name": "Pillar of Creation",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PINPOINT",
+  "PINPOINT": {
     "name": "Pinpoint",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "POISONED_STAB",
+  "POISONED_STAB": {
     "name": "Poisoned Stab",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "POKE",
+  "POKE": {
     "name": "Poke",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "POMMEL_STRIKE",
+  "POMMEL_STRIKE": {
     "name": "Pommel Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "POOR_SLEEP",
+  "POOR_SLEEP": {
     "name": "Poor Sleep",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "POUNCE",
+  "POUNCE": {
     "name": "Pounce",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PRECISE_CUT",
+  "PRECISE_CUT": {
     "name": "Precise Cut",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PREDATOR",
+  "PREDATOR": {
     "name": "Predator",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PREP_TIME",
+  "PREP_TIME": {
     "name": "Prep Time",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PREPARED",
+  "PREPARED": {
     "name": "Prepared",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "PRIMAL_FORCE",
+  "PRIMAL_FORCE": {
     "name": "Primal Force",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "PRODUCTION",
+  "PRODUCTION": {
     "name": "Production",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PROLONG",
+  "PROLONG": {
     "name": "Prolong",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PROPHESIZE",
+  "PROPHESIZE": {
     "name": "Prophesize",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PROTECTOR",
+  "PROTECTOR": {
     "name": "Protector",
     "cost": 1,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "PROWESS",
+  "PROWESS": {
     "name": "Prowess",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PULL_AGGRO",
+  "PULL_AGGRO": {
     "name": "Pull Aggro",
     "cost": 2,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "PULL_FROM_BELOW",
+  "PULL_FROM_BELOW": {
     "name": "Pull from Below",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PURITY",
+  "PURITY": {
     "name": "Purity",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PUTREFY",
+  "PUTREFY": {
     "name": "Putrefy",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "PYRE",
+  "PYRE": {
     "name": "Pyre",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "QUADCAST",
+  "QUADCAST": {
     "name": "Quadcast",
     "cost": 1,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "QUASAR",
+  "QUASAR": {
     "name": "Quasar",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RADIATE",
+  "RADIATE": {
     "name": "Radiate",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RAGE",
+  "RAGE": {
     "name": "Rage",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RAINBOW",
+  "RAINBOW": {
     "name": "Rainbow",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "RALLY",
+  "RALLY": {
     "name": "Rally",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "RAMPAGE",
+  "RAMPAGE": {
     "name": "Rampage",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RATTLE",
+  "RATTLE": {
     "name": "Rattle",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "REANIMATE",
+  "REANIMATE": {
     "name": "Reanimate",
     "cost": 3,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "REAP",
+  "REAP": {
     "name": "Reap",
     "cost": 3,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "REAPER_FORM",
+  "REAPER_FORM": {
     "name": "Reaper Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "REAVE",
+  "REAVE": {
     "name": "Reave",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "REBOOT",
+  "REBOOT": {
     "name": "Reboot",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "REBOUND",
+  "REBOUND": {
     "name": "Rebound",
     "cost": 1,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "REFINE_BLADE",
+  "REFINE_BLADE": {
     "name": "Refine Blade",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "REFLECT",
+  "REFLECT": {
     "name": "Reflect",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "REFLEX",
+  "REFLEX": {
     "name": "Reflex",
     "cost": 3,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "REFRACT",
+  "REFRACT": {
     "name": "Refract",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "REGRET",
+  "REGRET": {
     "name": "Regret",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "RELAX",
+  "RELAX": {
     "name": "Relax",
     "cost": 3,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "REND",
+  "REND": {
     "name": "Rend",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "RESONANCE",
+  "RESONANCE": {
     "name": "Resonance",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RESTLESSNESS",
+  "RESTLESSNESS": {
     "name": "Restlessness",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RICOCHET",
+  "RICOCHET": {
     "name": "Ricochet",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "RIGHT_HAND_HAND",
+  "RIGHT_HAND_HAND": {
     "name": "Right Hand Hand",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "RIP_AND_TEAR",
+  "RIP_AND_TEAR": {
     "name": "Rip and Tear",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ROCKET_PUNCH",
+  "ROCKET_PUNCH": {
     "name": "Rocket Punch",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ROLLING_BOULDER",
+  "ROLLING_BOULDER": {
     "name": "Rolling Boulder",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ROYAL_GAMBLE",
+  "ROYAL_GAMBLE": {
     "name": "Royal Gamble",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ROYALTIES",
+  "ROYALTIES": {
     "name": "Royalties",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "RUPTURE",
+  "RUPTURE": {
     "name": "Rupture",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SACRIFICE",
+  "SACRIFICE": {
     "name": "Sacrifice",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SALVO",
+  "SALVO": {
     "name": "Salvo",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "SCAVENGE",
+  "SCAVENGE": {
     "name": "Scavenge",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SCOURGE",
+  "SCOURGE": {
     "name": "Scourge",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "SCRAPE",
+  "SCRAPE": {
     "name": "Scrape",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SCRAWL",
+  "SCRAWL": {
     "name": "Scrawl",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SCULPTING_STRIKE",
+  "SCULPTING_STRIKE": {
     "name": "Sculpting Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SEANCE",
+  "SEANCE": {
     "name": "Seance",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SECOND_WIND",
+  "SECOND_WIND": {
     "name": "Second Wind",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SECRET_TECHNIQUE",
+  "SECRET_TECHNIQUE": {
     "name": "Secret Technique",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SECRET_WEAPON",
+  "SECRET_WEAPON": {
     "name": "Secret Weapon",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SEEKER_STRIKE",
+  "SEEKER_STRIKE": {
     "name": "Seeker Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SEEKING_EDGE",
+  "SEEKING_EDGE": {
     "name": "Seeking Edge",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SENTRY_MODE",
+  "SENTRY_MODE": {
     "name": "Sentry Mode",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SERPENT_FORM",
+  "SERPENT_FORM": {
     "name": "Serpent Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SETUP_STRIKE",
+  "SETUP_STRIKE": {
     "name": "Setup Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SEVEN_STARS",
+  "SEVEN_STARS": {
     "name": "Seven Stars",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "SEVERANCE",
+  "SEVERANCE": {
     "name": "Severance",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SHADOW_SHIELD",
+  "SHADOW_SHIELD": {
     "name": "Shadow Shield",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SHADOW_STEP",
+  "SHADOW_STEP": {
     "name": "Shadow Step",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SHADOWMELD",
+  "SHADOWMELD": {
     "name": "Shadowmeld",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SHAME",
+  "SHAME": {
     "name": "Shame",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "SHARED_FATE",
+  "SHARED_FATE": {
     "name": "Shared Fate",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SHATTER",
+  "SHATTER": {
     "name": "Shatter",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "SHINING_STRIKE",
+  "SHINING_STRIKE": {
     "name": "Shining Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SHIV",
+  "SHIV": {
     "name": "Shiv",
     "cost": 0,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "SHOCKWAVE",
+  "SHOCKWAVE": {
     "name": "Shockwave",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SHROUD",
+  "SHROUD": {
     "name": "Shroud",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SHRUG_IT_OFF",
+  "SHRUG_IT_OFF": {
     "name": "Shrug It Off",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "SIC_EM",
+  "SIC_EM": {
     "name": "Sic 'Em",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SIGNAL_BOOST",
+  "SIGNAL_BOOST": {
     "name": "Signal Boost",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SKEWER",
+  "SKEWER": {
     "name": "Skewer",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SKIM",
+  "SKIM": {
     "name": "Skim",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SLEIGHT_OF_FLESH",
+  "SLEIGHT_OF_FLESH": {
     "name": "Sleight of Flesh",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SLICE",
+  "SLICE": {
     "name": "Slice",
     "cost": 0,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SLIMED",
+  "SLIMED": {
     "name": "Slimed",
     "cost": 1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "SLOTH",
+  "SLOTH": {
     "name": "Sloth",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "SMOKESTACK",
+  "SMOKESTACK": {
     "name": "Smokestack",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SNAKEBITE",
+  "SNAKEBITE": {
     "name": "Snakebite",
     "cost": 2,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "SNAP",
+  "SNAP": {
     "name": "Snap",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SNEAKY",
+  "SNEAKY": {
     "name": "Sneaky",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SOLAR_STRIKE",
+  "SOLAR_STRIKE": {
     "name": "Solar Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SOOT",
+  "SOOT": {
     "name": "Soot",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "SOUL",
+  "SOUL": {
     "name": "Soul",
     "cost": 0,
     "type": "Skill",
     "rarity": "Token"
   },
-  {
-    "id": "SOUL_STORM",
+  "SOUL_STORM": {
     "name": "Soul Storm",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "SOVEREIGN_BLADE",
+  "SOVEREIGN_BLADE": {
     "name": "Sovereign Blade",
     "cost": 2,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "SOW",
+  "SOW": {
     "name": "Sow",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SPECTRUM_SHIFT",
+  "SPECTRUM_SHIFT": {
     "name": "Spectrum Shift",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SPEEDSTER",
+  "SPEEDSTER": {
     "name": "Speedster",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SPINNER",
+  "SPINNER": {
     "name": "Spinner",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SPIRIT_OF_ASH",
+  "SPIRIT_OF_ASH": {
     "name": "Spirit of Ash",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SPITE",
+  "SPITE": {
     "name": "Spite",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SPLASH",
+  "SPLASH": {
     "name": "Splash",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SPOILS_MAP",
+  "SPOILS_MAP": {
     "name": "Spoils Map",
     "cost": -1,
     "type": "Quest",
     "rarity": "Quest"
   },
-  {
-    "id": "SPOILS_OF_BATTLE",
+  "SPOILS_OF_BATTLE": {
     "name": "Spoils of Battle",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "SPORE_MIND",
+  "SPORE_MIND": {
     "name": "Spore Mind",
     "cost": 1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "SPUR",
+  "SPUR": {
     "name": "Spur",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SQUASH",
+  "SQUASH": {
     "name": "Squash",
     "cost": 1,
     "type": "Attack",
     "rarity": "Event"
   },
-  {
-    "id": "SQUEEZE",
+  "SQUEEZE": {
     "name": "Squeeze",
     "cost": 3,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "STACK",
+  "STACK": {
     "name": "Stack",
     "cost": 1,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "STAMPEDE",
+  "STAMPEDE": {
     "name": "Stampede",
     "cost": 2,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STARDUST",
+  "STARDUST": {
     "name": "Stardust",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STOKE",
+  "STOKE": {
     "name": "Stoke",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "STOMP",
+  "STOMP": {
     "name": "Stomp",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STONE_ARMOR",
+  "STONE_ARMOR": {
     "name": "Stone Armor",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STORM",
+  "STORM": {
     "name": "Storm",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STORM_OF_STEEL",
+  "STORM_OF_STEEL": {
     "name": "Storm of Steel",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "STRANGLE",
+  "STRANGLE": {
     "name": "Strangle",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STRATAGEM",
+  "STRATAGEM": {
     "name": "Stratagem",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "STRIKE_DEFECT",
+  "STRIKE_DEFECT": {
     "name": "Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "STRIKE_IRONCLAD",
+  "STRIKE_IRONCLAD": {
     "name": "Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "STRIKE_NECROBINDER",
+  "STRIKE_NECROBINDER": {
     "name": "Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "STRIKE_REGENT",
+  "STRIKE_REGENT": {
     "name": "Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "STRIKE_SILENT",
+  "STRIKE_SILENT": {
     "name": "Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "SUBROUTINE",
+  "SUBROUTINE": {
     "name": "Subroutine",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SUCKER_PUNCH",
+  "SUCKER_PUNCH": {
     "name": "Sucker Punch",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SUMMON_FORTH",
+  "SUMMON_FORTH": {
     "name": "Summon Forth",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SUNDER",
+  "SUNDER": {
     "name": "Sunder",
     "cost": 3,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SUPERCRITICAL",
+  "SUPERCRITICAL": {
     "name": "Supercritical",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "SUPERMASSIVE",
+  "SUPERMASSIVE": {
     "name": "Supermassive",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SUPPRESS",
+  "SUPPRESS": {
     "name": "Suppress",
     "cost": 0,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "SURVIVOR",
+  "SURVIVOR": {
     "name": "Survivor",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "SWEEPING_BEAM",
+  "SWEEPING_BEAM": {
     "name": "Sweeping Beam",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SWEEPING_GAZE",
+  "SWEEPING_GAZE": {
     "name": "Sweeping Gaze",
     "cost": 0,
     "type": "Attack",
     "rarity": "Token"
   },
-  {
-    "id": "SWORD_BOOMERANG",
+  "SWORD_BOOMERANG": {
     "name": "Sword Boomerang",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "SWORD_SAGE",
+  "SWORD_SAGE": {
     "name": "Sword Sage",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "SYNCHRONIZE",
+  "SYNCHRONIZE": {
     "name": "Synchronize",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "SYNTHESIS",
+  "SYNTHESIS": {
     "name": "Synthesis",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TACTICIAN",
+  "TACTICIAN": {
     "name": "Tactician",
     "cost": 3,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TAG_TEAM",
+  "TAG_TEAM": {
     "name": "Tag Team",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TANK",
+  "TANK": {
     "name": "Tank",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "TAUNT",
+  "TAUNT": {
     "name": "Taunt",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TEAR_ASUNDER",
+  "TEAR_ASUNDER": {
     "name": "Tear Asunder",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "TEMPEST",
+  "TEMPEST": {
     "name": "Tempest",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TERRAFORMING",
+  "TERRAFORMING": {
     "name": "Terraforming",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "TESLA_COIL",
+  "TESLA_COIL": {
     "name": "Tesla Coil",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "THE_BOMB",
+  "THE_BOMB": {
     "name": "The Bomb",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "THE_GAMBIT",
+  "THE_GAMBIT": {
     "name": "The Gambit",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "THE_HUNT",
+  "THE_HUNT": {
     "name": "The Hunt",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "THE_SCYTHE",
+  "THE_SCYTHE": {
     "name": "The Scythe",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "THE_SEALED_THRONE",
+  "THE_SEALED_THRONE": {
     "name": "The Sealed Throne",
     "cost": 1,
     "type": "Power",
     "rarity": "Ancient"
   },
-  {
-    "id": "THE_SMITH",
+  "THE_SMITH": {
     "name": "The Smith",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "THINKING_AHEAD",
+  "THINKING_AHEAD": {
     "name": "Thinking Ahead",
     "cost": 0,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "THRASH",
+  "THRASH": {
     "name": "Thrash",
     "cost": 1,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "THRUMMING_HATCHET",
+  "THRUMMING_HATCHET": {
     "name": "Thrumming Hatchet",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "THUNDER",
+  "THUNDER": {
     "name": "Thunder",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "THUNDERCLAP",
+  "THUNDERCLAP": {
     "name": "Thunderclap",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "TIMES_UP",
+  "TIMES_UP": {
     "name": "Time's Up",
     "cost": 2,
     "type": "Attack",
     "rarity": "Rare"
   },
-  {
-    "id": "TOOLS_OF_THE_TRADE",
+  "TOOLS_OF_THE_TRADE": {
     "name": "Tools of the Trade",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "TORIC_TOUGHNESS",
+  "TORIC_TOUGHNESS": {
     "name": "Toric Toughness",
     "cost": 2,
     "type": "Skill",
     "rarity": "Event"
   },
-  {
-    "id": "TOXIC",
+  "TOXIC": {
     "name": "Toxic",
     "cost": 1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "TRACKING",
+  "TRACKING": {
     "name": "Tracking",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "TRANSFIGURE",
+  "TRANSFIGURE": {
     "name": "Transfigure",
     "cost": 1,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "TRASH_TO_TREASURE",
+  "TRASH_TO_TREASURE": {
     "name": "Trash to Treasure",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "TREMBLE",
+  "TREMBLE": {
     "name": "Tremble",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "TRUE_GRIT",
+  "TRUE_GRIT": {
     "name": "True Grit",
     "cost": 1,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "TURBO",
+  "TURBO": {
     "name": "TURBO",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "TWIN_STRIKE",
+  "TWIN_STRIKE": {
     "name": "Twin Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "TYRANNY",
+  "TYRANNY": {
     "name": "Tyranny",
     "cost": 1,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "ULTIMATE_DEFEND",
+  "ULTIMATE_DEFEND": {
     "name": "Ultimate Defend",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "ULTIMATE_STRIKE",
+  "ULTIMATE_STRIKE": {
     "name": "Ultimate Strike",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "UNDEATH",
+  "UNDEATH": {
     "name": "Undeath",
     "cost": 0,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "UNLEASH",
+  "UNLEASH": {
     "name": "Unleash",
     "cost": 1,
     "type": "Attack",
     "rarity": "Basic"
   },
-  {
-    "id": "UNMOVABLE",
+  "UNMOVABLE": {
     "name": "Unmovable",
     "cost": 2,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "UNRELENTING",
+  "UNRELENTING": {
     "name": "Unrelenting",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "UNTOUCHABLE",
+  "UNTOUCHABLE": {
     "name": "Untouchable",
     "cost": 2,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "UP_MY_SLEEVE",
+  "UP_MY_SLEEVE": {
     "name": "Up My Sleeve",
     "cost": 2,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "UPPERCUT",
+  "UPPERCUT": {
     "name": "Uppercut",
     "cost": 2,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "UPROAR",
+  "UPROAR": {
     "name": "Uproar",
     "cost": 2,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "VEILPIERCER",
+  "VEILPIERCER": {
     "name": "Veilpiercer",
     "cost": 1,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "VENERATE",
+  "VENERATE": {
     "name": "Venerate",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   },
-  {
-    "id": "VICIOUS",
+  "VICIOUS": {
     "name": "Vicious",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "VOID",
+  "VOID": {
     "name": "Void",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "VOID_FORM",
+  "VOID_FORM": {
     "name": "Void Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Rare"
   },
-  {
-    "id": "VOLLEY",
+  "VOLLEY": {
     "name": "Volley",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "VOLTAIC",
+  "VOLTAIC": {
     "name": "Voltaic",
     "cost": 2,
     "type": "Skill",
     "rarity": "Rare"
   },
-  {
-    "id": "WASTE_AWAY",
+  "WASTE_AWAY": {
     "name": "Waste Away",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "WELL_LAID_PLANS",
+  "WELL_LAID_PLANS": {
     "name": "Well-Laid Plans",
     "cost": 1,
     "type": "Power",
     "rarity": "Uncommon"
   },
-  {
-    "id": "WHIRLWIND",
+  "WHIRLWIND": {
     "name": "Whirlwind",
     "cost": 0,
     "type": "Attack",
     "rarity": "Uncommon"
   },
-  {
-    "id": "WHISTLE",
+  "WHISTLE": {
     "name": "Whistle",
     "cost": 3,
     "type": "Attack",
     "rarity": "Ancient"
   },
-  {
-    "id": "WHITE_NOISE",
+  "WHITE_NOISE": {
     "name": "White Noise",
     "cost": 1,
     "type": "Skill",
     "rarity": "Uncommon"
   },
-  {
-    "id": "WISH",
+  "WISH": {
     "name": "Wish",
     "cost": 0,
     "type": "Skill",
     "rarity": "Ancient"
   },
-  {
-    "id": "WISP",
+  "WISP": {
     "name": "Wisp",
     "cost": 0,
     "type": "Skill",
     "rarity": "Common"
   },
-  {
-    "id": "WOUND",
+  "WOUND": {
     "name": "Wound",
     "cost": -1,
     "type": "Status",
     "rarity": "Status"
   },
-  {
-    "id": "WRAITH_FORM",
+  "WRAITH_FORM": {
     "name": "Wraith Form",
     "cost": 3,
     "type": "Power",
     "rarity": "Ancient"
   },
-  {
-    "id": "WRITHE",
+  "WRITHE": {
     "name": "Writhe",
     "cost": -1,
     "type": "Curse",
     "rarity": "Curse"
   },
-  {
-    "id": "WROUGHT_IN_WAR",
+  "WROUGHT_IN_WAR": {
     "name": "Wrought in War",
     "cost": 1,
     "type": "Attack",
     "rarity": "Common"
   },
-  {
-    "id": "ZAP",
+  "ZAP": {
     "name": "Zap",
     "cost": 1,
     "type": "Skill",
     "rarity": "Basic"
   }
-]
+}

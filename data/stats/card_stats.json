@@ -1,3182 +1,3458 @@
-[
-  {
-    "id": "STRIKE_IRONCLAD",
-    "pick_rate": 0,
-    "win_rate": 0.259,
-    "times_picked": 0
-  },
-  {
-    "id": "DEFEND_IRONCLAD",
-    "pick_rate": 0,
-    "win_rate": 0.3,
-    "times_picked": 0
-  },
-  {
-    "id": "BASH",
-    "pick_rate": 0,
-    "win_rate": 0.3,
-    "times_picked": 0
-  },
-  {
-    "id": "SETUP_STRIKE",
-    "pick_rate": 0.184,
-    "win_rate": 0.25,
-    "times_picked": 7
-  },
-  {
-    "id": "INFLAME",
-    "pick_rate": 0.182,
-    "win_rate": 0.333,
-    "times_picked": 4
-  },
-  {
-    "id": "DISMANTLE",
-    "pick_rate": 0.182,
-    "win_rate": 0.0,
-    "times_picked": 4
-  },
-  {
-    "id": "ARMAMENTS",
-    "pick_rate": 0.531,
-    "win_rate": 0.421,
-    "times_picked": 17
-  },
-  {
-    "id": "PYRE",
-    "pick_rate": 0.364,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "BYRD_SWOOP",
-    "pick_rate": 0,
-    "win_rate": 0.25,
-    "times_picked": 0
-  },
-  {
-    "id": "BATTLE_TRANCE",
-    "pick_rate": 0.444,
-    "win_rate": 0.429,
-    "times_picked": 8
-  },
-  {
-    "id": "THRASH",
-    "pick_rate": 0.167,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "WHIRLWIND",
-    "pick_rate": 0.1,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "INFERNAL_BLADE",
-    "pick_rate": 0.421,
-    "win_rate": 0.333,
-    "times_picked": 8
-  },
-  {
-    "id": "IRON_WAVE",
-    "pick_rate": 0.268,
-    "win_rate": 0.2,
-    "times_picked": 11
-  },
-  {
-    "id": "DISCOVERY",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "GRAPPLE",
-    "pick_rate": 0.4,
-    "win_rate": 0.25,
-    "times_picked": 6
-  },
-  {
-    "id": "THRUMMING_HATCHET",
-    "pick_rate": 0.143,
-    "win_rate": 0.667,
-    "times_picked": 1
-  },
-  {
-    "id": "BLUDGEON",
-    "pick_rate": 0.25,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "MAD_SCIENCE",
-    "pick_rate": 0,
-    "win_rate": 0.833,
-    "times_picked": 0
-  },
-  {
-    "id": "TREMBLE",
-    "pick_rate": 0.143,
-    "win_rate": 0.333,
-    "times_picked": 8
-  },
-  {
-    "id": "BLOOD_WALL",
-    "pick_rate": 0.351,
-    "win_rate": 0.364,
-    "times_picked": 13
-  },
-  {
-    "id": "BREAKTHROUGH",
-    "pick_rate": 0.297,
-    "win_rate": 0.125,
-    "times_picked": 11
-  },
-  {
-    "id": "ANGER",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 9
-  },
-  {
-    "id": "CINDER",
-    "pick_rate": 0.273,
-    "win_rate": 0.2,
-    "times_picked": 9
-  },
-  {
-    "id": "STOMP",
-    "pick_rate": 0.235,
-    "win_rate": 0.2,
-    "times_picked": 4
-  },
-  {
-    "id": "SHRUG_IT_OFF",
-    "pick_rate": 0.2,
-    "win_rate": 0.6,
-    "times_picked": 8
-  },
-  {
-    "id": "THUNDERCLAP",
-    "pick_rate": 0.163,
-    "win_rate": 0.4,
-    "times_picked": 7
-  },
-  {
-    "id": "PERFECTED_STRIKE",
-    "pick_rate": 0.159,
-    "win_rate": 0.5,
-    "times_picked": 7
-  },
-  {
-    "id": "BLOODLETTING",
-    "pick_rate": 0.125,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "HAVOC",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "JUGGLING",
-    "pick_rate": 0.053,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "BELIEVE_IN_YOU",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "MASTER_OF_STRATEGY",
-    "pick_rate": 0.0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "EVIL_EYE",
-    "pick_rate": 0.318,
-    "win_rate": 0.429,
-    "times_picked": 7
-  },
-  {
-    "id": "RAGE",
-    "pick_rate": 0.636,
-    "win_rate": 0.545,
-    "times_picked": 14
-  },
-  {
-    "id": "TRUE_GRIT",
-    "pick_rate": 0.178,
-    "win_rate": 0.286,
-    "times_picked": 8
-  },
-  {
-    "id": "UPPERCUT",
-    "pick_rate": 0.083,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "PILLAGE",
-    "pick_rate": 0.071,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "RAMPAGE",
-    "pick_rate": 0.2,
-    "win_rate": 0.167,
-    "times_picked": 4
-  },
-  {
-    "id": "FLAME_BARRIER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PRIMAL_FORCE",
-    "pick_rate": 0.091,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DEMON_FORM",
-    "pick_rate": 0.556,
-    "win_rate": 0.5,
-    "times_picked": 5
-  },
-  {
-    "id": "OFFERING",
-    "pick_rate": 0.273,
-    "win_rate": 0.2,
-    "times_picked": 3
-  },
-  {
-    "id": "DEMONIC_SHIELD",
-    "pick_rate": 0.3,
-    "win_rate": 0.25,
-    "times_picked": 3
-  },
-  {
-    "id": "RUPTURE",
-    "pick_rate": 0.111,
-    "win_rate": 0.4,
-    "times_picked": 2
-  },
-  {
-    "id": "ROLLING_BOULDER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BURNING_PACT",
-    "pick_rate": 0.214,
-    "win_rate": 0.4,
-    "times_picked": 3
-  },
-  {
-    "id": "CONFLAGRATION",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "UNMOVABLE",
-    "pick_rate": 0.333,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "IMPERVIOUS",
-    "pick_rate": 0.385,
-    "win_rate": 0.667,
-    "times_picked": 5
-  },
-  {
-    "id": "HEMOKINESIS",
-    "pick_rate": 0.077,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "MANGLE",
-    "pick_rate": 0.071,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "UNRELENTING",
-    "pick_rate": 0.267,
-    "win_rate": 0.6,
-    "times_picked": 4
-  },
-  {
-    "id": "TAUNT",
-    "pick_rate": 0.688,
-    "win_rate": 0.444,
-    "times_picked": 11
-  },
-  {
-    "id": "STAMPEDE",
-    "pick_rate": 0.214,
-    "win_rate": 0.6,
-    "times_picked": 3
-  },
-  {
-    "id": "THE_GAMBIT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "STRIKE_SILENT",
-    "pick_rate": 0,
-    "win_rate": 0.308,
-    "times_picked": 0
-  },
-  {
-    "id": "DEFEND_SILENT",
-    "pick_rate": 0,
-    "win_rate": 0.312,
-    "times_picked": 0
-  },
-  {
-    "id": "NEUTRALIZE",
-    "pick_rate": 0,
-    "win_rate": 0.353,
-    "times_picked": 0
-  },
-  {
-    "id": "SURVIVOR",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "BOUNCING_FLASK",
-    "pick_rate": 0.158,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "DAGGER_THROW",
-    "pick_rate": 0.222,
-    "win_rate": 0.286,
-    "times_picked": 8
-  },
-  {
-    "id": "SUCKER_PUNCH",
-    "pick_rate": 0.143,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "ANTICIPATE",
-    "pick_rate": 0.286,
-    "win_rate": 0.273,
-    "times_picked": 10
-  },
-  {
-    "id": "POISONED_STAB",
-    "pick_rate": 0.067,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "PREPARED",
-    "pick_rate": 0.5,
-    "win_rate": 0.5,
-    "times_picked": 14
-  },
-  {
-    "id": "BULLET_TIME",
-    "pick_rate": 0.111,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "BACKFLIP",
-    "pick_rate": 0.19,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "MIRAGE",
-    "pick_rate": 0.188,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "HAZE",
-    "pick_rate": 0.0,
-    "win_rate": 0.667,
-    "times_picked": 0
-  },
-  {
-    "id": "DEADLY_POISON",
-    "pick_rate": 0.071,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "CORROSIVE_WAVE",
-    "pick_rate": 0.5,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "ACROBATICS",
-    "pick_rate": 0.318,
-    "win_rate": 0.3,
-    "times_picked": 7
-  },
-  {
-    "id": "OUTBREAK",
-    "pick_rate": 0.0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "PREDATOR",
-    "pick_rate": 0.067,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "CALCULATED_GAMBLE",
-    "pick_rate": 0.231,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "THE_HUNT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "UP_MY_SLEEVE",
-    "pick_rate": 0.267,
-    "win_rate": 0.75,
-    "times_picked": 4
-  },
-  {
-    "id": "ACCURACY",
-    "pick_rate": 0.353,
-    "win_rate": 0.8,
-    "times_picked": 6
-  },
-  {
-    "id": "SPEEDSTER",
-    "pick_rate": 0.091,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "TRACKING",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "LEADING_STRIKE",
-    "pick_rate": 0.129,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "FOLLOW_THROUGH",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "AFTERIMAGE",
-    "pick_rate": 0.333,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "MALAISE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "RICOCHET",
-    "pick_rate": 0.04,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DAGGER_SPRAY",
-    "pick_rate": 0.192,
-    "win_rate": 0.429,
-    "times_picked": 5
-  },
-  {
-    "id": "TACTICIAN",
-    "pick_rate": 0.25,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "BACKSTAB",
-    "pick_rate": 0.222,
-    "win_rate": 0.667,
-    "times_picked": 2
-  },
-  {
-    "id": "MEMENTO_MORI",
-    "pick_rate": 0.067,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DODGE_AND_ROLL",
-    "pick_rate": 0.03,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "THINKING_AHEAD",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "KNOCKDOWN",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CLOAK_AND_DAGGER",
-    "pick_rate": 0.242,
-    "win_rate": 0.571,
-    "times_picked": 8
-  },
-  {
-    "id": "SKEWER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BLADE_DANCE",
-    "pick_rate": 0.259,
-    "win_rate": 0.5,
-    "times_picked": 7
-  },
-  {
-    "id": "DASH",
-    "pick_rate": 0.444,
-    "win_rate": 0.0,
-    "times_picked": 4
-  },
-  {
-    "id": "FINISHER",
-    "pick_rate": 0.267,
-    "win_rate": 0.667,
-    "times_picked": 4
-  },
-  {
-    "id": "EXPERTISE",
-    "pick_rate": 0.167,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "SEEKER_STRIKE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "LEG_SWEEP",
-    "pick_rate": 0.077,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "STRANGLE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "ECHOING_SLASH",
-    "pick_rate": 0.143,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PIERCING_WAIL",
-    "pick_rate": 0.31,
-    "win_rate": 0.3,
-    "times_picked": 9
-  },
-  {
-    "id": "MURDER",
-    "pick_rate": 0.167,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "POUNCE",
-    "pick_rate": 0.308,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "SHADOW_STEP",
-    "pick_rate": 0.333,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "TAG_TEAM",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "RALLY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "UNTOUCHABLE",
-    "pick_rate": 0.37,
-    "win_rate": 0.111,
-    "times_picked": 10
-  },
-  {
-    "id": "INFINITE_BLADES",
-    "pick_rate": 0.5,
-    "win_rate": 0.8,
-    "times_picked": 9
-  },
-  {
-    "id": "JACK_OF_ALL_TRADES",
-    "pick_rate": 0.1,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "STRIKE_REGENT",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "DEFEND_REGENT",
-    "pick_rate": 0,
-    "win_rate": 0.318,
-    "times_picked": 0
-  },
-  {
-    "id": "FALLING_STAR",
-    "pick_rate": 0,
-    "win_rate": 0.364,
-    "times_picked": 0
-  },
-  {
-    "id": "VENERATE",
-    "pick_rate": 0,
-    "win_rate": 0.385,
-    "times_picked": 0
-  },
-  {
-    "id": "CLOAK_OF_STARS",
-    "pick_rate": 0.421,
-    "win_rate": 0.455,
-    "times_picked": 16
-  },
-  {
-    "id": "PURITY",
-    "pick_rate": 0.125,
-    "win_rate": 0.667,
-    "times_picked": 1
-  },
-  {
-    "id": "CHILD_OF_THE_STARS",
-    "pick_rate": 0.13,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "CRUSH_UNDER",
-    "pick_rate": 0.268,
-    "win_rate": 0.545,
-    "times_picked": 11
-  },
-  {
-    "id": "MONARCHS_GAZE",
-    "pick_rate": 0.125,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SOLAR_STRIKE",
-    "pick_rate": 0.355,
-    "win_rate": 0.364,
-    "times_picked": 11
-  },
-  {
-    "id": "DEVASTATE",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "CRESCENT_SPEAR",
-    "pick_rate": 0.195,
-    "win_rate": 1.0,
-    "times_picked": 8
-  },
-  {
-    "id": "FOREGONE_CONCLUSION",
-    "pick_rate": 0.333,
-    "win_rate": 0.6,
-    "times_picked": 4
-  },
-  {
-    "id": "SQUASH",
-    "pick_rate": 0,
-    "win_rate": 0.667,
-    "times_picked": 0
-  },
-  {
-    "id": "GATHER_LIGHT",
-    "pick_rate": 0.275,
-    "win_rate": 0.4,
-    "times_picked": 11
-  },
-  {
-    "id": "DYING_STAR",
-    "pick_rate": 0.6,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "ENTHRALLED",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "HIDDEN_CACHE",
-    "pick_rate": 0.194,
-    "win_rate": 0.625,
-    "times_picked": 7
-  },
-  {
-    "id": "CLUMSY",
-    "pick_rate": 0,
-    "win_rate": 0.111,
-    "times_picked": 0
-  },
-  {
-    "id": "SPECTRUM_SHIFT",
-    "pick_rate": 0.167,
-    "win_rate": 0.75,
-    "times_picked": 3
-  },
-  {
-    "id": "KNOW_THY_PLACE",
-    "pick_rate": 0.243,
-    "win_rate": 0.2,
-    "times_picked": 9
-  },
-  {
-    "id": "GLITTERSTREAM",
-    "pick_rate": 0.217,
-    "win_rate": 0.5,
-    "times_picked": 10
-  },
-  {
-    "id": "OMNISLICE",
-    "pick_rate": 0.167,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "GLOW",
-    "pick_rate": 0.065,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "KINGLY_KICK",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "COSMIC_INDIFFERENCE",
-    "pick_rate": 0.267,
-    "win_rate": 0.714,
-    "times_picked": 8
-  },
-  {
-    "id": "WROUGHT_IN_WAR",
-    "pick_rate": 0.184,
-    "win_rate": 0.286,
-    "times_picked": 9
-  },
-  {
-    "id": "BUNDLE_OF_JOY",
-    "pick_rate": 0.1,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "GUIDING_STAR",
-    "pick_rate": 0.07,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "ROYAL_GAMBLE",
-    "pick_rate": 0.6,
-    "win_rate": 0.429,
-    "times_picked": 6
-  },
-  {
-    "id": "SEVEN_STARS",
-    "pick_rate": 0.091,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "THE_SMITH",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "PHOTON_CUT",
-    "pick_rate": 0.024,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "CELESTIAL_MIGHT",
-    "pick_rate": 0.077,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "COLLISION_COURSE",
-    "pick_rate": 0.053,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "BEAT_INTO_SHAPE",
-    "pick_rate": 0.125,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "REFINE_BLADE",
-    "pick_rate": 0.207,
-    "win_rate": 0.0,
-    "times_picked": 6
-  },
-  {
-    "id": "GAMMA_BLAST",
-    "pick_rate": 0.5,
-    "win_rate": 0.714,
-    "times_picked": 8
-  },
-  {
-    "id": "HEIRLOOM_HAMMER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "HEGEMONY",
-    "pick_rate": 0.133,
-    "win_rate": 0.667,
-    "times_picked": 2
-  },
-  {
-    "id": "ROYALTIES",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "MANIFEST_AUTHORITY",
-    "pick_rate": 0.308,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "SHINING_STRIKE",
-    "pick_rate": 0.333,
-    "win_rate": 0.25,
-    "times_picked": 3
-  },
-  {
-    "id": "BULWARK",
-    "pick_rate": 0.333,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "PARRY",
-    "pick_rate": 0.087,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "FASTEN",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BEACON_OF_HOPE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "MONOLOGUE",
-    "pick_rate": 0.25,
-    "win_rate": 0.667,
-    "times_picked": 4
-  },
-  {
-    "id": "STRIKE_NECROBINDER",
-    "pick_rate": 0,
-    "win_rate": 0.308,
-    "times_picked": 0
-  },
-  {
-    "id": "DEFEND_NECROBINDER",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "BODYGUARD",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "UNLEASH",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "FLATTEN",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 8
-  },
-  {
-    "id": "GRAVEBLAST",
-    "pick_rate": 0.161,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "TORIC_TOUGHNESS",
-    "pick_rate": 0,
-    "win_rate": 0.75,
-    "times_picked": 0
-  },
-  {
-    "id": "THE_SCYTHE",
-    "pick_rate": 0.4,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "BLIGHT_STRIKE",
-    "pick_rate": 0.333,
-    "win_rate": 0.333,
-    "times_picked": 12
-  },
-  {
-    "id": "REAPER_FORM",
-    "pick_rate": 0.333,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "ENFEEBLING_TOUCH",
-    "pick_rate": 0.583,
-    "win_rate": 0.6,
-    "times_picked": 7
-  },
-  {
-    "id": "BORROWED_TIME",
-    "pick_rate": 0.438,
-    "win_rate": 0.571,
-    "times_picked": 7
-  },
-  {
-    "id": "NEGATIVE_PULSE",
-    "pick_rate": 0.469,
-    "win_rate": 0.333,
-    "times_picked": 15
-  },
-  {
-    "id": "ENLIGHTENMENT",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "WISP",
-    "pick_rate": 0.419,
-    "win_rate": 0.3,
-    "times_picked": 13
-  },
-  {
-    "id": "SQUEEZE",
-    "pick_rate": 0.167,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "REAP",
-    "pick_rate": 0.042,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "LETHALITY",
-    "pick_rate": 0.267,
-    "win_rate": 0.75,
-    "times_picked": 4
-  },
-  {
-    "id": "NO_ESCAPE",
-    "pick_rate": 0.417,
-    "win_rate": 0.6,
-    "times_picked": 5
-  },
-  {
-    "id": "FLASH_OF_STEEL",
-    "pick_rate": 0.0,
-    "win_rate": 0.667,
-    "times_picked": 0
-  },
-  {
-    "id": "BURY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "REAVE",
-    "pick_rate": 0.097,
-    "win_rate": 0.667,
-    "times_picked": 3
-  },
-  {
-    "id": "SIC_EM",
-    "pick_rate": 0.143,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "DEFY",
-    "pick_rate": 0.233,
-    "win_rate": 0.571,
-    "times_picked": 7
-  },
-  {
-    "id": "SLEIGHT_OF_FLESH",
-    "pick_rate": 0.125,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "DEATH_MARCH",
-    "pick_rate": 0.143,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "FEAR",
-    "pick_rate": 0.217,
-    "win_rate": 0.8,
-    "times_picked": 5
-  },
-  {
-    "id": "FETCH",
-    "pick_rate": 0.462,
-    "win_rate": 0.333,
-    "times_picked": 6
-  },
-  {
-    "id": "SPUR",
-    "pick_rate": 0.273,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "END_OF_DAYS",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "RESTLESSNESS",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SALVO",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "RIGHT_HAND_HAND",
-    "pick_rate": 0.1,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "DREDGE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PULL_AGGRO",
-    "pick_rate": 0.05,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DEVOUR_LIFE",
-    "pick_rate": 0.333,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "SEANCE",
-    "pick_rate": 0.5,
-    "win_rate": 0.75,
-    "times_picked": 5
-  },
-  {
-    "id": "INVOKE",
-    "pick_rate": 0.129,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "NECRO_MASTERY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "POKE",
-    "pick_rate": 0.143,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "DEFILE",
-    "pick_rate": 0.065,
-    "win_rate": 0.667,
-    "times_picked": 2
-  },
-  {
-    "id": "GRAVE_WARDEN",
-    "pick_rate": 0.312,
-    "win_rate": 0.556,
-    "times_picked": 10
-  },
-  {
-    "id": "SOW",
-    "pick_rate": 0.111,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "DANSE_MACABRE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "DRAIN_POWER",
-    "pick_rate": 0.286,
-    "win_rate": 0.25,
-    "times_picked": 10
-  },
-  {
-    "id": "SNAP",
-    "pick_rate": 0.121,
-    "win_rate": 0.0,
-    "times_picked": 4
-  },
-  {
-    "id": "EQUILIBRIUM",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "HAND_OF_GREED",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "DEMESNE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "DIRGE",
-    "pick_rate": 0.118,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "CLEANSE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SECRET_WEAPON",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PAGESTORM",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "RATTLE",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "DELAY",
-    "pick_rate": 0.286,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "DEATHBRINGER",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "TRANSFIGURE",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DRAMATIC_ENTRANCE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SECRET_TECHNIQUE",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "STRIKE_DEFECT",
-    "pick_rate": 0,
-    "win_rate": 0.118,
-    "times_picked": 0
-  },
-  {
-    "id": "DEFEND_DEFECT",
-    "pick_rate": 0,
-    "win_rate": 0.211,
-    "times_picked": 0
-  },
-  {
-    "id": "ZAP",
-    "pick_rate": 0,
-    "win_rate": 0.286,
-    "times_picked": 0
-  },
-  {
-    "id": "DUALCAST",
-    "pick_rate": 0,
-    "win_rate": 0.25,
-    "times_picked": 0
-  },
-  {
-    "id": "FOCUSED_STRIKE",
-    "pick_rate": 0.182,
-    "win_rate": 0.2,
-    "times_picked": 4
-  },
-  {
-    "id": "HOTFIX",
-    "pick_rate": 0.444,
-    "win_rate": 0.4,
-    "times_picked": 8
-  },
-  {
-    "id": "LEAP",
-    "pick_rate": 0.143,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "COOLHEADED",
-    "pick_rate": 0.192,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "COMPILE_DRIVER",
-    "pick_rate": 0.067,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "SYNCHRONIZE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "TESLA_COIL",
-    "pick_rate": 0.125,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "MOMENTUM_STRIKE",
-    "pick_rate": 0.417,
-    "win_rate": 0.5,
-    "times_picked": 10
-  },
-  {
-    "id": "BOOT_SEQUENCE",
-    "pick_rate": 0.4,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "BOOST_AWAY",
-    "pick_rate": 0.28,
-    "win_rate": 0.333,
-    "times_picked": 7
-  },
-  {
-    "id": "CAPACITOR",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "GOLD_AXE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "UPROAR",
-    "pick_rate": 0.083,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "SKIM",
-    "pick_rate": 0.077,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "COLD_SNAP",
-    "pick_rate": 0.16,
-    "win_rate": 0.4,
-    "times_picked": 4
-  },
-  {
-    "id": "FTL",
-    "pick_rate": 0.167,
-    "win_rate": 0.333,
-    "times_picked": 2
-  },
-  {
-    "id": "CHARGE_BATTERY",
-    "pick_rate": 0.259,
-    "win_rate": 0.6,
-    "times_picked": 7
-  },
-  {
-    "id": "HOLOGRAM",
-    "pick_rate": 0.292,
-    "win_rate": 0.375,
-    "times_picked": 7
-  },
-  {
-    "id": "BALL_LIGHTNING",
-    "pick_rate": 0.214,
-    "win_rate": 0.2,
-    "times_picked": 6
-  },
-  {
-    "id": "COMPACT",
-    "pick_rate": 0.4,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "ROCKET_PUNCH",
-    "pick_rate": 0.4,
-    "win_rate": 0.2,
-    "times_picked": 6
-  },
-  {
-    "id": "SUPERCRITICAL",
-    "pick_rate": 0.714,
-    "win_rate": 0.5,
-    "times_picked": 5
-  },
-  {
-    "id": "THUNDER",
-    "pick_rate": 0.222,
-    "win_rate": 0.4,
-    "times_picked": 2
-  },
-  {
-    "id": "ULTIMATE_STRIKE",
-    "pick_rate": 0.0,
-    "win_rate": 0.2,
-    "times_picked": 0
-  },
-  {
-    "id": "STORM",
-    "pick_rate": 0.267,
-    "win_rate": 0.0,
-    "times_picked": 4
-  },
-  {
-    "id": "ENERGY_SURGE",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "GUNK_UP",
-    "pick_rate": 0.103,
-    "win_rate": 0.0,
-    "times_picked": 3
-  },
-  {
-    "id": "VOLTAIC",
-    "pick_rate": 0.5,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "APPARITION",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "PROLONG",
-    "pick_rate": 0.0,
-    "win_rate": 0.4,
-    "times_picked": 0
-  },
-  {
-    "id": "CLAW",
-    "pick_rate": 0.12,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "GLACIER",
-    "pick_rate": 0.167,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "HYPERBEAM",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "SCRAPE",
-    "pick_rate": 0.105,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "SHADOW_SHIELD",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "SUNDER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "GENETIC_ALGORITHM",
-    "pick_rate": 0.375,
-    "win_rate": 0.667,
-    "times_picked": 3
-  },
-  {
-    "id": "METEOR_STRIKE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BEAM_CELL",
-    "pick_rate": 0.2,
-    "win_rate": 0.5,
-    "times_picked": 5
-  },
-  {
-    "id": "GO_FOR_THE_EYES",
-    "pick_rate": 0.211,
-    "win_rate": 0.571,
-    "times_picked": 8
-  },
-  {
-    "id": "RAINBOW",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DOUBLE_ENERGY",
-    "pick_rate": 0.0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "FERAL",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "FINESSE",
-    "pick_rate": 0.0,
-    "win_rate": 0.75,
-    "times_picked": 0
-  },
-  {
-    "id": "MULTI_CAST",
-    "pick_rate": 0.111,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "ICE_LANCE",
-    "pick_rate": 0.125,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SWEEPING_BEAM",
-    "pick_rate": 0.182,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "FIGHT_THROUGH",
-    "pick_rate": 0.4,
-    "win_rate": 0.75,
-    "times_picked": 6
-  },
-  {
-    "id": "LARGESSE",
-    "pick_rate": 0.333,
-    "win_rate": 0.25,
-    "times_picked": 3
-  },
-  {
-    "id": "NEUTRON_AEGIS",
-    "pick_rate": 0.8,
-    "win_rate": 0.75,
-    "times_picked": 4
-  },
-  {
-    "id": "CONVERGENCE",
-    "pick_rate": 0.353,
-    "win_rate": 0.6,
-    "times_picked": 6
-  },
-  {
-    "id": "SEEKING_EDGE",
-    "pick_rate": 0.333,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "CONQUEROR",
-    "pick_rate": 0.176,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "PARTICLE_WALL",
-    "pick_rate": 0.4,
-    "win_rate": 0.75,
-    "times_picked": 8
-  },
-  {
-    "id": "COMET",
-    "pick_rate": 0.333,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SUMMON_FORTH",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "GANG_UP",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "COORDINATE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "KINGLY_PUNCH",
-    "pick_rate": 0.333,
-    "win_rate": 0.143,
-    "times_picked": 7
-  },
-  {
-    "id": "INTERCEPT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "MIMIC",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "TYRANNY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SPOILS_OF_BATTLE",
-    "pick_rate": 0.062,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "ASTRAL_PULSE",
-    "pick_rate": 0.185,
-    "win_rate": 0.2,
-    "times_picked": 5
-  },
-  {
-    "id": "GENESIS",
-    "pick_rate": 0.286,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "PILLAR_OF_CREATION",
-    "pick_rate": 0.214,
-    "win_rate": 0.667,
-    "times_picked": 3
-  },
-  {
-    "id": "DARK_SHACKLES",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "RESONANCE",
-    "pick_rate": 0.056,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PALE_BLUE_DOT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SWORD_SAGE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PROPHESIZE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "QUASAR",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 3
-  },
-  {
-    "id": "FURNACE",
-    "pick_rate": 0.111,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "HUDDLE_UP",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BOLAS",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "BOMBARDMENT",
-    "pick_rate": 0.222,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "BLACK_HOLE",
-    "pick_rate": 0.286,
-    "win_rate": 0.667,
-    "times_picked": 6
-  },
-  {
-    "id": "ENTROPY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "GREED",
-    "pick_rate": 0,
-    "win_rate": 0.286,
-    "times_picked": 0
-  },
-  {
-    "id": "FEEL_NO_PAIN",
-    "pick_rate": 0.133,
-    "win_rate": 0.2,
-    "times_picked": 2
-  },
-  {
-    "id": "TWIN_STRIKE",
-    "pick_rate": 0.132,
-    "win_rate": 0.5,
-    "times_picked": 5
-  },
-  {
-    "id": "SWORD_BOOMERANG",
-    "pick_rate": 0.021,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "FEED",
-    "pick_rate": 0.154,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "MIND_BLAST",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BULLY",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "MOLTEN_FIST",
-    "pick_rate": 0.37,
-    "win_rate": 0.5,
-    "times_picked": 10
-  },
-  {
-    "id": "POMMEL_STRIKE",
-    "pick_rate": 0.343,
-    "win_rate": 0.667,
-    "times_picked": 12
-  },
-  {
-    "id": "BREAK",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "VICIOUS",
-    "pick_rate": 0.154,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "BRAND",
-    "pick_rate": 0.455,
-    "win_rate": 0.8,
-    "times_picked": 5
-  },
-  {
-    "id": "CRIMSON_MANTLE",
-    "pick_rate": 0.889,
-    "win_rate": 0.714,
-    "times_picked": 8
-  },
-  {
-    "id": "FISTICUFFS",
-    "pick_rate": 0.0,
-    "win_rate": 0.6,
-    "times_picked": 0
-  },
-  {
-    "id": "EXPECT_A_FIGHT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PANACHE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "ETERNAL_ARMOR",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "ASHEN_STRIKE",
-    "pick_rate": 0.143,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "DARK_EMBRACE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BARRICADE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "BODY_SLAM",
-    "pick_rate": 0.361,
-    "win_rate": 0.5,
-    "times_picked": 13
-  },
-  {
-    "id": "SPITE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "HEADBUTT",
-    "pick_rate": 0.2,
-    "win_rate": 0.125,
-    "times_picked": 8
-  },
-  {
-    "id": "DOMINATE",
-    "pick_rate": 0.188,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "ASSASSINATE",
-    "pick_rate": 0.5,
-    "win_rate": 0.5,
-    "times_picked": 6
-  },
-  {
-    "id": "BURST",
-    "pick_rate": 0.8,
-    "win_rate": 0.667,
-    "times_picked": 4
-  },
-  {
-    "id": "EXPOSE",
-    "pick_rate": 0.353,
-    "win_rate": 0.5,
-    "times_picked": 6
-  },
-  {
-    "id": "FAN_OF_KNIVES",
-    "pick_rate": 0.375,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "AUTOMATION",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "SLICE",
-    "pick_rate": 0.158,
-    "win_rate": 0.4,
-    "times_picked": 6
-  },
-  {
-    "id": "ESCAPE_PLAN",
-    "pick_rate": 0.364,
-    "win_rate": 0.0,
-    "times_picked": 4
-  },
-  {
-    "id": "PINPOINT",
-    "pick_rate": 0.154,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "GRAND_FINALE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "BLUR",
-    "pick_rate": 0.455,
-    "win_rate": 0.5,
-    "times_picked": 5
-  },
-  {
-    "id": "SNAKEBITE",
-    "pick_rate": 0.067,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "FLICK_FLACK",
-    "pick_rate": 0.185,
-    "win_rate": 0.0,
-    "times_picked": 5
-  },
-  {
-    "id": "FOOTWORK",
-    "pick_rate": 0.357,
-    "win_rate": 0.2,
-    "times_picked": 5
-  },
-  {
-    "id": "STRATAGEM",
-    "pick_rate": 0.167,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "WELL_LAID_PLANS",
-    "pick_rate": 0.333,
-    "win_rate": 0.0,
-    "times_picked": 3
-  },
-  {
-    "id": "SERPENT_FORM",
-    "pick_rate": 0.083,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "DEFLECT",
-    "pick_rate": 0.19,
-    "win_rate": 1.0,
-    "times_picked": 4
-  },
-  {
-    "id": "FLECHETTES",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "ENVENOM",
-    "pick_rate": 0.143,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "TOOLS_OF_THE_TRADE",
-    "pick_rate": 0.333,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "BUBBLE_BUBBLE",
-    "pick_rate": 0.1,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "JACKPOT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "NOXIOUS_FUMES",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "NEOWS_FURY",
-    "pick_rate": 0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "BYRDONIS_EGG",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "HAILSTORM",
-    "pick_rate": 0.111,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "NULL",
-    "pick_rate": 0.2,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "GLASSWORK",
-    "pick_rate": 0.167,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "LOOP",
-    "pick_rate": 0.5,
-    "win_rate": 0.25,
-    "times_picked": 3
-  },
-  {
-    "id": "ADAPTIVE_STRIKE",
-    "pick_rate": 0.333,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "SIGNAL_BOOST",
-    "pick_rate": 0.429,
-    "win_rate": 0.6,
-    "times_picked": 3
-  },
-  {
-    "id": "LIGHTNING_ROD",
-    "pick_rate": 0.219,
-    "win_rate": 0.143,
-    "times_picked": 7
-  },
-  {
-    "id": "MODDED",
-    "pick_rate": 0.333,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "ITERATION",
-    "pick_rate": 0.273,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "CHAOS",
-    "pick_rate": 0.25,
-    "win_rate": 0.333,
-    "times_picked": 4
-  },
-  {
-    "id": "SYNTHESIS",
-    "pick_rate": 0.071,
-    "win_rate": 0.667,
-    "times_picked": 1
-  },
-  {
-    "id": "DARKNESS",
-    "pick_rate": 0.333,
-    "win_rate": 0.667,
-    "times_picked": 3
-  },
-  {
-    "id": "ALL_FOR_ONE",
-    "pick_rate": 0.5,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "MACHINE_LEARNING",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "SPINNER",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "COOLANT",
-    "pick_rate": 0.429,
-    "win_rate": 0.0,
-    "times_picked": 3
-  },
-  {
-    "id": "FUSION",
-    "pick_rate": 0.077,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "OVERCLOCK",
-    "pick_rate": 0.182,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "BULK_UP",
-    "pick_rate": 0.095,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "ECHO_FORM",
-    "pick_rate": 0.667,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "DEFRAGMENT",
-    "pick_rate": 0.5,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "SUBROUTINE",
-    "pick_rate": 0.286,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "DEBT",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "THE_BOMB",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CHILL",
-    "pick_rate": 0.5,
-    "win_rate": 0.5,
-    "times_picked": 9
-  },
-  {
-    "id": "REFRACT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "WHITE_NOISE",
-    "pick_rate": 0.167,
-    "win_rate": 0.667,
-    "times_picked": 2
-  },
-  {
-    "id": "REFLECT",
-    "pick_rate": 0.583,
-    "win_rate": 0.5,
-    "times_picked": 7
-  },
-  {
-    "id": "CHARGE",
-    "pick_rate": 0.417,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "PRODUCTION",
-    "pick_rate": 0.0,
-    "win_rate": 0.286,
-    "times_picked": 0
-  },
-  {
-    "id": "PATTER",
-    "pick_rate": 0.333,
-    "win_rate": 0.273,
-    "times_picked": 11
-  },
-  {
-    "id": "ALIGNMENT",
-    "pick_rate": 0.182,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "BEGONE",
-    "pick_rate": 0.208,
-    "win_rate": 0.714,
-    "times_picked": 10
-  },
-  {
-    "id": "DECISIONS_DECISIONS",
-    "pick_rate": 0.273,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "IMPATIENCE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "I_AM_INVINCIBLE",
-    "pick_rate": 0.5,
-    "win_rate": 0.0,
-    "times_picked": 3
-  },
-  {
-    "id": "GLIMMER",
-    "pick_rate": 0.2,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "STARDUST",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "TIMES_UP",
-    "pick_rate": 0.5,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "DEBILITATE",
-    "pick_rate": 0.056,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SCOURGE",
-    "pick_rate": 0.156,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "FRIENDSHIP",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SEVERANCE",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PARSE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "PULL_FROM_BELOW",
-    "pick_rate": 0.083,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SHROUD",
-    "pick_rate": 0.231,
-    "win_rate": 0.5,
-    "times_picked": 3
-  },
-  {
-    "id": "OBLIVION",
-    "pick_rate": 0.2,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "MAYHEM",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "ERADICATE",
-    "pick_rate": 0.25,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "SHOCKWAVE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "BEAT_DOWN",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SENTRY_MODE",
-    "pick_rate": 0.5,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "MISERY",
-    "pick_rate": 0.375,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "ORBIT",
-    "pick_rate": 0.235,
-    "win_rate": 0.167,
-    "times_picked": 4
-  },
-  {
-    "id": "ARSENAL",
-    "pick_rate": 0.636,
-    "win_rate": 0.571,
-    "times_picked": 7
-  },
-  {
-    "id": "AGGRESSION",
-    "pick_rate": 0.1,
-    "win_rate": 0.333,
-    "times_picked": 1
-  },
-  {
-    "id": "VOLLEY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "RADIATE",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "MAKE_IT_SO",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "TERRAFORMING",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "METEOR_SHOWER",
-    "pick_rate": 0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "LANTERN_KEY",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "LUNAR_BLAST",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "LIFT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "HELLRAISER",
-    "pick_rate": 0.6,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "ULTIMATE_DEFEND",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "CRUELTY",
-    "pick_rate": 0.4,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "WHISTLE",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "ONE_TWO_PUNCH",
-    "pick_rate": 0.286,
-    "win_rate": 0.25,
-    "times_picked": 4
-  },
-  {
-    "id": "FORGOTTEN_RITUAL",
-    "pick_rate": 0.167,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "FIEND_FIRE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "STONE_ARMOR",
-    "pick_rate": 0.24,
-    "win_rate": 0.286,
-    "times_picked": 6
-  },
-  {
-    "id": "REND",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SECOND_WIND",
-    "pick_rate": 0.091,
-    "win_rate": 0.333,
-    "times_picked": 1
-  },
-  {
-    "id": "DRUM_OF_BATTLE",
-    "pick_rate": 0.056,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PREP_TIME",
-    "pick_rate": 0.0,
-    "win_rate": 0.333,
-    "times_picked": 0
-  },
-  {
-    "id": "COLOSSUS",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "CASCADE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CAPTURE_SPIRIT",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "MELANCHOLY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SOUL_STORM",
-    "pick_rate": 0.167,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "COUNTDOWN",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "UNDEATH",
-    "pick_rate": 0.75,
-    "win_rate": 0.25,
-    "times_picked": 3
-  },
-  {
-    "id": "BONE_SHARDS",
-    "pick_rate": 0.125,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "HIGH_FIVE",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "EIDOLON",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "HAUNT",
-    "pick_rate": 0.158,
-    "win_rate": 0.333,
-    "times_picked": 3
-  },
-  {
-    "id": "NEUROSURGE",
-    "pick_rate": 0.0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "PROWESS",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "FIGHT_ME",
-    "pick_rate": 0.077,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PACTS_END",
-    "pick_rate": 0.167,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "JUGGERNAUT",
-    "pick_rate": 0.429,
-    "win_rate": 0.667,
-    "times_picked": 3
-  },
-  {
-    "id": "PUTREFY",
-    "pick_rate": 0.417,
-    "win_rate": 0.4,
-    "times_picked": 5
-  },
-  {
-    "id": "ABRASIVE",
+{
+  "ABRASIVE": {
     "pick_rate": 0.833,
     "win_rate": 0.4,
-    "times_picked": 5
+    "times_picked": 5,
+    "times_skipped": 1
   },
-  {
-    "id": "ACCELERANT",
+  "ACCELERANT": {
     "pick_rate": 0.286,
     "win_rate": 0.333,
-    "times_picked": 2
+    "times_picked": 2,
+    "times_skipped": 5
   },
-  {
-    "id": "PANIC_BUTTON",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
+  "ACCURACY": {
+    "pick_rate": 0.353,
+    "win_rate": 0.8,
+    "times_picked": 6,
+    "times_skipped": 11
   },
-  {
-    "id": "SHADOWMELD",
-    "pick_rate": 0.25,
-    "win_rate": 0.0,
-    "times_picked": 1
+  "ACROBATICS": {
+    "pick_rate": 0.318,
+    "win_rate": 0.3,
+    "times_picked": 7,
+    "times_skipped": 15
   },
-  {
-    "id": "SPOILS_MAP",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "GUARDS",
+  "ADAPTIVE_STRIKE": {
     "pick_rate": 0.333,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "SUPERMASSIVE",
-    "pick_rate": 0.273,
     "win_rate": 0.5,
-    "times_picked": 3
+    "times_picked": 2,
+    "times_skipped": 4
   },
-  {
-    "id": "BIG_BANG",
-    "pick_rate": 0.5,
-    "win_rate": 1.0,
-    "times_picked": 3
-  },
-  {
-    "id": "THE_SEALED_THRONE",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "KNOCKOUT_BLOW",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "NOSTALGIA",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "DEATHS_DOOR",
-    "pick_rate": 0.286,
-    "win_rate": 0.5,
-    "times_picked": 2
-  },
-  {
-    "id": "APOTHEOSIS",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "ALCHEMIZE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "HANG",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "CALL_OF_THE_VOID",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SPIRIT_OF_ASH",
-    "pick_rate": 0.25,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SHARED_FATE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CREATIVE_AI",
-    "pick_rate": 0.25,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "QUADCAST",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "FOLLY",
-    "pick_rate": 0,
-    "win_rate": 0.571,
-    "times_picked": 0
-  },
-  {
-    "id": "REBOOT",
-    "pick_rate": 0.143,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "TRASH_TO_TREASURE",
-    "pick_rate": 0.333,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SHATTER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CONSUMING_SHADOW",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "STOKE",
-    "pick_rate": 0.0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "CATASTROPHE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "ANOINTED",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "CALAMITY",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "INJURY",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "NIGHTMARE",
-    "pick_rate": 0.5,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "PRECISE_CUT",
-    "pick_rate": 0.0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "REFLEX",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "ADRENALINE",
+  "ADRENALINE": {
     "pick_rate": 0.6,
     "win_rate": 0.333,
-    "times_picked": 3
+    "times_picked": 3,
+    "times_skipped": 2
   },
-  {
-    "id": "MASTER_PLANNER",
-    "pick_rate": 0.167,
-    "win_rate": 0.0,
-    "times_picked": 1
+  "AFTERIMAGE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 4
   },
-  {
-    "id": "STORM_OF_STEEL",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SCRAWL",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "AFTERLIFE",
+  "AFTERLIFE": {
     "pick_rate": 0.235,
     "win_rate": 0.75,
-    "times_picked": 4
+    "times_picked": 4,
+    "times_skipped": 13
   },
-  {
-    "id": "CURSE_OF_THE_BELL",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "CALCIFY",
-    "pick_rate": 0.25,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "SACRIFICE",
-    "pick_rate": 0.2,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "TEAR_ASUNDER",
-    "pick_rate": 0.111,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "INFERNO",
-    "pick_rate": 0.2,
-    "win_rate": 1.0,
-    "times_picked": 2
-  },
-  {
-    "id": "HOWL_FROM_BEYOND",
+  "AGGRESSION": {
     "pick_rate": 0.1,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "HIDDEN_GEM",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "VOID_FORM",
-    "pick_rate": 0.2,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "HEAVENLY_DRILL",
-    "pick_rate": 0.2,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "CRASH_LANDING",
-    "pick_rate": 0.2,
-    "win_rate": 0,
-    "times_picked": 1
-  },
-  {
-    "id": "FEEDING_FRENZY",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "HAND_TRICK",
-    "pick_rate": 0.125,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "VEILPIERCER",
-    "pick_rate": 0.125,
-    "win_rate": 0.5,
-    "times_picked": 1
-  },
-  {
-    "id": "SCULPTING_STRIKE",
-    "pick_rate": 0.16,
-    "win_rate": 0.5,
-    "times_picked": 4
-  },
-  {
-    "id": "TEMPEST",
-    "pick_rate": 0.111,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "REGRET",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
-  },
-  {
-    "id": "BUFFER",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "SPLASH",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "REANIMATE",
-    "pick_rate": 0.5,
-    "win_rate": 1.0,
-    "times_picked": 1
-  },
-  {
-    "id": "BANSHEES_CRY",
-    "pick_rate": 0.5,
-    "win_rate": 0.0,
-    "times_picked": 1
-  },
-  {
-    "id": "SUPPRESS",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "GUILTY",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "TURBO",
-    "pick_rate": 0.316,
     "win_rate": 0.333,
-    "times_picked": 6
+    "times_picked": 1,
+    "times_skipped": 9
   },
-  {
-    "id": "SCAVENGE",
+  "ALCHEMIZE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "ALIGNMENT": {
+    "pick_rate": 0.182,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 9
+  },
+  "ALL_FOR_ONE": {
+    "pick_rate": 0.5,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 2
+  },
+  "ANGER": {
     "pick_rate": 0.25,
     "win_rate": 0.5,
-    "times_picked": 2
+    "times_picked": 9,
+    "times_skipped": 27
   },
-  {
-    "id": "ASCENDERS_BANE",
+  "ANOINTED": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "ANTICIPATE": {
+    "pick_rate": 0.286,
+    "win_rate": 0.273,
+    "times_picked": 10,
+    "times_skipped": 25
+  },
+  "APOTHEOSIS": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "APPARITION": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "ARMAMENTS": {
+    "pick_rate": 0.531,
+    "win_rate": 0.421,
+    "times_picked": 17,
+    "times_skipped": 15
+  },
+  "ARSENAL": {
+    "pick_rate": 0.636,
+    "win_rate": 0.571,
+    "times_picked": 7,
+    "times_skipped": 4
+  },
+  "ASCENDERS_BANE": {
     "pick_rate": 0,
     "win_rate": 0.105,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "IGNITION",
-    "pick_rate": 0.5,
-    "win_rate": 0,
-    "times_picked": 1
-  },
-  {
-    "id": "GLIMPSE_BEYOND",
-    "pick_rate": 1.0,
-    "win_rate": 0.0,
-    "times_picked": 2
-  },
-  {
-    "id": "PECK",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "DECAY",
-    "pick_rate": 0,
-    "win_rate": 0.5,
-    "times_picked": 0
-  },
-  {
-    "id": "WISH",
-    "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
-  },
-  {
-    "id": "SMOKESTACK",
+  "ASHEN_STRIKE": {
     "pick_rate": 0.143,
     "win_rate": 0.5,
-    "times_picked": 1
+    "times_picked": 3,
+    "times_skipped": 18
   },
-  {
-    "id": "FLAK_CANNON",
-    "pick_rate": 1.0,
+  "ASSASSINATE": {
+    "pick_rate": 0.5,
+    "win_rate": 0.5,
+    "times_picked": 6,
+    "times_skipped": 6
+  },
+  "ASTRAL_PULSE": {
+    "pick_rate": 0.185,
+    "win_rate": 0.2,
+    "times_picked": 5,
+    "times_skipped": 22
+  },
+  "AUTOMATION": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "BACKFLIP": {
+    "pick_rate": 0.19,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 17
+  },
+  "BACKSTAB": {
+    "pick_rate": 0.222,
     "win_rate": 0.667,
-    "times_picked": 3
+    "times_picked": 2,
+    "times_skipped": 7
   },
-  {
-    "id": "BARRAGE",
+  "BAD_LUCK": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BALL_LIGHTNING": {
+    "pick_rate": 0.214,
+    "win_rate": 0.2,
+    "times_picked": 6,
+    "times_skipped": 22
+  },
+  "BANSHEES_CRY": {
+    "pick_rate": 0.5,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "BARRAGE": {
     "pick_rate": 0.222,
     "win_rate": 0.5,
-    "times_picked": 2
+    "times_picked": 2,
+    "times_skipped": 7
   },
-  {
-    "id": "HELIX_DRILL",
-    "pick_rate": 0.2,
+  "BARRICADE": {
+    "pick_rate": 0.0,
     "win_rate": 0.0,
-    "times_picked": 1
+    "times_picked": 0,
+    "times_skipped": 5
   },
-  {
-    "id": "HAMMER_TIME",
+  "BASH": {
+    "pick_rate": 0,
+    "win_rate": 0.3,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "BATTLE_TRANCE": {
+    "pick_rate": 0.444,
+    "win_rate": 0.429,
+    "times_picked": 8,
+    "times_skipped": 10
+  },
+  "BEACON_OF_HOPE": {
     "pick_rate": 0.0,
     "win_rate": 0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 5
   },
-  {
-    "id": "HIDDEN_DAGGERS",
-    "pick_rate": 0.5,
-    "win_rate": 1.0,
-    "times_picked": 1
+  "BEAM_CELL": {
+    "pick_rate": 0.2,
+    "win_rate": 0.5,
+    "times_picked": 5,
+    "times_skipped": 20
   },
-  {
-    "id": "MAUL",
-    "pick_rate": 0,
-    "win_rate": 1.0,
-    "times_picked": 0
+  "BEAT_DOWN": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
   },
-  {
-    "id": "RELAX",
+  "BEAT_INTO_SHAPE": {
+    "pick_rate": 0.125,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "BECKON": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BEGONE": {
+    "pick_rate": 0.208,
+    "win_rate": 0.714,
+    "times_picked": 10,
+    "times_skipped": 38
+  },
+  "BELIEVE_IN_YOU": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "BIASED_COGNITION": {
     "pick_rate": 0,
     "win_rate": 0.0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "PHANTOM_BLADES",
-    "pick_rate": 0.0,
+  "BIG_BANG": {
+    "pick_rate": 0.5,
     "win_rate": 1.0,
-    "times_picked": 0
+    "times_picked": 3,
+    "times_skipped": 3
   },
-  {
-    "id": "BLADE_OF_INK",
+  "BLACK_HOLE": {
+    "pick_rate": 0.286,
+    "win_rate": 0.667,
+    "times_picked": 6,
+    "times_skipped": 15
+  },
+  "BLADE_DANCE": {
+    "pick_rate": 0.259,
+    "win_rate": 0.5,
+    "times_picked": 7,
+    "times_skipped": 20
+  },
+  "BLADE_OF_INK": {
     "pick_rate": 0.25,
     "win_rate": 1.0,
-    "times_picked": 1
+    "times_picked": 1,
+    "times_skipped": 3
   },
-  {
-    "id": "FORBIDDEN_GRIMOIRE",
+  "BLIGHT_STRIKE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.333,
+    "times_picked": 12,
+    "times_skipped": 24
+  },
+  "BLOOD_WALL": {
+    "pick_rate": 0.351,
+    "win_rate": 0.364,
+    "times_picked": 13,
+    "times_skipped": 24
+  },
+  "BLOODLETTING": {
+    "pick_rate": 0.125,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 35
+  },
+  "BLUDGEON": {
+    "pick_rate": 0.25,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 12
+  },
+  "BLUR": {
+    "pick_rate": 0.455,
+    "win_rate": 0.5,
+    "times_picked": 5,
+    "times_skipped": 6
+  },
+  "BODY_SLAM": {
+    "pick_rate": 0.361,
+    "win_rate": 0.5,
+    "times_picked": 13,
+    "times_skipped": 23
+  },
+  "BODYGUARD": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "BOLAS": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "BOMBARDMENT": {
+    "pick_rate": 0.222,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 7
+  },
+  "BONE_SHARDS": {
+    "pick_rate": 0.125,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "BOOST_AWAY": {
+    "pick_rate": 0.28,
+    "win_rate": 0.333,
+    "times_picked": 7,
+    "times_skipped": 18
+  },
+  "BOOT_SEQUENCE": {
+    "pick_rate": 0.4,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 6
+  },
+  "BORROWED_TIME": {
+    "pick_rate": 0.438,
+    "win_rate": 0.571,
+    "times_picked": 7,
+    "times_skipped": 9
+  },
+  "BOUNCING_FLASK": {
+    "pick_rate": 0.158,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 16
+  },
+  "BRAND": {
+    "pick_rate": 0.455,
+    "win_rate": 0.8,
+    "times_picked": 5,
+    "times_skipped": 6
+  },
+  "BREAK": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "BREAKTHROUGH": {
+    "pick_rate": 0.297,
+    "win_rate": 0.125,
+    "times_picked": 11,
+    "times_skipped": 26
+  },
+  "BRIGHTEST_FLAME": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BUBBLE_BUBBLE": {
+    "pick_rate": 0.1,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 9
+  },
+  "BUFFER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "BULK_UP": {
+    "pick_rate": 0.095,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 19
+  },
+  "BULLET_TIME": {
+    "pick_rate": 0.111,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 8
+  },
+  "BULLY": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "BULWARK": {
+    "pick_rate": 0.333,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 10
+  },
+  "BUNDLE_OF_JOY": {
+    "pick_rate": 0.1,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 9
+  },
+  "BURN": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BURNING_PACT": {
+    "pick_rate": 0.214,
+    "win_rate": 0.4,
+    "times_picked": 3,
+    "times_skipped": 11
+  },
+  "BURST": {
+    "pick_rate": 0.8,
+    "win_rate": 0.667,
+    "times_picked": 4,
+    "times_skipped": 1
+  },
+  "BURY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "BYRD_SWOOP": {
+    "pick_rate": 0,
+    "win_rate": 0.25,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "BYRDONIS_EGG": {
     "pick_rate": 0,
     "win_rate": 0.0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "METAMORPHOSIS",
+  "CALAMITY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "CALCIFY": {
+    "pick_rate": 0.25,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "CALCULATED_GAMBLE": {
+    "pick_rate": 0.231,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 10
+  },
+  "CALL_OF_THE_VOID": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "CALTROPS": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CAPACITOR": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 13
+  },
+  "CAPTURE_SPIRIT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 15
+  },
+  "CASCADE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "CATASTROPHE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "CELESTIAL_MIGHT": {
+    "pick_rate": 0.077,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 36
+  },
+  "CHAOS": {
+    "pick_rate": 0.25,
+    "win_rate": 0.333,
+    "times_picked": 4,
+    "times_skipped": 12
+  },
+  "CHARGE": {
+    "pick_rate": 0.417,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 7
+  },
+  "CHARGE_BATTERY": {
+    "pick_rate": 0.259,
+    "win_rate": 0.6,
+    "times_picked": 7,
+    "times_skipped": 20
+  },
+  "CHILD_OF_THE_STARS": {
+    "pick_rate": 0.13,
+    "win_rate": 1.0,
+    "times_picked": 3,
+    "times_skipped": 20
+  },
+  "CHILL": {
+    "pick_rate": 0.5,
+    "win_rate": 0.5,
+    "times_picked": 9,
+    "times_skipped": 9
+  },
+  "CINDER": {
+    "pick_rate": 0.273,
+    "win_rate": 0.2,
+    "times_picked": 9,
+    "times_skipped": 24
+  },
+  "CLASH": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CLAW": {
+    "pick_rate": 0.12,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 22
+  },
+  "CLEANSE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "CLOAK_AND_DAGGER": {
+    "pick_rate": 0.242,
+    "win_rate": 0.571,
+    "times_picked": 8,
+    "times_skipped": 25
+  },
+  "CLOAK_OF_STARS": {
+    "pick_rate": 0.421,
+    "win_rate": 0.455,
+    "times_picked": 16,
+    "times_skipped": 22
+  },
+  "CLUMSY": {
+    "pick_rate": 0,
+    "win_rate": 0.111,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "COLD_SNAP": {
+    "pick_rate": 0.16,
+    "win_rate": 0.4,
+    "times_picked": 4,
+    "times_skipped": 21
+  },
+  "COLLISION_COURSE": {
+    "pick_rate": 0.053,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 36
+  },
+  "COLOSSUS": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "COMET": {
+    "pick_rate": 0.333,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 2
+  },
+  "COMPACT": {
+    "pick_rate": 0.4,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 6
+  },
+  "COMPILE_DRIVER": {
+    "pick_rate": 0.067,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 28
+  },
+  "CONFLAGRATION": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "CONQUEROR": {
+    "pick_rate": 0.176,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 14
+  },
+  "CONSUMING_SHADOW": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "CONVERGENCE": {
+    "pick_rate": 0.353,
+    "win_rate": 0.6,
+    "times_picked": 6,
+    "times_skipped": 11
+  },
+  "COOLANT": {
+    "pick_rate": 0.429,
+    "win_rate": 0.0,
+    "times_picked": 3,
+    "times_skipped": 4
+  },
+  "COOLHEADED": {
+    "pick_rate": 0.192,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 21
+  },
+  "COORDINATE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "CORROSIVE_WAVE": {
+    "pick_rate": 0.5,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 2
+  },
+  "CORRUPTION": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "COSMIC_INDIFFERENCE": {
+    "pick_rate": 0.267,
+    "win_rate": 0.714,
+    "times_picked": 8,
+    "times_skipped": 22
+  },
+  "COUNTDOWN": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 15
+  },
+  "CRASH_LANDING": {
+    "pick_rate": 0.2,
+    "win_rate": 0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "CREATIVE_AI": {
+    "pick_rate": 0.25,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "CRESCENT_SPEAR": {
+    "pick_rate": 0.195,
+    "win_rate": 1.0,
+    "times_picked": 8,
+    "times_skipped": 33
+  },
+  "CRIMSON_MANTLE": {
+    "pick_rate": 0.889,
+    "win_rate": 0.714,
+    "times_picked": 8,
+    "times_skipped": 1
+  },
+  "CRUELTY": {
+    "pick_rate": 0.4,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 3
+  },
+  "CRUSH_UNDER": {
+    "pick_rate": 0.268,
+    "win_rate": 0.545,
+    "times_picked": 11,
+    "times_skipped": 30
+  },
+  "CURSE_OF_THE_BELL": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DAGGER_SPRAY": {
+    "pick_rate": 0.192,
+    "win_rate": 0.429,
+    "times_picked": 5,
+    "times_skipped": 21
+  },
+  "DAGGER_THROW": {
+    "pick_rate": 0.222,
+    "win_rate": 0.286,
+    "times_picked": 8,
+    "times_skipped": 28
+  },
+  "DANSE_MACABRE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "DARK_EMBRACE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "DARK_SHACKLES": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "DARKNESS": {
+    "pick_rate": 0.333,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "DASH": {
+    "pick_rate": 0.444,
+    "win_rate": 0.0,
+    "times_picked": 4,
+    "times_skipped": 5
+  },
+  "DAZED": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DEADLY_POISON": {
+    "pick_rate": 0.071,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 26
+  },
+  "DEATH_MARCH": {
+    "pick_rate": 0.143,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 12
+  },
+  "DEATHBRINGER": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "DEATHS_DOOR": {
+    "pick_rate": 0.286,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 5
+  },
+  "DEBILITATE": {
+    "pick_rate": 0.056,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 17
+  },
+  "DEBRIS": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DEBT": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DECAY": {
     "pick_rate": 0,
     "win_rate": 0.5,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "LEGION_OF_BONE",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
+  "DECISIONS_DECISIONS": {
+    "pick_rate": 0.273,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 8
   },
-  {
-    "id": "FLANKING",
-    "pick_rate": 0.0,
-    "win_rate": 0,
-    "times_picked": 0
-  },
-  {
-    "id": "BIASED_COGNITION",
+  "DEFEND_DEFECT": {
     "pick_rate": 0,
-    "win_rate": 0.0,
-    "times_picked": 0
+    "win_rate": 0.211,
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "DOUBT",
+  "DEFEND_IRONCLAD": {
+    "pick_rate": 0,
+    "win_rate": 0.3,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DEFEND_NECROBINDER": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DEFEND_REGENT": {
+    "pick_rate": 0,
+    "win_rate": 0.318,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DEFEND_SILENT": {
+    "pick_rate": 0,
+    "win_rate": 0.312,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DEFILE": {
+    "pick_rate": 0.065,
+    "win_rate": 0.667,
+    "times_picked": 2,
+    "times_skipped": 29
+  },
+  "DEFLECT": {
+    "pick_rate": 0.19,
+    "win_rate": 1.0,
+    "times_picked": 4,
+    "times_skipped": 17
+  },
+  "DEFRAGMENT": {
+    "pick_rate": 0.5,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 2
+  },
+  "DEFY": {
+    "pick_rate": 0.233,
+    "win_rate": 0.571,
+    "times_picked": 7,
+    "times_skipped": 23
+  },
+  "DELAY": {
+    "pick_rate": 0.286,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 5
+  },
+  "DEMESNE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "DEMON_FORM": {
+    "pick_rate": 0.556,
+    "win_rate": 0.5,
+    "times_picked": 5,
+    "times_skipped": 4
+  },
+  "DEMONIC_SHIELD": {
+    "pick_rate": 0.3,
+    "win_rate": 0.25,
+    "times_picked": 3,
+    "times_skipped": 7
+  },
+  "DEVASTATE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 9
+  },
+  "DEVOUR_LIFE": {
+    "pick_rate": 0.333,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 4
+  },
+  "DIRGE": {
+    "pick_rate": 0.118,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 15
+  },
+  "DISCOVERY": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "DISINTEGRATION": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DISMANTLE": {
+    "pick_rate": 0.182,
+    "win_rate": 0.0,
+    "times_picked": 4,
+    "times_skipped": 18
+  },
+  "DISTRACTION": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DODGE_AND_ROLL": {
+    "pick_rate": 0.03,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 32
+  },
+  "DOMINATE": {
+    "pick_rate": 0.188,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 13
+  },
+  "DOUBLE_ENERGY": {
+    "pick_rate": 0.0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "DOUBT": {
     "pick_rate": 0,
     "win_rate": 1.0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
   },
-  {
-    "id": "KNIFE_TRAP",
+  "DRAIN_POWER": {
+    "pick_rate": 0.286,
+    "win_rate": 0.25,
+    "times_picked": 10,
+    "times_skipped": 25
+  },
+  "DRAMATIC_ENTRANCE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "DREDGE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "DRUM_OF_BATTLE": {
+    "pick_rate": 0.056,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 17
+  },
+  "DUAL_WIELD": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DUALCAST": {
+    "pick_rate": 0,
+    "win_rate": 0.25,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "DYING_STAR": {
+    "pick_rate": 0.6,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 2
+  },
+  "ECHO_FORM": {
+    "pick_rate": 0.667,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 2
+  },
+  "ECHOING_SLASH": {
+    "pick_rate": 0.143,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 6
+  },
+  "EIDOLON": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "END_OF_DAYS": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "ENERGY_SURGE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "ENFEEBLING_TOUCH": {
+    "pick_rate": 0.583,
+    "win_rate": 0.6,
+    "times_picked": 7,
+    "times_skipped": 5
+  },
+  "ENLIGHTENMENT": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "ENTHRALLED": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "ENTRENCH": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ENTROPY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 15
+  },
+  "ENVENOM": {
+    "pick_rate": 0.143,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 6
+  },
+  "EQUILIBRIUM": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "ERADICATE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "ESCAPE_PLAN": {
+    "pick_rate": 0.364,
+    "win_rate": 0.0,
+    "times_picked": 4,
+    "times_skipped": 7
+  },
+  "ETERNAL_ARMOR": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 19
+  },
+  "EVIL_EYE": {
+    "pick_rate": 0.318,
+    "win_rate": 0.429,
+    "times_picked": 7,
+    "times_skipped": 15
+  },
+  "EXPECT_A_FIGHT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 17
+  },
+  "EXPERTISE": {
+    "pick_rate": 0.167,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "EXPOSE": {
+    "pick_rate": 0.353,
+    "win_rate": 0.5,
+    "times_picked": 6,
+    "times_skipped": 11
+  },
+  "EXTERMINATE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FALLING_STAR": {
+    "pick_rate": 0,
+    "win_rate": 0.364,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "FAN_OF_KNIVES": {
+    "pick_rate": 0.375,
+    "win_rate": 1.0,
+    "times_picked": 3,
+    "times_skipped": 5
+  },
+  "FASTEN": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "FEAR": {
+    "pick_rate": 0.217,
+    "win_rate": 0.8,
+    "times_picked": 5,
+    "times_skipped": 18
+  },
+  "FEED": {
+    "pick_rate": 0.154,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 11
+  },
+  "FEEDING_FRENZY": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "FEEL_NO_PAIN": {
+    "pick_rate": 0.133,
+    "win_rate": 0.2,
+    "times_picked": 2,
+    "times_skipped": 13
+  },
+  "FERAL": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "FETCH": {
+    "pick_rate": 0.462,
+    "win_rate": 0.333,
+    "times_picked": 6,
+    "times_skipped": 7
+  },
+  "FIEND_FIRE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "FIGHT_ME": {
+    "pick_rate": 0.077,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 12
+  },
+  "FIGHT_THROUGH": {
+    "pick_rate": 0.4,
+    "win_rate": 0.75,
+    "times_picked": 6,
+    "times_skipped": 9
+  },
+  "FINESSE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.75,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "FINISHER": {
+    "pick_rate": 0.267,
+    "win_rate": 0.667,
+    "times_picked": 4,
+    "times_skipped": 11
+  },
+  "FISTICUFFS": {
+    "pick_rate": 0.0,
+    "win_rate": 0.6,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "FLAK_CANNON": {
+    "pick_rate": 1.0,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 0
+  },
+  "FLAME_BARRIER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 13
+  },
+  "FLANKING": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 2
+  },
+  "FLASH_OF_STEEL": {
+    "pick_rate": 0.0,
+    "win_rate": 0.667,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "FLATTEN": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 8,
+    "times_skipped": 24
+  },
+  "FLECHETTES": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "FLICK_FLACK": {
+    "pick_rate": 0.185,
+    "win_rate": 0.0,
+    "times_picked": 5,
+    "times_skipped": 22
+  },
+  "FOCUSED_STRIKE": {
+    "pick_rate": 0.182,
+    "win_rate": 0.2,
+    "times_picked": 4,
+    "times_skipped": 18
+  },
+  "FOLLOW_THROUGH": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "FOLLY": {
+    "pick_rate": 0,
+    "win_rate": 0.571,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "FOOTWORK": {
+    "pick_rate": 0.357,
+    "win_rate": 0.2,
+    "times_picked": 5,
+    "times_skipped": 9
+  },
+  "FORBIDDEN_GRIMOIRE": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "FOREGONE_CONCLUSION": {
+    "pick_rate": 0.333,
+    "win_rate": 0.6,
+    "times_picked": 4,
+    "times_skipped": 8
+  },
+  "FORGOTTEN_RITUAL": {
+    "pick_rate": 0.167,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "FRANTIC_ESCAPE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FRIENDSHIP": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "FTL": {
+    "pick_rate": 0.167,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "FUEL": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FURNACE": {
+    "pick_rate": 0.111,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 16
+  },
+  "FUSION": {
+    "pick_rate": 0.077,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 12
+  },
+  "GAMMA_BLAST": {
+    "pick_rate": 0.5,
+    "win_rate": 0.714,
+    "times_picked": 8,
+    "times_skipped": 8
+  },
+  "GANG_UP": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "GATHER_LIGHT": {
+    "pick_rate": 0.275,
+    "win_rate": 0.4,
+    "times_picked": 11,
+    "times_skipped": 29
+  },
+  "GENESIS": {
+    "pick_rate": 0.286,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 5
+  },
+  "GENETIC_ALGORITHM": {
+    "pick_rate": 0.375,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 5
+  },
+  "GIANT_ROCK": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GLACIER": {
+    "pick_rate": 0.167,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "GLASSWORK": {
+    "pick_rate": 0.167,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "GLIMMER": {
+    "pick_rate": 0.2,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 8
+  },
+  "GLIMPSE_BEYOND": {
+    "pick_rate": 1.0,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 0
+  },
+  "GLITTERSTREAM": {
+    "pick_rate": 0.217,
+    "win_rate": 0.5,
+    "times_picked": 10,
+    "times_skipped": 36
+  },
+  "GLOW": {
+    "pick_rate": 0.065,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 29
+  },
+  "GO_FOR_THE_EYES": {
+    "pick_rate": 0.211,
+    "win_rate": 0.571,
+    "times_picked": 8,
+    "times_skipped": 30
+  },
+  "GOLD_AXE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "GRAND_FINALE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "GRAPPLE": {
+    "pick_rate": 0.4,
+    "win_rate": 0.25,
+    "times_picked": 6,
+    "times_skipped": 9
+  },
+  "GRAVE_WARDEN": {
+    "pick_rate": 0.312,
+    "win_rate": 0.556,
+    "times_picked": 10,
+    "times_skipped": 22
+  },
+  "GRAVEBLAST": {
+    "pick_rate": 0.161,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 26
+  },
+  "GREED": {
+    "pick_rate": 0,
+    "win_rate": 0.286,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "GUARDS": {
+    "pick_rate": 0.333,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 4
+  },
+  "GUIDING_STAR": {
+    "pick_rate": 0.07,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 40
+  },
+  "GUILTY": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "GUNK_UP": {
+    "pick_rate": 0.103,
+    "win_rate": 0.0,
+    "times_picked": 3,
+    "times_skipped": 26
+  },
+  "HAILSTORM": {
+    "pick_rate": 0.111,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 8
+  },
+  "HAMMER_TIME": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 2
+  },
+  "HAND_OF_GREED": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 13
+  },
+  "HAND_TRICK": {
+    "pick_rate": 0.125,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "HANG": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "HAUNT": {
+    "pick_rate": 0.158,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 16
+  },
+  "HAVOC": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 35
+  },
+  "HAZE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.667,
+    "times_picked": 0,
+    "times_skipped": 18
+  },
+  "HEADBUTT": {
+    "pick_rate": 0.2,
+    "win_rate": 0.125,
+    "times_picked": 8,
+    "times_skipped": 32
+  },
+  "HEAVENLY_DRILL": {
+    "pick_rate": 0.2,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "HEGEMONY": {
+    "pick_rate": 0.133,
+    "win_rate": 0.667,
+    "times_picked": 2,
+    "times_skipped": 13
+  },
+  "HEIRLOOM_HAMMER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "HELIX_DRILL": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "HELLO_WORLD": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HELLRAISER": {
+    "pick_rate": 0.6,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 2
+  },
+  "HEMOKINESIS": {
+    "pick_rate": 0.077,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 12
+  },
+  "HIDDEN_CACHE": {
+    "pick_rate": 0.194,
+    "win_rate": 0.625,
+    "times_picked": 7,
+    "times_skipped": 29
+  },
+  "HIDDEN_DAGGERS": {
     "pick_rate": 0.5,
     "win_rate": 1.0,
-    "times_picked": 1
+    "times_picked": 1,
+    "times_skipped": 1
   },
-  {
-    "id": "TANK",
+  "HIDDEN_GEM": {
     "pick_rate": 0.0,
     "win_rate": 0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 6
   },
-  {
-    "id": "NORMALITY",
+  "HIGH_FIVE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "HOLOGRAM": {
+    "pick_rate": 0.292,
+    "win_rate": 0.375,
+    "times_picked": 7,
+    "times_skipped": 17
+  },
+  "HOTFIX": {
+    "pick_rate": 0.444,
+    "win_rate": 0.4,
+    "times_picked": 8,
+    "times_skipped": 10
+  },
+  "HOWL_FROM_BEYOND": {
+    "pick_rate": 0.1,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 9
+  },
+  "HUDDLE_UP": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "HYPERBEAM": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "I_AM_INVINCIBLE": {
+    "pick_rate": 0.5,
+    "win_rate": 0.0,
+    "times_picked": 3,
+    "times_skipped": 3
+  },
+  "ICE_LANCE": {
+    "pick_rate": 0.125,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "IGNITION": {
+    "pick_rate": 0.5,
+    "win_rate": 0,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "IMPATIENCE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 13
+  },
+  "IMPERVIOUS": {
+    "pick_rate": 0.385,
+    "win_rate": 0.667,
+    "times_picked": 5,
+    "times_skipped": 8
+  },
+  "INFECTION": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "INFERNAL_BLADE": {
+    "pick_rate": 0.421,
+    "win_rate": 0.333,
+    "times_picked": 8,
+    "times_skipped": 11
+  },
+  "INFERNO": {
+    "pick_rate": 0.2,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 8
+  },
+  "INFINITE_BLADES": {
+    "pick_rate": 0.5,
+    "win_rate": 0.8,
+    "times_picked": 9,
+    "times_skipped": 9
+  },
+  "INFLAME": {
+    "pick_rate": 0.182,
+    "win_rate": 0.333,
+    "times_picked": 4,
+    "times_skipped": 18
+  },
+  "INJURY": {
     "pick_rate": 0,
     "win_rate": 0.0,
-    "times_picked": 0
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "INTERCEPT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "INVOKE": {
+    "pick_rate": 0.129,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 27
+  },
+  "IRON_WAVE": {
+    "pick_rate": 0.268,
+    "win_rate": 0.2,
+    "times_picked": 11,
+    "times_skipped": 30
+  },
+  "ITERATION": {
+    "pick_rate": 0.273,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 8
+  },
+  "JACK_OF_ALL_TRADES": {
+    "pick_rate": 0.1,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 9
+  },
+  "JACKPOT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "JUGGERNAUT": {
+    "pick_rate": 0.429,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 4
+  },
+  "JUGGLING": {
+    "pick_rate": 0.053,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 18
+  },
+  "KINGLY_KICK": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "KINGLY_PUNCH": {
+    "pick_rate": 0.333,
+    "win_rate": 0.143,
+    "times_picked": 7,
+    "times_skipped": 14
+  },
+  "KNIFE_TRAP": {
+    "pick_rate": 0.5,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "KNOCKDOWN": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "KNOCKOUT_BLOW": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 15
+  },
+  "KNOW_THY_PLACE": {
+    "pick_rate": 0.243,
+    "win_rate": 0.2,
+    "times_picked": 9,
+    "times_skipped": 28
+  },
+  "LANTERN_KEY": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "LARGESSE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.25,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "LEADING_STRIKE": {
+    "pick_rate": 0.129,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 27
+  },
+  "LEAP": {
+    "pick_rate": 0.143,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 24
+  },
+  "LEG_SWEEP": {
+    "pick_rate": 0.077,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 12
+  },
+  "LEGION_OF_BONE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "LETHALITY": {
+    "pick_rate": 0.267,
+    "win_rate": 0.75,
+    "times_picked": 4,
+    "times_skipped": 11
+  },
+  "LIFT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 2
+  },
+  "LIGHTNING_ROD": {
+    "pick_rate": 0.219,
+    "win_rate": 0.143,
+    "times_picked": 7,
+    "times_skipped": 25
+  },
+  "LOOP": {
+    "pick_rate": 0.5,
+    "win_rate": 0.25,
+    "times_picked": 3,
+    "times_skipped": 3
+  },
+  "LUMINESCE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LUNAR_BLAST": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "MACHINE_LEARNING": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "MAD_SCIENCE": {
+    "pick_rate": 0,
+    "win_rate": 0.833,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "MAKE_IT_SO": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "MALAISE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "MANGLE": {
+    "pick_rate": 0.071,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 13
+  },
+  "MANIFEST_AUTHORITY": {
+    "pick_rate": 0.308,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 9
+  },
+  "MASTER_OF_STRATEGY": {
+    "pick_rate": 0.0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "MASTER_PLANNER": {
+    "pick_rate": 0.167,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 5
+  },
+  "MAUL": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "MAYHEM": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "MELANCHOLY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "MEMENTO_MORI": {
+    "pick_rate": 0.067,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 14
+  },
+  "METAMORPHOSIS": {
+    "pick_rate": 0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "METEOR_SHOWER": {
+    "pick_rate": 0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "METEOR_STRIKE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "MIMIC": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "MIND_BLAST": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "MIND_ROT": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINION_DIVE_BOMB": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINION_SACRIFICE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINION_STRIKE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MIRAGE": {
+    "pick_rate": 0.188,
+    "win_rate": 1.0,
+    "times_picked": 3,
+    "times_skipped": 13
+  },
+  "MISERY": {
+    "pick_rate": 0.375,
+    "win_rate": 1.0,
+    "times_picked": 3,
+    "times_skipped": 5
+  },
+  "MODDED": {
+    "pick_rate": 0.333,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 2
+  },
+  "MOLTEN_FIST": {
+    "pick_rate": 0.37,
+    "win_rate": 0.5,
+    "times_picked": 10,
+    "times_skipped": 17
+  },
+  "MOMENTUM_STRIKE": {
+    "pick_rate": 0.417,
+    "win_rate": 0.5,
+    "times_picked": 10,
+    "times_skipped": 14
+  },
+  "MONARCHS_GAZE": {
+    "pick_rate": 0.125,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "MONOLOGUE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.667,
+    "times_picked": 4,
+    "times_skipped": 12
+  },
+  "MULTI_CAST": {
+    "pick_rate": 0.111,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 8
+  },
+  "MURDER": {
+    "pick_rate": 0.167,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 5
+  },
+  "NECRO_MASTERY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "NEGATIVE_PULSE": {
+    "pick_rate": 0.469,
+    "win_rate": 0.333,
+    "times_picked": 15,
+    "times_skipped": 17
+  },
+  "NEOWS_FURY": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "NEUROSURGE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "NEUTRALIZE": {
+    "pick_rate": 0,
+    "win_rate": 0.353,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "NEUTRON_AEGIS": {
+    "pick_rate": 0.8,
+    "win_rate": 0.75,
+    "times_picked": 4,
+    "times_skipped": 1
+  },
+  "NIGHTMARE": {
+    "pick_rate": 0.5,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "NO_ESCAPE": {
+    "pick_rate": 0.417,
+    "win_rate": 0.6,
+    "times_picked": 5,
+    "times_skipped": 7
+  },
+  "NORMALITY": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "NOSTALGIA": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 14
+  },
+  "NOXIOUS_FUMES": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "NULL": {
+    "pick_rate": 0.2,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 16
+  },
+  "OBLIVION": {
+    "pick_rate": 0.2,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "OFFERING": {
+    "pick_rate": 0.273,
+    "win_rate": 0.2,
+    "times_picked": 3,
+    "times_skipped": 8
+  },
+  "OMNISLICE": {
+    "pick_rate": 0.167,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "ONE_TWO_PUNCH": {
+    "pick_rate": 0.286,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 10
+  },
+  "ORBIT": {
+    "pick_rate": 0.235,
+    "win_rate": 0.167,
+    "times_picked": 4,
+    "times_skipped": 13
+  },
+  "OUTBREAK": {
+    "pick_rate": 0.0,
+    "win_rate": 0.5,
+    "times_picked": 0,
+    "times_skipped": 14
+  },
+  "OUTMANEUVER": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "OVERCLOCK": {
+    "pick_rate": 0.182,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 9
+  },
+  "PACTS_END": {
+    "pick_rate": 0.167,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 5
+  },
+  "PAGESTORM": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "PALE_BLUE_DOT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 14
+  },
+  "PANACHE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "PANIC_BUTTON": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "PARRY": {
+    "pick_rate": 0.087,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 21
+  },
+  "PARSE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 10
+  },
+  "PARTICLE_WALL": {
+    "pick_rate": 0.4,
+    "win_rate": 0.75,
+    "times_picked": 8,
+    "times_skipped": 12
+  },
+  "PATTER": {
+    "pick_rate": 0.333,
+    "win_rate": 0.273,
+    "times_picked": 11,
+    "times_skipped": 22
+  },
+  "PECK": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "PERFECTED_STRIKE": {
+    "pick_rate": 0.159,
+    "win_rate": 0.5,
+    "times_picked": 7,
+    "times_skipped": 37
+  },
+  "PHANTOM_BLADES": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "PHOTON_CUT": {
+    "pick_rate": 0.024,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 40
+  },
+  "PIERCING_WAIL": {
+    "pick_rate": 0.31,
+    "win_rate": 0.3,
+    "times_picked": 9,
+    "times_skipped": 20
+  },
+  "PILLAGE": {
+    "pick_rate": 0.071,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 13
+  },
+  "PILLAR_OF_CREATION": {
+    "pick_rate": 0.214,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 11
+  },
+  "PINPOINT": {
+    "pick_rate": 0.154,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 11
+  },
+  "POISONED_STAB": {
+    "pick_rate": 0.067,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 28
+  },
+  "POKE": {
+    "pick_rate": 0.143,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 18
+  },
+  "POMMEL_STRIKE": {
+    "pick_rate": 0.343,
+    "win_rate": 0.667,
+    "times_picked": 12,
+    "times_skipped": 23
+  },
+  "POOR_SLEEP": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POUNCE": {
+    "pick_rate": 0.308,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 9
+  },
+  "PRECISE_CUT": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "PREDATOR": {
+    "pick_rate": 0.067,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 14
+  },
+  "PREP_TIME": {
+    "pick_rate": 0.0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "PREPARED": {
+    "pick_rate": 0.5,
+    "win_rate": 0.5,
+    "times_picked": 14,
+    "times_skipped": 14
+  },
+  "PRIMAL_FORCE": {
+    "pick_rate": 0.091,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 10
+  },
+  "PRODUCTION": {
+    "pick_rate": 0.0,
+    "win_rate": 0.286,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "PROLONG": {
+    "pick_rate": 0.0,
+    "win_rate": 0.4,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "PROPHESIZE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "PROTECTOR": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PROWESS": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "PULL_AGGRO": {
+    "pick_rate": 0.05,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 19
+  },
+  "PULL_FROM_BELOW": {
+    "pick_rate": 0.083,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 11
+  },
+  "PURITY": {
+    "pick_rate": 0.125,
+    "win_rate": 0.667,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "PUTREFY": {
+    "pick_rate": 0.417,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 7
+  },
+  "PYRE": {
+    "pick_rate": 0.364,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 7
+  },
+  "QUADCAST": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "QUASAR": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 3,
+    "times_skipped": 12
+  },
+  "RADIATE": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 9
+  },
+  "RAGE": {
+    "pick_rate": 0.636,
+    "win_rate": 0.545,
+    "times_picked": 14,
+    "times_skipped": 8
+  },
+  "RAINBOW": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "RALLY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "RAMPAGE": {
+    "pick_rate": 0.2,
+    "win_rate": 0.167,
+    "times_picked": 4,
+    "times_skipped": 16
+  },
+  "RATTLE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "REANIMATE": {
+    "pick_rate": 0.5,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "REAP": {
+    "pick_rate": 0.042,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 23
+  },
+  "REAPER_FORM": {
+    "pick_rate": 0.333,
+    "win_rate": 1.0,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "REAVE": {
+    "pick_rate": 0.097,
+    "win_rate": 0.667,
+    "times_picked": 3,
+    "times_skipped": 28
+  },
+  "REBOOT": {
+    "pick_rate": 0.143,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 6
+  },
+  "REBOUND": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "REFINE_BLADE": {
+    "pick_rate": 0.207,
+    "win_rate": 0.0,
+    "times_picked": 6,
+    "times_skipped": 23
+  },
+  "REFLECT": {
+    "pick_rate": 0.583,
+    "win_rate": 0.5,
+    "times_picked": 7,
+    "times_skipped": 5
+  },
+  "REFLEX": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 5
+  },
+  "REFRACT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "REGRET": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "RELAX": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "REND": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 11
+  },
+  "RESONANCE": {
+    "pick_rate": 0.056,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 17
+  },
+  "RESTLESSNESS": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "RICOCHET": {
+    "pick_rate": 0.04,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 24
+  },
+  "RIGHT_HAND_HAND": {
+    "pick_rate": 0.1,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 9
+  },
+  "RIP_AND_TEAR": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ROCKET_PUNCH": {
+    "pick_rate": 0.4,
+    "win_rate": 0.2,
+    "times_picked": 6,
+    "times_skipped": 9
+  },
+  "ROLLING_BOULDER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 18
+  },
+  "ROYAL_GAMBLE": {
+    "pick_rate": 0.6,
+    "win_rate": 0.429,
+    "times_picked": 6,
+    "times_skipped": 4
+  },
+  "ROYALTIES": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "RUPTURE": {
+    "pick_rate": 0.111,
+    "win_rate": 0.4,
+    "times_picked": 2,
+    "times_skipped": 16
+  },
+  "SACRIFICE": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "SALVO": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 21
+  },
+  "SCAVENGE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "SCOURGE": {
+    "pick_rate": 0.156,
+    "win_rate": 0.4,
+    "times_picked": 5,
+    "times_skipped": 27
+  },
+  "SCRAPE": {
+    "pick_rate": 0.105,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 17
+  },
+  "SCRAWL": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "SCULPTING_STRIKE": {
+    "pick_rate": 0.16,
+    "win_rate": 0.5,
+    "times_picked": 4,
+    "times_skipped": 21
+  },
+  "SEANCE": {
+    "pick_rate": 0.5,
+    "win_rate": 0.75,
+    "times_picked": 5,
+    "times_skipped": 5
+  },
+  "SECOND_WIND": {
+    "pick_rate": 0.091,
+    "win_rate": 0.333,
+    "times_picked": 1,
+    "times_skipped": 10
+  },
+  "SECRET_TECHNIQUE": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "SECRET_WEAPON": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "SEEKER_STRIKE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "SEEKING_EDGE": {
+    "pick_rate": 0.333,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 4
+  },
+  "SENTRY_MODE": {
+    "pick_rate": 0.5,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 2
+  },
+  "SERPENT_FORM": {
+    "pick_rate": 0.083,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 11
+  },
+  "SETUP_STRIKE": {
+    "pick_rate": 0.184,
+    "win_rate": 0.25,
+    "times_picked": 7,
+    "times_skipped": 31
+  },
+  "SEVEN_STARS": {
+    "pick_rate": 0.091,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 10
+  },
+  "SEVERANCE": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "SHADOW_SHIELD": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 9
+  },
+  "SHADOW_STEP": {
+    "pick_rate": 0.333,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 4
+  },
+  "SHADOWMELD": {
+    "pick_rate": 0.25,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "SHAME": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SHARED_FATE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "SHATTER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "SHINING_STRIKE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.25,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "SHIV": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SHOCKWAVE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "SHROUD": {
+    "pick_rate": 0.231,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 10
+  },
+  "SHRUG_IT_OFF": {
+    "pick_rate": 0.2,
+    "win_rate": 0.6,
+    "times_picked": 8,
+    "times_skipped": 32
+  },
+  "SIC_EM": {
+    "pick_rate": 0.143,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 12
+  },
+  "SIGNAL_BOOST": {
+    "pick_rate": 0.429,
+    "win_rate": 0.6,
+    "times_picked": 3,
+    "times_skipped": 4
+  },
+  "SKEWER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "SKIM": {
+    "pick_rate": 0.077,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 12
+  },
+  "SLEIGHT_OF_FLESH": {
+    "pick_rate": 0.125,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 14
+  },
+  "SLICE": {
+    "pick_rate": 0.158,
+    "win_rate": 0.4,
+    "times_picked": 6,
+    "times_skipped": 32
+  },
+  "SLIMED": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SLOTH": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SMOKESTACK": {
+    "pick_rate": 0.143,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 6
+  },
+  "SNAKEBITE": {
+    "pick_rate": 0.067,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 28
+  },
+  "SNAP": {
+    "pick_rate": 0.121,
+    "win_rate": 0.0,
+    "times_picked": 4,
+    "times_skipped": 29
+  },
+  "SNEAKY": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SOLAR_STRIKE": {
+    "pick_rate": 0.355,
+    "win_rate": 0.364,
+    "times_picked": 11,
+    "times_skipped": 20
+  },
+  "SOOT": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SOUL": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SOUL_STORM": {
+    "pick_rate": 0.167,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 5
+  },
+  "SOVEREIGN_BLADE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SOW": {
+    "pick_rate": 0.111,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 24
+  },
+  "SPECTRUM_SHIFT": {
+    "pick_rate": 0.167,
+    "win_rate": 0.75,
+    "times_picked": 3,
+    "times_skipped": 15
+  },
+  "SPEEDSTER": {
+    "pick_rate": 0.091,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 10
+  },
+  "SPINNER": {
+    "pick_rate": 0.25,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "SPIRIT_OF_ASH": {
+    "pick_rate": 0.25,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 3
+  },
+  "SPITE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 19
+  },
+  "SPLASH": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "SPOILS_MAP": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "SPOILS_OF_BATTLE": {
+    "pick_rate": 0.062,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 30
+  },
+  "SPORE_MIND": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SPUR": {
+    "pick_rate": 0.273,
+    "win_rate": 0.333,
+    "times_picked": 3,
+    "times_skipped": 8
+  },
+  "SQUASH": {
+    "pick_rate": 0,
+    "win_rate": 0.667,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "SQUEEZE": {
+    "pick_rate": 0.167,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "STACK": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STAMPEDE": {
+    "pick_rate": 0.214,
+    "win_rate": 0.6,
+    "times_picked": 3,
+    "times_skipped": 11
+  },
+  "STARDUST": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 14
+  },
+  "STOKE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "STOMP": {
+    "pick_rate": 0.235,
+    "win_rate": 0.2,
+    "times_picked": 4,
+    "times_skipped": 13
+  },
+  "STONE_ARMOR": {
+    "pick_rate": 0.24,
+    "win_rate": 0.286,
+    "times_picked": 6,
+    "times_skipped": 19
+  },
+  "STORM": {
+    "pick_rate": 0.267,
+    "win_rate": 0.0,
+    "times_picked": 4,
+    "times_skipped": 11
+  },
+  "STORM_OF_STEEL": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 1
+  },
+  "STRANGLE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "STRATAGEM": {
+    "pick_rate": 0.167,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 5
+  },
+  "STRIKE_DEFECT": {
+    "pick_rate": 0,
+    "win_rate": 0.118,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "STRIKE_IRONCLAD": {
+    "pick_rate": 0,
+    "win_rate": 0.259,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "STRIKE_NECROBINDER": {
+    "pick_rate": 0,
+    "win_rate": 0.308,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "STRIKE_REGENT": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "STRIKE_SILENT": {
+    "pick_rate": 0,
+    "win_rate": 0.308,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "SUBROUTINE": {
+    "pick_rate": 0.286,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 10
+  },
+  "SUCKER_PUNCH": {
+    "pick_rate": 0.143,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 24
+  },
+  "SUMMON_FORTH": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "SUNDER": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "SUPERCRITICAL": {
+    "pick_rate": 0.714,
+    "win_rate": 0.5,
+    "times_picked": 5,
+    "times_skipped": 2
+  },
+  "SUPERMASSIVE": {
+    "pick_rate": 0.273,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 8
+  },
+  "SUPPRESS": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "SURVIVOR": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "SWEEPING_BEAM": {
+    "pick_rate": 0.182,
+    "win_rate": 0.25,
+    "times_picked": 4,
+    "times_skipped": 18
+  },
+  "SWEEPING_GAZE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SWORD_BOOMERANG": {
+    "pick_rate": 0.021,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 47
+  },
+  "SWORD_SAGE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 3
+  },
+  "SYNCHRONIZE": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "SYNTHESIS": {
+    "pick_rate": 0.071,
+    "win_rate": 0.667,
+    "times_picked": 1,
+    "times_skipped": 13
+  },
+  "TACTICIAN": {
+    "pick_rate": 0.25,
+    "win_rate": 0.333,
+    "times_picked": 2,
+    "times_skipped": 6
+  },
+  "TAG_TEAM": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 4
+  },
+  "TANK": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 2
+  },
+  "TAUNT": {
+    "pick_rate": 0.688,
+    "win_rate": 0.444,
+    "times_picked": 11,
+    "times_skipped": 5
+  },
+  "TEAR_ASUNDER": {
+    "pick_rate": 0.111,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 8
+  },
+  "TEMPEST": {
+    "pick_rate": 0.111,
+    "win_rate": 1.0,
+    "times_picked": 1,
+    "times_skipped": 8
+  },
+  "TERRAFORMING": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 16
+  },
+  "TESLA_COIL": {
+    "pick_rate": 0.125,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "THE_BOMB": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "THE_GAMBIT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 17
+  },
+  "THE_HUNT": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 8
+  },
+  "THE_SCYTHE": {
+    "pick_rate": 0.4,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 3
+  },
+  "THE_SEALED_THRONE": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "THE_SMITH": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 8
+  },
+  "THINKING_AHEAD": {
+    "pick_rate": 0.0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 7
+  },
+  "THRASH": {
+    "pick_rate": 0.167,
+    "win_rate": 0.5,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "THRUMMING_HATCHET": {
+    "pick_rate": 0.143,
+    "win_rate": 0.667,
+    "times_picked": 1,
+    "times_skipped": 6
+  },
+  "THUNDER": {
+    "pick_rate": 0.222,
+    "win_rate": 0.4,
+    "times_picked": 2,
+    "times_skipped": 7
+  },
+  "THUNDERCLAP": {
+    "pick_rate": 0.163,
+    "win_rate": 0.4,
+    "times_picked": 7,
+    "times_skipped": 36
+  },
+  "TIMES_UP": {
+    "pick_rate": 0.5,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 1
+  },
+  "TOOLS_OF_THE_TRADE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 4
+  },
+  "TORIC_TOUGHNESS": {
+    "pick_rate": 0,
+    "win_rate": 0.75,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "TOXIC": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TRACKING": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "TRANSFIGURE": {
+    "pick_rate": 0.2,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "TRASH_TO_TREASURE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.0,
+    "times_picked": 1,
+    "times_skipped": 2
+  },
+  "TREMBLE": {
+    "pick_rate": 0.143,
+    "win_rate": 0.333,
+    "times_picked": 8,
+    "times_skipped": 48
+  },
+  "TRUE_GRIT": {
+    "pick_rate": 0.178,
+    "win_rate": 0.286,
+    "times_picked": 8,
+    "times_skipped": 37
+  },
+  "TURBO": {
+    "pick_rate": 0.316,
+    "win_rate": 0.333,
+    "times_picked": 6,
+    "times_skipped": 13
+  },
+  "TWIN_STRIKE": {
+    "pick_rate": 0.132,
+    "win_rate": 0.5,
+    "times_picked": 5,
+    "times_skipped": 33
+  },
+  "TYRANNY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 14
+  },
+  "ULTIMATE_DEFEND": {
+    "pick_rate": 0.0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 12
+  },
+  "ULTIMATE_STRIKE": {
+    "pick_rate": 0.0,
+    "win_rate": 0.2,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "UNDEATH": {
+    "pick_rate": 0.75,
+    "win_rate": 0.25,
+    "times_picked": 3,
+    "times_skipped": 1
+  },
+  "UNLEASH": {
+    "pick_rate": 0,
+    "win_rate": 0.333,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "UNMOVABLE": {
+    "pick_rate": 0.333,
+    "win_rate": 0.5,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "UNRELENTING": {
+    "pick_rate": 0.267,
+    "win_rate": 0.6,
+    "times_picked": 4,
+    "times_skipped": 11
+  },
+  "UNTOUCHABLE": {
+    "pick_rate": 0.37,
+    "win_rate": 0.111,
+    "times_picked": 10,
+    "times_skipped": 17
+  },
+  "UP_MY_SLEEVE": {
+    "pick_rate": 0.267,
+    "win_rate": 0.75,
+    "times_picked": 4,
+    "times_skipped": 11
+  },
+  "UPPERCUT": {
+    "pick_rate": 0.083,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 11
+  },
+  "UPROAR": {
+    "pick_rate": 0.083,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 22
+  },
+  "VEILPIERCER": {
+    "pick_rate": 0.125,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 7
+  },
+  "VENERATE": {
+    "pick_rate": 0,
+    "win_rate": 0.385,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "VICIOUS": {
+    "pick_rate": 0.154,
+    "win_rate": 1.0,
+    "times_picked": 2,
+    "times_skipped": 11
+  },
+  "VOID": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VOID_FORM": {
+    "pick_rate": 0.2,
+    "win_rate": 0.5,
+    "times_picked": 1,
+    "times_skipped": 4
+  },
+  "VOLLEY": {
+    "pick_rate": 0.0,
+    "win_rate": 0,
+    "times_picked": 0,
+    "times_skipped": 6
+  },
+  "VOLTAIC": {
+    "pick_rate": 0.5,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 2
+  },
+  "WASTE_AWAY": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WELL_LAID_PLANS": {
+    "pick_rate": 0.333,
+    "win_rate": 0.0,
+    "times_picked": 3,
+    "times_skipped": 6
+  },
+  "WHIRLWIND": {
+    "pick_rate": 0.1,
+    "win_rate": 0.0,
+    "times_picked": 2,
+    "times_skipped": 18
+  },
+  "WHISTLE": {
+    "pick_rate": 0,
+    "win_rate": 1.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "WHITE_NOISE": {
+    "pick_rate": 0.167,
+    "win_rate": 0.667,
+    "times_picked": 2,
+    "times_skipped": 10
+  },
+  "WISH": {
+    "pick_rate": 0,
+    "win_rate": 0.0,
+    "times_picked": 0,
+    "times_skipped": 0
+  },
+  "WISP": {
+    "pick_rate": 0.419,
+    "win_rate": 0.3,
+    "times_picked": 13,
+    "times_skipped": 18
+  },
+  "WOUND": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WRAITH_FORM": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WRITHE": {
+    "pick_rate": null,
+    "win_rate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WROUGHT_IN_WAR": {
+    "pick_rate": 0.184,
+    "win_rate": 0.286,
+    "times_picked": 9,
+    "times_skipped": 40
+  },
+  "ZAP": {
+    "pick_rate": 0,
+    "win_rate": 0.286,
+    "times_picked": 0,
+    "times_skipped": 0
   }
-]
+}

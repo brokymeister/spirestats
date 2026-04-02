@@ -1,524 +1,437 @@
-[
-  {
-    "id": "AXEBOTS_NORMAL",
+{
+  "AXEBOTS_NORMAL": {
     "name": "Bot Buddies",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "BATTLEWORN_DUMMY_EVENT_ENCOUNTER",
+  "BATTLEWORN_DUMMY_EVENT_ENCOUNTER": {
     "name": "Battleworn Dummy",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "BOWLBUGS_NORMAL",
+  "BOWLBUGS_NORMAL": {
     "name": "Bowlbug Swarm",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "BOWLBUGS_WEAK",
+  "BOWLBUGS_WEAK": {
     "name": "Bowlbugs",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "BYGONE_EFFIGY_ELITE",
+  "BYGONE_EFFIGY_ELITE": {
     "name": "Bygone Effigy",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "BYRDONIS_ELITE",
+  "BYRDONIS_ELITE": {
     "name": "Byrdonis",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "CEREMONIAL_BEAST_BOSS",
+  "CEREMONIAL_BEAST_BOSS": {
     "name": "Ceremonial Beast",
     "type": "Boss",
     "act": 1
   },
-  {
-    "id": "CHOMPERS_NORMAL",
+  "CHOMPERS_NORMAL": {
     "name": "An Automaton Pair",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "CONSTRUCT_MENAGERIE_NORMAL",
+  "CONSTRUCT_MENAGERIE_NORMAL": {
     "name": "Construct Menagerie",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "CORPSE_SLUGS_NORMAL",
+  "CORPSE_SLUGS_NORMAL": {
     "name": "Many Corpse Slugs",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "CORPSE_SLUGS_WEAK",
+  "CORPSE_SLUGS_WEAK": {
     "name": "Corpse Slugs",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "CUBEX_CONSTRUCT_NORMAL",
+  "CUBEX_CONSTRUCT_NORMAL": {
     "name": "Cubex Construct",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "CULTISTS_NORMAL",
+  "CULTISTS_NORMAL": {
     "name": "Cultists",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "DECIMILLIPEDE_ELITE",
+  "DECIMILLIPEDE_ELITE": {
     "name": "The Decimillipede",
     "type": "Elite",
     "act": 2
   },
-  {
-    "id": "DENSE_VEGETATION_EVENT_ENCOUNTER",
+  "DENSE_VEGETATION_EVENT_ENCOUNTER": {
     "name": "Wrigglers",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "DEVOTED_SCULPTOR_WEAK",
+  "DEVOTED_SCULPTOR_WEAK": {
     "name": "Devoted Sculptor",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "DOORMAKER_BOSS",
+  "DOORMAKER_BOSS": {
     "name": "The Doormaker",
     "type": "Boss",
     "act": 3
   },
-  {
-    "id": "ENTOMANCER_ELITE",
+  "ENTOMANCER_ELITE": {
     "name": "Entomancer",
     "type": "Elite",
     "act": 2
   },
-  {
-    "id": "EXOSKELETONS_NORMAL",
+  "EXOSKELETONS_NORMAL": {
     "name": "Many Exoskeletons",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "EXOSKELETONS_WEAK",
+  "EXOSKELETONS_WEAK": {
     "name": "Exoskeletons",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "FABRICATOR_NORMAL",
+  "FABRICATOR_NORMAL": {
     "name": "Fabricator",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "FAKE_MERCHANT_EVENT_ENCOUNTER",
+  "FAKE_MERCHANT_EVENT_ENCOUNTER": {
     "name": "The Merchant???",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "FLYCONID_NORMAL",
+  "FLYCONID_NORMAL": {
     "name": "Shroom and Slime",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "FOGMOG_NORMAL",
+  "FOGMOG_NORMAL": {
     "name": "Fogmog",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "FOSSIL_STALKER_NORMAL",
+  "FOSSIL_STALKER_NORMAL": {
     "name": "Fossil Stalker",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "FROG_KNIGHT_NORMAL",
+  "FROG_KNIGHT_NORMAL": {
     "name": "Frog Knight",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "FUZZY_WURM_CRAWLER_WEAK",
+  "FUZZY_WURM_CRAWLER_WEAK": {
     "name": "Fuzzy Wurm Crawler",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "GLOBE_HEAD_NORMAL",
+  "GLOBE_HEAD_NORMAL": {
     "name": "A Lone Globe Head",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "GREMLIN_MERC_NORMAL",
+  "GREMLIN_MERC_NORMAL": {
     "name": "Two Gremlins in a Trenchcoat",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "HAUNTED_SHIP_NORMAL",
+  "HAUNTED_SHIP_NORMAL": {
     "name": "Haunted Ship",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "HUNTER_KILLER_NORMAL",
+  "HUNTER_KILLER_NORMAL": {
     "name": "Hunter Killer",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "INFESTED_PRISMS_ELITE",
+  "INFESTED_PRISMS_ELITE": {
     "name": "Infested Prism",
     "type": "Elite",
     "act": 2
   },
-  {
-    "id": "INKLETS_NORMAL",
+  "INKLETS_NORMAL": {
     "name": "Inklets",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "KAISER_CRAB_BOSS",
+  "KAISER_CRAB_BOSS": {
     "name": "Kaiser Crab",
     "type": "Boss",
     "act": 2
   },
-  {
-    "id": "KNIGHTS_ELITE",
+  "KNIGHTS_ELITE": {
     "name": "Knight Gang",
     "type": "Elite",
     "act": 3
   },
-  {
-    "id": "KNOWLEDGE_DEMON_BOSS",
+  "KNOWLEDGE_DEMON_BOSS": {
     "name": "Knowledge Demon",
     "type": "Boss",
     "act": 2
   },
-  {
-    "id": "LAGAVULIN_MATRIARCH_BOSS",
+  "LAGAVULIN_MATRIARCH_BOSS": {
     "name": "Lagavulin Matriarch",
     "type": "Boss",
     "act": 1
   },
-  {
-    "id": "LIVING_FOG_NORMAL",
+  "LIVING_FOG_NORMAL": {
     "name": "Evil Gas",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "LOUSE_PROGENITOR_NORMAL",
+  "LOUSE_PROGENITOR_NORMAL": {
     "name": "Louse Progenitor",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "MAWLER_NORMAL",
+  "MAWLER_NORMAL": {
     "name": "Mawler",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "MECHA_KNIGHT_ELITE",
+  "MECHA_KNIGHT_ELITE": {
     "name": "Mecha Knight",
     "type": "Elite",
     "act": 3
   },
-  {
-    "id": "MYSTERIOUS_KNIGHT_EVENT_ENCOUNTER",
+  "MYSTERIOUS_KNIGHT_EVENT_ENCOUNTER": {
     "name": "Mysterious Knight",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "MYTES_NORMAL",
+  "MYTES_NORMAL": {
     "name": "Mass of Mytes",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "NIBBITS_NORMAL",
+  "NIBBITS_NORMAL": {
     "name": "A Pair of Nibbits",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "NIBBITS_WEAK",
+  "NIBBITS_WEAK": {
     "name": "A Lone Nibbit",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "OVERGROWTH_CRAWLERS",
+  "OVERGROWTH_CRAWLERS": {
     "name": "Overgrowth Crawlers",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "OVICOPTER_NORMAL",
+  "OVICOPTER_NORMAL": {
     "name": "Ovicopter",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "OWL_MAGISTRATE_NORMAL",
+  "OWL_MAGISTRATE_NORMAL": {
     "name": "Owl Magistrate",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "PHANTASMAL_GARDENERS_ELITE",
+  "PHANTASMAL_GARDENERS_ELITE": {
     "name": "Phantasmal Gardeners",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "PHROG_PARASITE_ELITE",
+  "PHROG_PARASITE_ELITE": {
     "name": "Phrog Parasite",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "PUNCH_CONSTRUCT_NORMAL",
+  "PUNCH_CONSTRUCT_NORMAL": {
     "name": "Punch Construct",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "PUNCH_OFF_EVENT_ENCOUNTER",
+  "PUNCH_OFF_EVENT_ENCOUNTER": {
     "name": "Punch Constructs",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "QUEEN_BOSS",
+  "QUEEN_BOSS": {
     "name": "Queen",
     "type": "Boss",
     "act": 3
   },
-  {
-    "id": "RUBY_RAIDERS_NORMAL",
+  "RUBY_RAIDERS_NORMAL": {
     "name": "Ruby Raiders",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SCROLLS_OF_BITING_NORMAL",
+  "SCROLLS_OF_BITING_NORMAL": {
     "name": "Many Scrolls of Biting",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "SCROLLS_OF_BITING_WEAK",
+  "SCROLLS_OF_BITING_WEAK": {
     "name": "Scrolls of Biting",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "SEAPUNK_WEAK",
+  "SEAPUNK_WEAK": {
     "name": "Seapunk",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SEWER_CLAM_NORMAL",
+  "SEWER_CLAM_NORMAL": {
     "name": "Sewer Clam",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SHRINKER_BEETLE_WEAK",
+  "SHRINKER_BEETLE_WEAK": {
     "name": "Shrinker Beetle",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SKULKING_COLONY_ELITE",
+  "SKULKING_COLONY_ELITE": {
     "name": "Skulking Colony",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "SLIMED_BERSERKER_NORMAL",
+  "SLIMED_BERSERKER_NORMAL": {
     "name": "Slimed Berserker",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "SLIMES_NORMAL",
+  "SLIMES_NORMAL": {
     "name": "Swarm of Slimes",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SLIMES_WEAK",
+  "SLIMES_WEAK": {
     "name": "Group of Slimes",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SLITHERING_STRANGLER_NORMAL",
+  "SLITHERING_STRANGLER_NORMAL": {
     "name": "Strangler and Friend",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SLUDGE_SPINNER_WEAK",
+  "SLUDGE_SPINNER_WEAK": {
     "name": "Sludge Spinner",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SLUMBERING_BEETLE_NORMAL",
+  "SLUMBERING_BEETLE_NORMAL": {
     "name": "Slumber Party",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "SNAPPING_JAXFRUIT_NORMAL",
+  "SNAPPING_JAXFRUIT_NORMAL": {
     "name": "Overgrowth Flora",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "SOUL_FYSH_BOSS",
+  "SOUL_FYSH_BOSS": {
     "name": "Soul Fysh",
     "type": "Boss",
     "act": 1
   },
-  {
-    "id": "SOUL_NEXUS_ELITE",
+  "SOUL_NEXUS_ELITE": {
     "name": "Soul Nexus",
     "type": "Elite",
     "act": 3
   },
-  {
-    "id": "SPINY_TOAD_NORMAL",
+  "SPINY_TOAD_NORMAL": {
     "name": "Spiny Toad",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "TERROR_EEL_ELITE",
+  "TERROR_EEL_ELITE": {
     "name": "Terror Eel",
     "type": "Elite",
     "act": 1
   },
-  {
-    "id": "TEST_SUBJECT_BOSS",
+  "TEST_SUBJECT_BOSS": {
     "name": "Test Subject",
     "type": "Boss",
     "act": 3
   },
-  {
-    "id": "THE_ARCHITECT_EVENT_ENCOUNTER",
+  "THE_ARCHITECT_EVENT_ENCOUNTER": {
     "name": "The Architect",
     "type": "Monster",
     "act": null
   },
-  {
-    "id": "THE_INSATIABLE_BOSS",
+  "THE_INSATIABLE_BOSS": {
     "name": "The Insatiable",
     "type": "Boss",
     "act": 2
   },
-  {
-    "id": "THE_KIN_BOSS",
+  "THE_KIN_BOSS": {
     "name": "The Kin",
     "type": "Boss",
     "act": 1
   },
-  {
-    "id": "THE_LOST_AND_FORGOTTEN_NORMAL",
+  "THE_LOST_AND_FORGOTTEN_NORMAL": {
     "name": "Lost and Forgotten",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "THE_OBSCURA_NORMAL",
+  "THE_OBSCURA_NORMAL": {
     "name": "The Obscura",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "THIEVING_HOPPER_WEAK",
+  "THIEVING_HOPPER_WEAK": {
     "name": "Thieving Hopper",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "TOADPOLES_NORMAL",
+  "TOADPOLES_NORMAL": {
     "name": "Underdocks Wildlife",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "TOADPOLES_WEAK",
+  "TOADPOLES_WEAK": {
     "name": "Toadpoles",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "TUNNELER_NORMAL",
+  "TUNNELER_NORMAL": {
     "name": "Tunneling Twosome",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "TUNNELER_WEAK",
+  "TUNNELER_WEAK": {
     "name": "Tunneler",
     "type": "Monster",
     "act": 2
   },
-  {
-    "id": "TURRET_OPERATOR_WEAK",
+  "TURRET_OPERATOR_WEAK": {
     "name": "Turret Operator",
     "type": "Monster",
     "act": 3
   },
-  {
-    "id": "TWO_TAILED_RATS_NORMAL",
+  "TWO_TAILED_RATS_NORMAL": {
     "name": "Two-Tailed Rats",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "VANTOM_BOSS",
+  "VANTOM_BOSS": {
     "name": "Vantom",
     "type": "Boss",
     "act": 1
   },
-  {
-    "id": "VINE_SHAMBLER_NORMAL",
+  "VINE_SHAMBLER_NORMAL": {
     "name": "Vine Shambler",
     "type": "Monster",
     "act": 1
   },
-  {
-    "id": "WATERFALL_GIANT_BOSS",
+  "WATERFALL_GIANT_BOSS": {
     "name": "Waterfall Giant",
     "type": "Boss",
     "act": 1
   }
-]
+}

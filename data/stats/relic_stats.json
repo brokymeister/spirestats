@@ -1,0 +1,2314 @@
+{
+  "AKABEKO": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ALCHEMICAL_COFFER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "AMETHYST_AUBERGINE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ANCHOR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ARCANE_SCROLL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ARCHAIC_TOOTH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ART_OF_WAR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ASTROLABE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BAG_OF_MARBLES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BAG_OF_PREPARATION": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BEATING_REMNANT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BEAUTIFUL_BRACELET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BELLOWS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BELT_BUCKLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BIG_HAT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BIG_MUSHROOM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BIIIG_HUG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BING_BONG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BLACK_BLOOD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BLACK_STAR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BLESSED_ANTLER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BLOOD_SOAKED_ROSE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BLOOD_VIAL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BONE_FLUTE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BONE_TEA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOOK_OF_FIVE_RINGS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOOK_REPAIR_KNIFE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOOKMARK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOOMING_CONCH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOUND_PHYLACTERY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BOWLER_HAT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BREAD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BRILLIANT_SCARF": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BRIMSTONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BRONZE_SCALES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BURNING_BLOOD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BURNING_STICKS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "BYRDPIP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CALLING_BELL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CANDELABRA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CAPTAINS_WHEEL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CAULDRON": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CENTENNIAL_PUZZLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CHANDELIER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CHARONS_ASHES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CHEMICAL_X": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CHOICES_PARADOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CHOSEN_CHEESE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CIRCLET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CLAWS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CLOAK_CLASP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CRACKED_CORE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CROSSBOW": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "CURSED_PEARL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DARKSTONE_PERIAPT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DATA_DISK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DAUGHTER_OF_THE_WIND": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DELICATE_FROND": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DEMON_TONGUE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DIAMOND_DIADEM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DINGY_RUG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DISTINGUISHED_CAPE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DIVINE_DESTINY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DIVINE_RIGHT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DOLLYS_MIRROR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DRAGON_FRUIT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DREAM_CATCHER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DRIFTWOOD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "DUSTY_TOME": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ECTOPLASM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ELECTRIC_SHRYMP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "EMBER_TEA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "EMOTION_CHIP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "EMPTY_CAGE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ETERNAL_FEATHER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_ANCHOR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_BLOOD_VIAL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_HAPPY_FLOWER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_LEES_WAFFLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_MANGO": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_MERCHANTS_RUG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_ORICHALCUM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_SNECKO_EYE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_STRIKE_DUMMY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FAKE_VENERABLE_TEA_SET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FENCING_MANUAL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FESTIVE_POPPER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FIDDLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FORGOTTEN_SOUL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FRAGRANT_MUSHROOM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FRESNEL_LENS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FROZEN_EGG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FUNERARY_MASK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "FUR_COAT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GALACTIC_DUST": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GAMBLING_CHIP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GAME_PIECE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GHOST_SEED": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GIRYA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GLASS_EYE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GLITTER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GNARLED_HAMMER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GOLD_PLATED_CABLES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GOLDEN_COMPASS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GOLDEN_PEARL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GORGET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "GREMLIN_HORN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HAND_DRILL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HAPPY_FLOWER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HELICAL_DART": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HISTORY_COURSE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "HORN_CLEAT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ICE_CREAM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "INFUSED_CORE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "INTIMIDATING_HELMET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "IRON_CLUB": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "IVORY_TILE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "JEWELED_MASK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "JEWELRY_BOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "JOSS_PAPER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "JUZU_BRACELET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "KIFUDA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "KUNAI": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "KUSARIGAMA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LANTERN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LARGE_CAPSULE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LASTING_CANDY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LAVA_LAMP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LAVA_ROCK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LEAD_PAPERWEIGHT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LEAFY_POULTICE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LEES_WAFFLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LETTER_OPENER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LIZARD_TAIL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LOOMING_FRUIT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LORDS_PARASOL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LOST_COFFER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LOST_WISP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LUCKY_FYSH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "LUNAR_PASTRY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MANGO": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MASSIVE_SCROLL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MAW_BANK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MEAL_TICKET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MEAT_CLEAVER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MEAT_ON_THE_BONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MEMBERSHIP_CARD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MERCURY_HOURGLASS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "METRONOME": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINI_REGENT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINIATURE_CANNON": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MINIATURE_TENT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MOLTEN_EGG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MR_STRUGGLES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MUMMIFIED_HAND": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MUSIC_BOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "MYSTIC_LIGHTER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NEOWS_TORMENT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NEW_LEAF": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NINJA_SCROLL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NUNCHAKU": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NUTRITIOUS_OYSTER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "NUTRITIOUS_SOUP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ODDLY_SMOOTH_STONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "OLD_COIN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ORANGE_DOUGH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ORICHALCUM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ORNAMENTAL_FAN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ORRERY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_BLOOD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_CLAW": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_EYE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_FLESH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_GROWTH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_HORN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_LEGION": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_TEARS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_TOOTH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAELS_WING": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PANDORAS_BOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PANTOGRAPH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAPER_KRANE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PAPER_PHROG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PARRYING_SHIELD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PEAR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PEN_NIB": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PENDULUM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PERMAFROST": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PETRIFIED_TOAD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PHILOSOPHERS_STONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PHYLACTERY_UNBOUND": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PLANISPHERE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POCKETWATCH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POLLINOUS_CORE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POMANDER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POTION_BELT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "POWER_CELL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PRAYER_WHEEL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PRECARIOUS_SHEARS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PRECISE_SCISSORS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PRESERVED_FOG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PRISMATIC_GEM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PUMPKIN_CANDLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "PUNCH_DAGGER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RADIANT_PEARL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RAINBOW_RING": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RAZOR_TOOTH": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RED_MASK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RED_SKULL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "REGAL_PILLOW": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "REGALITE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "REPTILE_TRINKET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RING_OF_THE_DRAKE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RING_OF_THE_SNAKE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RINGING_TRIANGLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RIPPLE_BASIN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ROYAL_POISON": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "ROYAL_STAMP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RUINED_HELMET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RUNIC_CAPACITOR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "RUNIC_PYRAMID": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SAI": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SAND_CASTLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SCREAMING_FLAGON": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SCROLL_BOXES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SEA_GLASS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SEAL_OF_GOLD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SELF_FORMING_CLAY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SERE_TALON": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SHOVEL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SHURIKEN": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SIGNET_RING": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SILVER_CRUCIBLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SLING_OF_COURAGE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SMALL_CAPSULE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SNECKO_EYE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SNECKO_SKULL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SOZU": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SPARKLING_ROUGE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SPIKED_GAUNTLETS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STONE_CALENDAR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STONE_CRACKER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STONE_HUMIDIFIER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STORYBOOK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STRAWBERRY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STRIKE_DUMMY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "STURDY_CLAMP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SWORD_OF_JADE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SWORD_OF_STONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "SYMBIOTIC_VIRUS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TANXS_WHISTLE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TEA_OF_DISCOURTESY": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "THE_ABACUS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "THE_BOOT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "THE_COURIER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "THROWING_AXE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TINGSHA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TINY_MAILBOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOASTY_MITTENS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOOLBOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOUCH_OF_OROBAS": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOUGH_BANDAGES": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOXIC_EGG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TOY_BOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TRI_BOOMERANG": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TUNGSTEN_ROD": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TUNING_FORK": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "TWISTED_FUNNEL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "UNCEASING_TOP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "UNDYING_SIGIL": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "UNSETTLING_LAMP": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VAJRA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VAKUU_CARD_SELECTOR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VAMBRACE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VELVET_CHOKER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VENERABLE_TEA_SET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VERY_HOT_COCOA": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VEXING_PUZZLEBOX": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "VITRUVIAN_MINION": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WAR_HAMMER": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WAR_PAINT": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WHETSTONE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WHISPERING_EARRING": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WHITE_BEAST_STATUE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WHITE_STAR": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WING_CHARM": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WONGO_CUSTOMER_APPRECIATION_BADGE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "WONGOS_MYSTERY_TICKET": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  },
+  "YUMMY_COOKIE": {
+    "times_won": null,
+    "times_lost": null,
+    "winrate": null,
+    "pickrate": null,
+    "times_picked": null,
+    "times_skipped": null
+  }
+}
