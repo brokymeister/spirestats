@@ -1,10 +1,15 @@
 import json
+from pathlib import Path
+from retrieve_run_stats import locate_folder
 
-card_data_path = "data/progress.save"
 card_stats_path = "data/stats/card_stats.json"
 
 def update_stats():
-    with open(card_data_path, "r") as f: # open progress.save
+    folder, _ = locate_folder()
+    temp = Path(folder)
+    data_path = temp.parent / "progress.save"
+
+    with open(data_path, "r") as f: # open progress.save
         new_data = json.load(f)
 
     with open(card_stats_path, "r") as f: # open existing card stats file
@@ -21,8 +26,8 @@ def update_stats():
         card_id = card["id"].replace("CARD.", "")
 
         existing[card_id] = {
-            "pick_rate": pick_rate,
-            "win_rate": win_rate,
+            "pickrate": pick_rate,
+            "winrate": win_rate,
             "times_picked": picked,
             "times_skipped": skipped,
             "synergies": existing[card_id]["synergies"]

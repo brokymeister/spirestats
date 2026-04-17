@@ -51,7 +51,7 @@ def write_encounter_stats(stats):
         existing = json.load(f)
 
     for eid, enc_stats in stats["encounters"].items():
-        winrate = round(enc_stats["wins"] / enc_stats["battles"]) if enc_stats["battles"] > 0 else 0 # avoid divide by 0 error
+        winrate = round(enc_stats["wins"] / enc_stats["battles"], 3) if enc_stats["battles"] > 0 else 0 # avoid divide by 0 error
         existing[eid] = {
             "winrate": winrate,
             "wins": enc_stats["wins"],
